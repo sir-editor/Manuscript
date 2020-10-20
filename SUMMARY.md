@@ -24,6 +24,7 @@
   * [Compatibility](extensions/watchtower/compatibility.md)
   * [Change log](extensions/watchtower/change-log.md)
   * [Uninstall](extensions/watchtower/uninstall.md)
+* [Test](extensions/test/README.md)
 
 ## Website
 
@@ -34,4 +35,3 @@
 ---
 
 * [Support](support.md)
-
