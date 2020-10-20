@@ -4,6 +4,7 @@
 
 ## Extensions
 
+* [Excalibur](extensions/excalibur/README.md)
 * [Watchtower](extensions/watchtower/README.md)
   * [What is it for?](extensions/watchtower/what-is-it-for.md)
   * [How it works](extensions/watchtower/how-it-works.md)
@@ -24,7 +25,6 @@
   * [Compatibility](extensions/watchtower/compatibility.md)
   * [Change log](extensions/watchtower/change-log.md)
   * [Uninstall](extensions/watchtower/uninstall.md)
-* [Test](extensions/test/README.md)
 
 ## Website
 
