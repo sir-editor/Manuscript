@@ -1,6 +1,7 @@
 # Uninstall
 
-To uninstall Watchtower, remove “**knights\_of\_the\_editing\_table.watchtower**” folder from:
+To uninstall Watchtower, remove  
+“**knights\_of\_the\_editing\_table.watchtower**” folder from:
 
 | os | path |
 | :--- | :--- |
