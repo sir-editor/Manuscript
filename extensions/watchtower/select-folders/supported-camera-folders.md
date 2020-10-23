@@ -15,5 +15,3 @@
 Need more? Write me:[ support@knightsoftheeditingtable.com](mailto:support@knightsoftheeditingtable.com)
 {% endhint %}
 
-
-
