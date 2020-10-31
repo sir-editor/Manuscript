@@ -8,7 +8,7 @@
 
 #### Settings:
 
-* check for duplicates in whole project during import checkbox added
+* "Check whole project for duplicates during import" checkbox added
 * folder name regex filter now is case-insensitive
 * UI update
 

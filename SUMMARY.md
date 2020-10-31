@@ -13,6 +13,7 @@
     * [Supported camera folders](extensions/watchtower/select-folders/supported-camera-folders.md)
     * [Keyboard shortcuts](extensions/watchtower/select-folders/keyboard-shortcuts.md)
   * [Settings](extensions/watchtower/settings/README.md)
+    * [Check whole project for duplicates during import](extensions/watchtower/settings/check-whole-project-for-duplicates-during-import.md)
     * [Regex folder name filter](extensions/watchtower/settings/regex-folder-name-filter.md)
     * [Anonymous usage data](extensions/watchtower/settings/anonymous-usage-data.md)
   * [Pro Tips](extensions/watchtower/pro-tips/README.md)
