@@ -1,5 +1,17 @@
 # Change log
 
+## 1.3.2 — 2020-10-31
+
+#### SETTINGS:
+
+* check for duplicates in whole project during import checkbox added
+* folder name regex filter now is case-insensitive
+* UI update
+
+#### FOLDERS MENU:
+
+* UI update
+
 ## 1.3.1 — 2020-07-28
 
 #### SETTINGS:
