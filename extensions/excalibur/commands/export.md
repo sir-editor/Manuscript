@@ -1,0 +1,34 @@
+# Export
+
+## Export Media
+
+Shows export dialog and launches Media Encoder render job with specified settings.
+
+![](../../../.gitbook/assets/export_01_media.jpg)
+
+Export dialog lists user export presets. If no presets available, open Media Encoder and create user export preset.
+
+## Export Selected Clips
+
+Shows export dialog and launches Media Encoder render job for each selected clip with specified settings.
+
+![](../../../.gitbook/assets/export_02_selected_clips.gif)
+
+Export dialog lists user export presets. If no presets available, open Media Encoder and create user export preset.
+
+{% hint style="warning" %}
+Export Selected Clips command works only for video files. If you would like same feature for audio files, please let me know.
+{% endhint %}
+
+## Export Frame
+
+Exports frame at playhead position.
+
+![](../../../.gitbook/assets/export_03_frame.jpg)
+
+## Export Frames at Markers
+
+Exports frames at all markers in the sequence.
+
+![](../../../.gitbook/assets/export_04_frames_markers.gif)
+
