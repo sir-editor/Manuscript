@@ -8,12 +8,12 @@ Excalibur is a complex extension. It consists of three modules:
 
 ## Shortcut Listener
 
-There is no possibility in Premiere Pro API to register shortcut press and  execute attached action. This is a big limitation for developers.
+There is no possibility in Premiere Pro API to register shortcut press and execute attached action. This is a big limitation for developers.
 
 Essentially any program that has shortcuts has a shortcut listener, e.g.:  
 Keyboard Maestro, AutoHotKey, Alfred.
 
-That is why I developed a second extension, that goes along with Excalibur:   [**Spellbook**](../spellbook/)  
+That is why I developed a second extension, that goes along with Excalibur: [**Spellbook**](../spellbook/)  
 It listens for shortcut press inside Premiere Pro only, this allows to assign shortcuts to Excalibur search bar and any other command.
 
 ## Premiere Pro API

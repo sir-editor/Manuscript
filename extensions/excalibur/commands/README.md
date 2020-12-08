@@ -12,5 +12,3 @@ Commands are divided into 9 categories:
 * [Video/Audio Presets](video-audio-presets.md)
 * [Video/Audio Transitions](video-audio-transitions.md)
 
-
-

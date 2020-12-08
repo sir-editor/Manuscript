@@ -13,8 +13,8 @@ Replaces existing value with a new one. If property has stopwatch enabled, linea
 Adds or substracts from existing value. If property has stopwatch enabled, linear keyframe will be created.
 
 {% hint style="info" %}
-Create  two User Commands for scale, using **add value** setting:  
-`scale_up:   +5  
+Create two User Commands for scale, using **add value** setting:  
+`scale_up: +5    
 scale_down: -5`  
 Assign keyboard for each command. Now it is possible to control clip scale with a keyboard.
 

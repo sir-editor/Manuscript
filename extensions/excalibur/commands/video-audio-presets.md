@@ -4,7 +4,7 @@
 
 Video preset is applied to selected clips.
 
-![](../../../.gitbook/assets/presets_01_video.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/presets_01_video.gif)
 
 ## Audio Presets
 
@@ -14,15 +14,13 @@ By default audio effect is applied to selected clips.
 
 ### Apply to Selected Clips
 
-![](../../../.gitbook/assets/presets_02_audio.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/presets_02_audio.gif)
 
 ### Apply to Audio Track
 
-![](../../../.gitbook/assets/presets_03_audio_track.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/presets_03_audio_track.gif)
 
 {% hint style="warning" %}
 If audio preset will be added to audio track, effects will be added, but values will be set to default.
 {% endhint %}
-
-
 

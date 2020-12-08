@@ -56,7 +56,6 @@
   * [Open Source](extensions/spellbook/open-source.md)
   * [Uninstall](extensions/spellbook/uninstall.md)
 
-
 ## Website
 
 * [Blacksmith](website/blacksmith/README.md)

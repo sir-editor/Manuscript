@@ -4,7 +4,7 @@
 
 Video effect is applied to selected clips.
 
-![](../../../.gitbook/assets/fx_01_warp.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/fx_01_warp.gif)
 
 ## Audio Effects
 
@@ -14,9 +14,9 @@ By default audio effect is applied to selected clips.
 
 ### Apply to Selected Clips
 
-![](../../../.gitbook/assets/fx_02_eq.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/fx_02_eq.gif)
 
 ### Apply to Audio Track
 
-![](../../../.gitbook/assets/fx_03_eq_track.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/fx_03_eq_track.gif)
 

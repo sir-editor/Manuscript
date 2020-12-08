@@ -12,17 +12,17 @@ When used it will press defined shortcut.
 * You can customise some of the commands.
 * If you need another command to add, click on "add command" button again.
 
-![](../../../.gitbook/assets/ucom_01_create.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/ucom_01_create.gif)
 
 ## Edit User Command
 
 * Select User Command and click on "Edit Command" button.
 * To reorder commands, click on "**≡**" symbol. Commands will fold, now click and drag "**≡**" symbol. After release, commands will unfold again.
 
-![](../../../.gitbook/assets/ucom_02_reorder.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/ucom_02_reorder.gif)
 
 * To delete one of commands, press red button with cross to the left of command name.
 * To delete User Command, press red button with cross to the left of User Command name.
 
-![](../../../.gitbook/assets/ucom_03_remove.gif)
+![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/ucom_03_remove.gif)
 

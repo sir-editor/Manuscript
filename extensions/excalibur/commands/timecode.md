@@ -6,11 +6,11 @@ Not all laptops have numpad, so Excalibur timecode command becomes handy.
 
 To control timecode, launch Excalibur search bar and type numbers, it is also possible to use calculation signs before numbers: **`+, -, *, /`**
 
-#### Playhead control \(no clips selected\)
+## Playhead control \(no clips selected\)
 
 ![](../../../.gitbook/assets/timecode_01_playhead.gif)
 
-#### Selected clips control
+## Selected clips control
 
 ![](../../../.gitbook/assets/timecode_02_clips.gif)
 

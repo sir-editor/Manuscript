@@ -7,5 +7,3 @@ Spellbook solves that.
 
 I plan to make it open source and allow other developers to use it \(somewhere in 2021\).
 
-
-

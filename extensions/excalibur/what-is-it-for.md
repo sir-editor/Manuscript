@@ -7,15 +7,15 @@ Or just assign shortcuts to the most used effects.
 
 > To export timeline as individual clips, one needs to manually nest each clip, then select all of those nests in Project Panel and export them. [uservoice](https://adobe-video.uservoice.com/forums/911233-premiere-pro/suggestions/34332769-export-timeline-but-as-individual-clips)
 
-Excalibur command: [**Export Selected Clips**](commands/export.md#export-selected-clips)\*\*\*\*
+Excalibur command: [**Export Selected Clips**](commands/export.md#export-selected-clips)
 
 > To paste clip on the same track it was copied from, one needs to disable all track targets, paste clip and enable initial targeting again. [uservoice](https://adobe-video.uservoice.com/forums/911233-premiere-pro/suggestions/35314639--paste-onto-same-track-shortcut?page=1&per_page=20https://adobe-video.uservoice.com/forums/911233-premiere-pro/suggestions/35314639--paste-onto-same-track-shortcut)
 
-Excalibur command: [**Paste Clip**](commands/clip.md#paste-clip)\*\*\*\*
+Excalibur command: [**Paste Clip**](commands/clip.md#paste-clip)
 
 > If video/image height is bigger than its width, "Set to Frame Size" will leave black bars on the sides of a video. [uservoice](https://adobe-video.uservoice.com/forums/911233-premiere-pro/suggestions/34732312--set-to-frame-width)
 
-Excalibur command: [**Fill Frame**](commands/clip.md#fill-frame)\*\*\*\*
+Excalibur command: [**Fill Frame**](commands/clip.md#fill-frame)
 
 > "Nest..." doesn't work for audio clips. [uservoice](https://adobe-video.uservoice.com/forums/911233-premiere-pro/suggestions/33991021-allow-audio-nesting)
 

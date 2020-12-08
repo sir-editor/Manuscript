@@ -7,5 +7,3 @@ Want to learn more, write me:
 [support@knightsoftheeditingtable.com](mailto:support@knightsoftheeditingtable.com)
 {% endhint %}
 
-
-
