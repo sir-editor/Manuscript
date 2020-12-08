@@ -4,7 +4,7 @@
 
 Shows export dialog and launches Media Encoder render job with specified settings.
 
-![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/export_01_media.jpg)
+![](../../../.gitbook/assets/export_01_media.jpg)
 
 Export dialog lists user export presets. If no presets available, open Media Encoder and create user export preset.
 
@@ -12,7 +12,7 @@ Export dialog lists user export presets. If no presets available, open Media Enc
 
 Shows export dialog and launches Media Encoder render job for each selected clip with specified settings.
 
-![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/export_02_selected_clips.gif)
+![](../../../.gitbook/assets/export_02_selected_clips.gif)
 
 Export dialog lists user export presets. If no presets available, open Media Encoder and create user export preset.
 
@@ -24,11 +24,11 @@ Export Selected Clips command works only for video files. If you would like same
 
 Exports frame at playhead position.
 
-![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/export_03_frame.jpg)
+![](../../../.gitbook/assets/export_03_frame.jpg)
 
 ## Export Frames at Markers
 
 Exports frames at all markers in the sequence.
 
-![](https://github.com/sir-editor/Manuscript/tree/ab1b99f5a6295b663146f73bf0560052f14af93f/.gitbook/assets/export_04_frames_markers.gif)
+![](../../../.gitbook/assets/export_04_frames_markers.gif)
 
