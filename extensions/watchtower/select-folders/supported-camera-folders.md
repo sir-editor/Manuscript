@@ -11,3 +11,7 @@
 * Sony a7S
 * DCIM
 
+{% hint style="info" %}
+Need more? Write me:[ support@knightsoftheeditingtable.com](mailto:support@knightsoftheeditingtable.com)
+{% endhint %}
+

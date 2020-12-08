@@ -2,7 +2,7 @@
 
 ## General
 
-![](../../../.gitbook/assets/settings_v130_both.png)
+![](../../../.gitbook/assets/settings_v132_both.png)
 
 General tab is different for Premiere Pro and After Effects.
 
@@ -35,7 +35,7 @@ When update will be available, download buttons will appear here.
 
 ## Files
 
-![](../../../.gitbook/assets/settings_v130_file.png)
+![](../../../.gitbook/assets/settings_v132_file.png)
 
 Set filter for file extensions to import.  
 You can toggle checkbox and add/delete file extension.
@@ -47,7 +47,7 @@ file won't be imported.
 
 ## Folders
 
-![](../../../.gitbook/assets/settings_v130_folder.png)
+![](../../../.gitbook/assets/settings_v132_folder.png)
 
 Set folder names to be ignored during import.
 
@@ -64,7 +64,7 @@ To avoid this, add "untitled folder" to folder name filter in settings
 
 ## License
 
-![](../../../.gitbook/assets/settings_v130_license.png)
+![](../../../.gitbook/assets/settings_v132_license.png)
 
 In License tab you can see/copy license code used on current computer.  
 It is possible to deactivate license on current machine.

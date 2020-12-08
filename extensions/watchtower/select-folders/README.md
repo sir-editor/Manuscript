@@ -2,7 +2,7 @@
 
 ## Standard
 
-![](../../../.gitbook/assets/select_folders_info.png)
+![](../../../.gitbook/assets/select_folders_info%20%281%29.png)
 
 Folder tree shows files on local and network drives. By default tree unfolds up to your project location.
 
@@ -10,7 +10,7 @@ When you select folders to import Watchtower autodetects folders with image sequ
 
 ## Advanced
 
-![](../../../.gitbook/assets/select_folders_info_adv.png)
+![](../../../.gitbook/assets/select_folders_info_adv%20%281%29.png)
 
 If you need special adjustments here you can set:
 
