@@ -6,6 +6,10 @@ By default **Apply Transition** command will be used with default transition dur
 
 ![](../../../.gitbook/assets/trans_01_default.gif)
 
+{% hint style="info" %}
+When switching keyboard layout in Keyboard shortcuts, save project, for Excalibur to see that it was changed.
+{% endhint %}
+
 ## Apply Transition
 
 Applies transition to cuts under playhead.  
