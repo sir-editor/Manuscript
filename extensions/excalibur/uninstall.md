@@ -5,6 +5,6 @@ To uninstall Excalibur, remove
 
 | os | path |
 | :--- | :--- |
-| **macOS** | `/Users/*username*/Library/Application Support /Adobe/CEP/extensions/` |
-| **Windows** | `C:/Users/*username*/AppData/Roaming /Adobe/CEP/extensions/` |
+| **macOS** | `/Library/Application Support/Adobe/CEP/extensions/` |
+| **Windows** | `C:/Users/*username*/AppData/Roaming/Adobe/CEP/extensions/` |
 
