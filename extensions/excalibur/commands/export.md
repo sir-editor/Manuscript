@@ -8,6 +8,12 @@ Shows export dialog and launches Media Encoder render job with specified setting
 
 Export dialog lists user export presets. If no presets available, open Media Encoder and create user export preset.
 
+{% hint style="info" %}
+After creating new preset in Media Encoder, press  
+**cmd+s** \(macOS\) / **ctrl+s** \(Windows\)  
+it will do nothing visualy, but will force export presets to be updated in the Excalibur.
+{% endhint %}
+
 ## Export Selected Clips
 
 Shows export dialog and launches Media Encoder render job for each selected clip with specified settings.
