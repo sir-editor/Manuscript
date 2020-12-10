@@ -2,7 +2,7 @@
 
 There are 5 ways to apply transitions.
 
-By default **Apply Transition** command will be used with default transition duration \(could be set in `Premiere Pro>Preferences>Timeline`\)
+By default **Apply Transition** command will be used with default transition duration \(could be set in `Premiere Pro>Preferences>Timeline`\).
 
 ![](../../../.gitbook/assets/trans_01_default.gif)
 
@@ -17,6 +17,10 @@ If cuts are selected, transition will be applied to them,
 If clips are selected, transition will be applied to in/out points of selected clips.
 
 ![](../../../.gitbook/assets/trans_02_apply_trans.gif)
+
+{% hint style="info" %}
+Transition duration uses units \(frames/seconds\) that are set for each transition type in`Premiere Pro>Preferences>Timeline`
+{% endhint %}
 
 {% hint style="warning" %}
 "Apply Transition" command presses **Apply Video/Audio Transition** shortcuts. Make sure they are assigned in Keyboard Shortcuts menu.
