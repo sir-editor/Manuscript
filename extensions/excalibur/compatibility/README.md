@@ -1,6 +1,6 @@
 # Compatibility
 
-Excalibur works both on **macOS** and **Windows**.
+Excalibur works both on **macOS** \(14.5 and higher\) and **Windows**.
 
 | application | version |
 | :--- | :--- |
