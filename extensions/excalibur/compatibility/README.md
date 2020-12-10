@@ -1,6 +1,6 @@
 # Compatibility
 
-Excalibur works both on **macOS** \(14.5 and higher\) and **Windows**.
+Excalibur works both on **macOS** **\(14.5 and higher\)** and **Windows**.
 
 | application | version |
 | :--- | :--- |
@@ -9,4 +9,6 @@ Excalibur works both on **macOS** \(14.5 and higher\) and **Windows**.
 {% hint style="info" %}
 Premiere Pro CC2019 support is being tested.
 {% endhint %}
+
+
 
