@@ -27,6 +27,7 @@
   * [Limitations & Bugs](extensions/excalibur/limitations.md)
   * [Compatibility](extensions/excalibur/compatibility/README.md)
     * [macOS Permissions](extensions/excalibur/compatibility/macos-permissions.md)
+    * [Windows Antivirus](extensions/excalibur/compatibility/windows-antivirus.md)
   * [Change Log](extensions/excalibur/change-log.md)
   * [Uninstall](extensions/excalibur/uninstall.md)
 * [Watchtower](extensions/watchtower/README.md)
