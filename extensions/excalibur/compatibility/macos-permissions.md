@@ -8,7 +8,8 @@ Normaly, after Excalibur installation, when opening Premiere Pro, it should prom
 
 ![](../../../.gitbook/assets/macos_02_popup_input.jpg)
 
-If you don’t have these pop-ups, you can grant permissions manually. Go to **System Preferences &gt; Security & Privacy &gt; Privacy.**  
+If you don’t have these pop-ups, you can grant permissions manually. Go to:  
+**System Preferences &gt; Security & Privacy &gt; Privacy.**  
 Go to each section, hit “+", find your Premiere Pro version, add it, make sure it has a tick mark.
 
 ## Accessibility \(Mojave and above\)
