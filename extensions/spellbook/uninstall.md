@@ -5,6 +5,6 @@ To uninstall Spellbook, remove
 
 | os | path |
 | :--- | :--- |
-| **macOS** | `/Users/*username*/Library/Application Support/Adobe/CEP/extensions/` |
+| **macOS** | `/Users/*user*/Library/Application Support/Adobe/CEP/extensions/` |
 | **Windows** | `C:/Users/*username*/AppData/Roaming/Adobe/CEP/extensions/` |
 
