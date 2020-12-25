@@ -28,6 +28,10 @@ I'm working on implementing Excalibur history stack, it will be available in fut
 
 Paste Clip command won't work with clips that were cut \(not copied\) in Premiere Pro 2019
 
+### Mask effect
+
+Masks \(e.g. in Opacity effect\) are not supported.
+
 ### Lumetri effect
 
 When applying video preset with Lumetri Color, color wheels, curves,  anything that has some kind of graphic interface, will be set to default
