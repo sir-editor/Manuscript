@@ -1,8 +1,6 @@
 # License Management
 
-{% embed url="http://knightsoftheeditingtable.com/license" %}
-
-License management allows you to control usage of your licenses online.
+[License management](http://knightsoftheeditingtable.com/license) allows you to control usage of your licenses online.
 
 ![](../.gitbook/assets/license_manager_cross.png)
 
