@@ -1,6 +1,6 @@
 # License Management
 
-License management allows you to control usage of your licenses online.
+[http://knightsoftheeditingtable.com/license](http://knightsoftheeditingtable.com/license) — license management allows you to control usage of your licenses online.
 
 ![](../.gitbook/assets/license_manager_cross.png)
 
