@@ -11,12 +11,12 @@
 
 * Excalibur will launch minutes after shortcut "Unsheathe Excalibur" was pressed \(related to _Effect Presets and Custom Items.prfpset_ big file size\)
 * Effect presets are not shown in Excalibur
+* If an effect preset has more than one of the same effects, only one of them will be applied
 * **Duplicate and Increment** places new sequence in a random folder
-* When changing an existing transition, without specifying its length, the length will be set to default transition length
 * **Fill Frame** used on clips that have "Scale to Frame Size" enabled, will deliver inaccurate results.
 * A keyboard shortcut assigned to **Nest Individual Clips** will show an empty search bar
-* If an effect preset has more than one of the same effects, only one of them will be applied
-* F1-F24 keys can't be assigned as shortcuts on Windows
+* When changing an existing transition, without specifying its length, the length will be set to default transition length
+* **F1-F24** keys can't be assigned as shortcuts on Windows
 * After pressing down arrow on an empty search bar to show all commands, selected command won't be executed
 * UI fixes
 
