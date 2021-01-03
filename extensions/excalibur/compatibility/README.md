@@ -10,5 +10,9 @@ Excalibur works both on **macOS** **\(10.14.5 and higher\)** and **Windows**.
 Premiere Pro CC2019 support is being tested.
 {% endhint %}
 
+{% hint style="danger" %}
+**Premiere Pro 14.1.0** is not supported due to API bug. Whenever you will launch Excalibur, Premiere will crash.
+{% endhint %}
+
 
 
