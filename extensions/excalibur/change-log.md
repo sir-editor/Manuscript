@@ -5,7 +5,7 @@
 #### Transitions:
 
 * Added support for Boris FX Continuum, Sapphire, Red Giant Universe and Film Impact v3 transitions
-* Added support for Japanese transtition names
+* Added support for Japanese and Italian transtition names
 
 #### Fixed:
 
