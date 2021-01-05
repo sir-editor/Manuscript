@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.0.1 — not released yet
+## 1.0.1 — 2021-01-05
 
 #### Transitions:
 
