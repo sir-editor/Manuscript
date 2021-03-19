@@ -66,6 +66,7 @@ Will create syntetic media file, with same settings as active sequence and overw
 
 Available Items:
 
+* Adjustment layer
 * Color Matte
 * Black Video
 * Transparent Video

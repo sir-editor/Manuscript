@@ -20,7 +20,3 @@ By default audio effect is applied to selected clips.
 
 ![](../../../.gitbook/assets/presets_03_audio_track.gif)
 
-{% hint style="warning" %}
-If audio preset will be added to audio track, effects will be added, but values will be set to default.
-{% endhint %}
-

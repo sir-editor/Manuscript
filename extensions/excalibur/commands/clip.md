@@ -66,6 +66,12 @@ Scales clip, so it fills frame.
 
 ![](../../../.gitbook/assets/clip_08_fill_frame.gif)
 
+## Label
+
+Change label of selected clips. List shows label colors and names, that were set in Premiere Pro preferences.
+
+![](../../../.gitbook/assets/clip_20_label.gif)
+
 ## Paste Clip
 
 Pastes clips from clipboard to specified track.
@@ -93,18 +99,34 @@ Creates nested sequence from selected clips and moves it to "Nested Clips" bin.
 By default nested sequence named:  
 `ParentSequenceName_nest_counter`
 
-![](../../../.gitbook/assets/clip_12_nest_clips.gif)
+### Premiere Pro nest
 
-{% hint style="info" %}
-It is possible to nest audio clips!
-{% endhint %}
+Uses native nest command.
+
+![](../../../.gitbook/assets/clip_21_nest_clips_native.gif)
+
+### Excalibur nest
+
+API method to nest clips. Allows to nest audio clips.
+
+![](../../../.gitbook/assets/clip_12_nest_clips.gif)
 
 ## Nest Individual Clips
 
-Creates nested sequences from **each** selected clip and moves it to "Nested Clips" bin.
+Creates nested sequences from **each** selected clip and moves it to "Nested Clips" bin. Linked clips will be nested together.
 
 By default nested sequences named:  
 `ParentSequenceName_ClipName_nest_counter`
+
+### Premiere Pro nest
+
+Uses native nest command.
+
+![](../../../.gitbook/assets/clip_22_nest_ind_clips_native.gif)
+
+### Excalibur nest
+
+API method to nest clips. Allows to nest audio clips.
 
 ![](../../../.gitbook/assets/clip_13_nest_individual_clips.gif)
 
@@ -149,4 +171,14 @@ Removes transitions from selected clips or whole sequence
 ### From Sequence \(all transitions\)
 
 ![](../../../.gitbook/assets/clip_19_remove_trans_seq.gif)
+
+## **Show Clip Keyframes**
+
+Simulates right click on a clip and clicks on a selected menu.
+
+How to use:  
+Place coursor on top of a video clip \(**don’t move it after that**\), call up Excalibur search bar and select menu item needed.  
+It is advised to create User command and assign shortcut to it.
+
+![](../../../.gitbook/assets/clip_23_show_clip_keyframes.gif)
 

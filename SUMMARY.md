@@ -20,6 +20,7 @@
     * [Video/Audio Effects](extensions/excalibur/commands/video-audio-effects.md)
     * [Video/Audio Presets](extensions/excalibur/commands/video-audio-presets.md)
     * [Video/Audio Transitions](extensions/excalibur/commands/video-audio-transitions.md)
+    * [Special](extensions/excalibur/commands/special.md)
   * [User Commands](extensions/excalibur/user-commands/README.md)
     * [Keyboard Shortcut](extensions/excalibur/user-commands/keyboard-shortcut.md)
     * [Wildcards](extensions/excalibur/user-commands/wildcards.md)
