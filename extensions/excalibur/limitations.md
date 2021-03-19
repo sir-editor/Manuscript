@@ -17,8 +17,7 @@ To avoid this, use **ctrl**, **alt** modifiers or multiple modifiers at once.
 
 Some of the commands won't be shown in Premiere Pro history stack, so it will be impossible to undo them.
 
-Some of commands fill up history stack pretty fast with multiple actions.  
-To give yourself more control over it, increase History level \(max allowed value 100\). Open the History panel `Window > History`and choose Settings from the Flyout \(hamburger\) menu.
+
 
 {% hint style="info" %}
 I'm working on implementing Excalibur history stack, it will be available in future updates and should solve "undo" limitation.

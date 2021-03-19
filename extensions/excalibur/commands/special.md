@@ -6,6 +6,11 @@ Undos Excalibur commands. It respects order of native Premiere Pro and Excalibur
 
 ![](../../../.gitbook/assets/special_01_undo.gif)
 
+{% hint style="info" %}
+Some of commands fill up history stack pretty fast with multiple actions.  
+To give yourself more control over it, increase History level \(max allowed value 100\). Open the History panel `Window > History`and choose Settings from the Flyout \(hamburger\) menu.
+{% endhint %}
+
 {% hint style="warning" %}
 Be careful in case you have this order of actions executed:
 
