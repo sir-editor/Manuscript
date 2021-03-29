@@ -20,3 +20,13 @@ Go to each section, hit “+", find your Premiere Pro version, add it, make sure
 
 ![](../../../.gitbook/assets/macos_04_input.jpg)
 
+## Reset permissions
+
+Sometimes macOS doesn't have permissions right, to reset them do this:
+
+* give permissions to Premiere Pro \(accessibility/input monitoring\), skip if permissions already granted
+* untick Premiere Pro in permissions
+* restart computer
+* tick Premiere Pro back in permissions
+* launch Premiere Pro and test
+
