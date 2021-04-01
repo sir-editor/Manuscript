@@ -1,6 +1,6 @@
 # Open Source
 
-Somewhere in 2021 I will open source Spellbook, so other developers will be able to incroporate it in their products.
+At some point I will open source Spellbook, so other developers will be able to incroporate it in their products.
 
 {% hint style="info" %}
 Want to learn more, write me:  
