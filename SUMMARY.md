@@ -5,7 +5,6 @@
 ## Extensions
 
 * [Excalibur](extensions/excalibur/README.md)
-  * [Test](extensions/excalibur/test.md)
   * [What is it for?](extensions/excalibur/what-is-it-for.md)
   * [How it works](extensions/excalibur/how-it-works.md)
   * [Search Bar](extensions/excalibur/search-bar/README.md)
