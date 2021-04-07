@@ -57,6 +57,7 @@
   * [What is it for?](extensions/compass/what-is-it-for.md)
   * [How it works](extensions/compass/how-it-works.md)
 * [Spellbook](extensions/spellbook/README.md)
+  * [Untitled](extensions/spellbook/untitled.md)
   * [What is it for?](extensions/spellbook/what-is-it-for.md)
   * [How it works](extensions/spellbook/how-it-works.md)
   * [Open Source](extensions/spellbook/open-source.md)
