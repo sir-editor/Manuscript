@@ -1,5 +1,22 @@
 # Change Log
 
+## 1.1.1 — 2021-04-09
+
+### **New**
+
+* Export Selected Clips: audio is included
+
+### **Fixed**
+
+* Undo command
+* Adjustment layer, Nest clips command
+* Transitions and shortcut press commands
+* Intrinsic effects value change on clips with changed speed
+* Multiple Exports in user command
+* Doubling effect for Effect presets that also affect intrinsic effects
+* Excalibur didn't respond or worked with a delay
+* Timecode command
+
 ## 1.1.0 — 2021-03-19
 
 ### **New**
