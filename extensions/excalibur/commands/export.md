@@ -22,10 +22,6 @@ Shows export dialog and launches Media Encoder render job for each selected clip
 
 Export dialog lists user export presets. If no presets available, open Media Encoder and create user export preset.
 
-{% hint style="warning" %}
-Export Selected Clips command works only for video files. If you would like same feature for audio files, please let me know.
-{% endhint %}
-
 ## Export Frame
 
 Exports frame at playhead position.
