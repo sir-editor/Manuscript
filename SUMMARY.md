@@ -56,6 +56,7 @@
 * [Compass](extensions/compass/README.md)
   * [What is it for?](extensions/compass/what-is-it-for.md)
   * [How it works](extensions/compass/how-it-works.md)
+  * [Uninstall](extensions/compass/uninstall.md)
 * [Spellbook](extensions/spellbook/README.md)
   * [What is it for?](extensions/spellbook/what-is-it-for.md)
   * [How it works](extensions/spellbook/how-it-works.md)
