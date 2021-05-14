@@ -1,5 +1,23 @@
 # Change Log
 
+## 1.1.2 — 2021-05-13
+
+### **New**
+
+* **Copy Frame to Clipboard**
+* **Wait** command \(for User Commands\)
+* **Duplicate and Increment**, **Increment and Save** now have user command options. One can define how naming will look like.
+* Date wildcards for **Nest Clips**
+* **Apply Transition** doesn't need shortcut to be set in "Premiere Pro -&gt; Keyboard shortcuts"
+
+### **Fixed**
+
+* If audio preset included change of volume, it won't be applied
+* Timecode command didn't work with selected clips on Windows
+* Trim out point to playhead worked incorrectly with clips that have changed speed
+* Film Impact transitions did't work: Light Leaks Impacts; Kaleido Impacts; Stripes Impacts; Chroma Leaks Impacts
+* Optimisation for bigger timelines
+
 ## 1.1.1 — 2021-04-09
 
 ### **New**
@@ -8,11 +26,11 @@
 
 ### **Fixed**
 
-* Undo command
-* Adjustment layer, Nest clips command
+* Undo command didn't work for some of actions
+* Adjustment layer, Nest clips command didn't work on Windows
 * Transitions and shortcut press commands
 * Intrinsic effects value change on clips with changed speed
-* Multiple Exports in user command
+* Multiple Exports in user command resulted in same exports
 * Doubling effect for Effect presets that also affect intrinsic effects
 * Excalibur didn't respond or worked with a delay
 * Timecode command

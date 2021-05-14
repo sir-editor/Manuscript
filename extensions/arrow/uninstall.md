@@ -1,7 +1,7 @@
 # Uninstall
 
 To uninstall Compass, remove  
-“**knights\_of\_the\_editing\_table.compass**” folder from:
+“**knights\_of\_the\_editing\_table.arrow**” folder from:
 
 | os | path |
 | :--- | :--- |
