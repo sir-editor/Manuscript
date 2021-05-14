@@ -59,6 +59,7 @@
   * [Compatibility](extensions/arrow/compatibility/README.md)
     * [macOS Permissions](extensions/arrow/compatibility/macos-permissions.md)
     * [Windows Antivirus](extensions/arrow/compatibility/windows-antivirus.md)
+  * [Change log](extensions/arrow/change-log.md)
   * [Uninstall](extensions/arrow/uninstall.md)
 * [Compass](extensions/compass/README.md)
   * [What is it for?](extensions/compass/what-is-it-for.md)
