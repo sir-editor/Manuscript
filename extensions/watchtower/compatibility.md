@@ -4,8 +4,8 @@ Watchtower works both on **macOS** and **Windows**.
 
 | application | version |
 | :--- | :--- |
-| **Premiere Pro** | 2020, CC2019, CC2018, CC2017 |
-| **After Effects** | 2020, CC2019, CC2018, CC2017 |
+| **Premiere Pro** | 2021, 2020, CC2019, CC2018, CC2017 |
+| **After Effects** | 2021, 2020, CC2019, CC2018, CC2017 |
 
 {% hint style="warning" %}
 These features don't work or work differently  
