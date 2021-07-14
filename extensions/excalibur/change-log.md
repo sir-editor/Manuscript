@@ -1,5 +1,49 @@
 # Change Log
 
+## 1.1.3 — 2021-07-14
+
+### **New**
+
+* **Sequence module:**
+  * Add Marker to Clip
+  * Target Video/Audio Tracks
+  * Mute Video/Audio Tracks
+  * Lock Video/Audio Tracks
+  * Sync Lock Video/Audio Tracks
+* **Preferences module:**
+  * Display Color Management
+  * Snap playhead in Timeline
+  * Selection Follows Playhead
+  * Linked Selection
+  * Transparency Grid
+  * Show Rulers
+  * Show Guides
+  * Snap in Program Monitor
+* **Selection module:**
+  * Select Clip Above/Below
+  * Extend Selection
+  * Select All Clips after/before Playhead
+  * Invert Selection
+  * Select All Disabled Clips
+* Multiply, divide, percent operations are added for Position/Scale/Rotation and etc
+* Excalibur Settings could be open from a search bar
+
+### **Fixed**
+
+* "Copy Frame to Clipboard" didn't work on some macOS machines
+* "Export Media/Selected Clips" in a search bar used project location as an export path. Now it defaults to Premeire Pro last used export path \(which could be controlled with [Compass](../compass/)\)
+* Unnecessary undo step was performed for Duration/Speed command if duration/speed couldn't be changed or was the same for an affected clip
+* Effect presets that used "Vector Motion" \(part of Essential Graphics\) added additional "Vector Motion" effect instead of changing values of an existing one
+* Optimized "Nest Clips" command
+* Optimized "Paste Clip on Same track" command
+* Optimized preloading of a search bar
+* Enter pressed multiple times in a search bar caused Excalibur to execute command multiple times
+
+### Renamed
+
+* "Add Marker" renamed to "Add Marker to Sequence"
+* "Solo Tracks" renamed to "Solo Mute Tracks"
+
 ## 1.1.2 — 2021-05-13
 
 ### **New**
@@ -16,7 +60,7 @@
 * Timecode command didn't work with selected clips on Windows
 * Trim out point to playhead worked incorrectly with clips that have changed speed
 * Film Impact transitions did't work: Light Leaks Impacts; Kaleido Impacts; Stripes Impacts; Chroma Leaks Impacts
-* Optimisation for bigger timelines
+* Optimized work with bigger timelines
 
 ## 1.1.1 — 2021-04-09
 

@@ -10,7 +10,15 @@ Replaces existing value with a new one. If property has stopwatch enabled, linea
 
 ### Add value
 
-Adds or substracts from existing value. If property has stopwatch enabled, linear keyframe will be created.
+Adds, subtracts, multiplies, divides or takes percentage from existing value. If property has stopwatch enabled, linear keyframe will be created.
+
+| Operation | Symbol |
+| :--- | :--- |
+| Add | + \(or none\) |
+| Subtract | - |
+| Multiply | \* |
+| Divide | / |
+| Percent | % |
 
 {% hint style="info" %}
 Create two User Commands for scale, using **add value** setting:  

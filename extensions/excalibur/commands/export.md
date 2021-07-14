@@ -14,6 +14,10 @@ After creating new preset in Media Encoder, press
 it will do nothing visualy, but will force export presets to be updated in the Excalibur.
 {% endhint %}
 
+{% hint style="success" %}
+When using Export Media/Selected Clips in a search bar, it will default to Premiere Pro last used export path. Get [Compass](../../compass/) to take control of it.
+{% endhint %}
+
 ## Export Selected Clips
 
 Shows export dialog and launches Media Encoder render job for each selected clip with specified settings.

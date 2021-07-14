@@ -21,5 +21,9 @@ Be careful in case you have this order of actions executed:
 If you use native undo command, you will get to **\#1** in history stack and record of Excalibur command **\#3** will be lost.
 {% endhint %}
 
+## Excalibur Settings
 
+Opens Excalibur Settings
+
+![](../../../.gitbook/assets/special_02_excalibursettings.png)
 
