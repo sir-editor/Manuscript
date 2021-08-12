@@ -28,5 +28,9 @@ License Management uses email authentication.
 
 #### 5\) Welcome to License Management!
 
-![](../.gitbook/assets/lic_05.jpg)
+Hover over a computer name and click on a red cross to deactivate license.
+
+![](../.gitbook/assets/lic_05.gif)
+
+
 
