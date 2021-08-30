@@ -6,6 +6,6 @@ description: 'Behold, the Sword of Power.'
 
 * Search for and apply effects, presets, transitions with your fingers on the keyboard.
 * Use modified Premiere Pro commands
-* Create complicated combinations of actions to improves your workflow.
+* Create complicated combinations of actions to improve your workflow.
 * Add keyboard shortcuts to everything above.
 
