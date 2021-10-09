@@ -71,7 +71,6 @@
 * [Spellbook](extensions/spellbook/README.md)
   * [What is it for?](extensions/spellbook/what-is-it-for.md)
   * [How it works](extensions/spellbook/how-it-works.md)
-  * [Open Source](extensions/spellbook/open-source.md)
   * [Uninstall](extensions/spellbook/uninstall.md)
 
 ## Website
