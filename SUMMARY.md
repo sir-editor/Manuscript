@@ -59,6 +59,7 @@
 * [Arrow](extensions/arrow/README.md)
   * [What is it for?](extensions/arrow/what-is-it-for.md)
   * [How it works](extensions/arrow/how-it-works.md)
+  * [Image transparency](extensions/arrow/image-transparency.md)
   * [Compatibility](extensions/arrow/compatibility/README.md)
     * [macOS Permissions](extensions/arrow/compatibility/macos-permissions.md)
     * [Windows Antivirus](extensions/arrow/compatibility/windows-antivirus.md)
@@ -79,7 +80,6 @@
   * [Convert .kys file](website/blacksmith/convert-kys-file.md)
 * [License Management](website/license.md)
 
----
+***
 
 * [Support](support.md)
-
