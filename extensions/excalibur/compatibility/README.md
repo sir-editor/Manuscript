@@ -1,10 +1,10 @@
 # Compatibility
 
-Excalibur works both on **macOS** **\(10.14.5 and higher\)** and **Windows**.
+Excalibur works both on **macOS** **(10.14.5 and higher)** and **Windows**.
 
-| application | version |
-| :--- | :--- |
-| **Premiere Pro** | **2020, 2021** |
+| application      | version              |
+| ---------------- | -------------------- |
+| **Premiere Pro** | **2020, 2021, 2022** |
 
 {% hint style="info" %}
 Premiere Pro CC2019 support is being tested.
@@ -15,4 +15,3 @@ Premiere Pro CC2019 support is being tested.
 
 **Premiere Pro 14.3.0** "Export Media", "Export Selected Clips" commands won't work due to API bug.
 {% endhint %}
-
