@@ -8,7 +8,7 @@ After upload .kys file you can remap your shortcuts.
 
 {% tabs %}
 {% tab title="macOS -> Windows" %}
-**⌘** _\(cmd\)_ becomes **Ctrl**, **⌃**_\(ctrl\)_ becomes **Ctrl**
+**⌘ **_(cmd)_ becomes **Ctrl**, **⌃**_(ctrl)_ becomes **Ctrl**
 
 In case of conflict shortcut will be outlined with orange color.
 
@@ -18,7 +18,7 @@ If you choose to download without solving command conflicts, these commands will
 {% endtab %}
 
 {% tab title="Windows -> macOS" %}
-**Ctrl** becomes **⌘** _\(cmd\)_
+**Ctrl** becomes **⌘ **_(cmd)_
 {% endtab %}
 {% endtabs %}
 
@@ -26,14 +26,14 @@ The location of the customized keyboard shortcuts file depends on whether you've
 
 {% tabs %}
 {% tab title="macOS" %}
-Signed into Creative Cloud Sync Settings  
+Signed into Creative Cloud Sync Settings\
 _****_`Users/[username]/Documents/Adobe/Premiere Pro/[version]/Profile-CreativeCloud-/Mac/`
 
 Signed out of Creative Cloud Sync Settings`Users/[username]/Documents/Adobe/Premiere Pro/[version]/Profile-username/Mac/`
 {% endtab %}
 
 {% tab title="Windows" %}
-Signed into Creative Cloud Sync Settings  
+Signed into Creative Cloud Sync Settings\
 _****_`Users\[username]\Documents\Adobe\Premiere Pro\[version]\Profile-CreativeCloud-\Win\`
 
 Signed out of Creative Cloud Sync Settings`Users\[username]\Documents\Adobe\Premiere Pro\[version]\Profile-username\Win\`
@@ -43,4 +43,3 @@ Signed out of Creative Cloud Sync Settings`Users\[username]\Documents\Adobe\Prem
 {% hint style="info" %}
 More information about keyboard shortcuts in Premiere Pro on [official website](https://helpx.adobe.com/premiere-pro/using/keyboard-shortcuts.html)
 {% endhint %}
-

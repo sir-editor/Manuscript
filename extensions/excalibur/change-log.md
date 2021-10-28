@@ -31,9 +31,9 @@
 ### **Fixed**
 
 * "Copy Frame to Clipboard" didn't work on some macOS machines
-* "Export Media/Selected Clips" in a search bar used project location as an export path. Now it defaults to Premeire Pro last used export path \(which could be controlled with [Compass](../compass/)\)
+* "Export Media/Selected Clips" in a search bar used project location as an export path. Now it defaults to Premeire Pro last used export path (which could be controlled with [Compass](../compass/))
 * Unnecessary undo step was performed for Duration/Speed command if duration/speed couldn't be changed or was the same for an affected clip
-* Effect presets that used "Vector Motion" \(part of Essential Graphics\) added additional "Vector Motion" effect instead of changing values of an existing one
+* Effect presets that used "Vector Motion" (part of Essential Graphics) added additional "Vector Motion" effect instead of changing values of an existing one
 * Optimized "Nest Clips" command
 * Optimized "Paste Clip on Same track" command
 * Optimized preloading of a search bar
@@ -49,10 +49,10 @@
 ### **New**
 
 * **Copy Frame to Clipboard**
-* **Wait** command \(for User Commands\)
+* **Wait** command (for User Commands)
 * **Duplicate and Increment**, **Increment and Save** now have user command options. One can define how naming will look like.
 * Date wildcards for **Nest Clips**
-* **Apply Transition** doesn't need shortcut to be set in "Premiere Pro -&gt; Keyboard shortcuts"
+* **Apply Transition** doesn't need shortcut to be set in "Premiere Pro -> Keyboard shortcuts"
 
 ### **Fixed**
 
@@ -84,17 +84,17 @@
 ### **New**
 
 * **Undo** command for Excalibur commands
-* **Label** command \(change label of clips\)
+* **Label** command (change label of clips)
 * Adjustment layer added to New Item command
 * Nest Clips and Nest Individual Clips now have two type of nest command:
   * Premiere Pro nest
   * Excalibur nest
-* Audio preset can be applied to audio track with values changed \(keyframes are not supported\)
+* Audio preset can be applied to audio track with values changed (keyframes are not supported)
 * Show Clip Keyframes command
 * Control Surfaces on macOS support added. Stream Deck, Loupedeck, Orbital 2, etc are supported.
 * Windows OS search bar options:
-  * Instant search bar 
-  * Panel mode for search bar 
+  * Instant search bar&#x20;
+  * Panel mode for search bar&#x20;
 * Submenus now have search bar
 * User can set height of Excalibur search bar
 * Transitions now support all languages
@@ -102,8 +102,8 @@
 ### **Fixed**
 
 * Nest Individual Clips didn’t respect linked clips.
-* Speed command when applied would set lower speed \(target: 400%, result: 238%\). Now speed command will be applied multiple times, until it will set proper speed value.
-* Effect presets that used intrinsic effects in languages other than English would add to clip another copy of intrinsic effect \(e.g. second copy of Motion\)
+* Speed command when applied would set lower speed (target: 400%, result: 238%). Now speed command will be applied multiple times, until it will set proper speed value.
+* Effect presets that used intrinsic effects in languages other than English would add to clip another copy of intrinsic effect (e.g. second copy of Motion)
 * Japanese IME support improvement:
   * on macOS it wasn't possible to use Japanese characters in Project panel
   * Excalibur would quit when user selected suggestion from IME dropbox
@@ -117,11 +117,11 @@
 
 ### Fixed
 
-* Excalibur could take several minutes to launch after "Unsheathe Excalibur" shortcut was pressed \(related to _Effect Presets and Custom Items.prfpset_ big file size\)
+* Excalibur could take several minutes to launch after "Unsheathe Excalibur" shortcut was pressed (related to _Effect Presets and Custom Items.prfpset_ big file size)
 * Effect presets wouldn't show up in Excalibur
 * If an effect preset has more than one of the same effects, only one of them would be applied
 * **Duplicate and Increment** placed new sequence in a random bin
-* **Fill Frame** used on clips that have "Scale to Frame Size" enabled, would deliver inaccurate results
+* **Fill Frame **used on clips that have "Scale to Frame Size" enabled, would deliver inaccurate results
 * A keyboard shortcut assigned to **Nest Individual Clips** would show an empty search bar
 * When changing an existing transition without specifying its length, the length would be set to the default transition length
 * **F1-F24** keys couldn't be assigned as shortcuts on Windows
@@ -131,4 +131,3 @@
 ## 1.0.0 — 2020-12-01
 
 Official release
-

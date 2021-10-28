@@ -2,13 +2,13 @@
 
 ## Increment and Save
 
-Saves the current project to a project folder with incremented project name, opens the project, and closes the previously-opened \(and identical\) project.
+Saves the current project to a project folder with incremented project name, opens the project, and closes the previously-opened (and identical) project.
 
-| Before | After |
-| :--- | :--- |
+| Before            | After             |
+| ----------------- | ----------------- |
 | Project Name\_007 | Project Name\_008 |
 
-![](../../../.gitbook/assets/proj_01_increment.gif)
+![](../../../.gitbook/assets/proj\_01\_increment.gif)
 
 If project doesn't have version number, `_002` will be added at the end of project name.
 
@@ -16,16 +16,15 @@ If project doesn't have version number, `_002` will be added at the end of proje
 
 Shows list of available workspaces and switches to selected one.
 
-![](../../../.gitbook/assets/proj_02_change_workspace.jpg)
+![](../../../.gitbook/assets/proj\_02\_change\_workspace.jpg)
 
 ## Execute Script
 
-Executes selected ExtendScript file \(.jsx\)
+Executes selected ExtendScript file (.jsx)
 
-![](../../../.gitbook/assets/proj_03_execute_script.jpg)
+![](../../../.gitbook/assets/proj\_03\_execute\_script.jpg)
 
 To execute script file, place it in **Scripts** folder:
 
-`[mac] /Users/*username*/Documents/Knights of the Editing Table/Excalibur/Scripts    
-[win] C:/Users/*username*/Documents/Knights of the Editing Table/Excalibur/Scripts`
-
+`[mac] /Users/*username*/Documents/Knights of the Editing Table/Excalibur/Scripts  `\
+`[win] C:/Users/*username*/Documents/Knights of the Editing Table/Excalibur/Scripts`
