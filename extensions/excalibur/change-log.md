@@ -1,5 +1,27 @@
 # Change Log
 
+## 1.1.4 — 2021-10-31
+
+### **New**
+
+* Excalibur can control Grave Robber extension
+
+### **Fixed**
+
+* Optimized "Keypress Shortcut" both for macOS and Windows
+* Optimized IME both for macOS and Windows
+* Optimized Paste on the same track
+* Adjustment layer didn't work if Premiere Pro wasn't using English language
+* After "Duplicate and Increment" new sequence didn't have focus
+* Depending on media fps "Export Selected Clips" would export first frame of next clip after selected one
+* Excalibur requested to set shortcut keys for "Apply Default Video/Audio Transition"
+* When Effect Preset was applied to Essential Graphics clip it added effect but didn't change values of it
+* When Transform effect was applied to a clip its uniform scale checkbox was set to off
+* "Export Media/Clips" path didn't remember last path used in search bar
+* Selection commands would select clips on locked tracks
+* Add marker to Clip didn't account for clip speed changes
+* Move Clip Start/End to Playhead command optimised
+
 ## 1.1.3 — 2021-07-14
 
 ### **New**
