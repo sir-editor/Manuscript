@@ -48,7 +48,7 @@ Targets specified tracks.
 | **Toggle All tracks**                 | Toggles all tracks. If at least one track is targeted, will toggle all tracks off. |
 | **un-Target All tracks**              | Toggles all tracks off.                                                            |
 
-**\* **To affect multiple tracks, type track numbers separated by comma
+**\*** To affect multiple tracks, type track numbers separated by comma
 
 ![](../../../.gitbook/assets/seq\_11\_targettracks.gif)
 

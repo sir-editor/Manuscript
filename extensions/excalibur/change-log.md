@@ -143,7 +143,7 @@
 * Effect presets wouldn't show up in Excalibur
 * If an effect preset has more than one of the same effects, only one of them would be applied
 * **Duplicate and Increment** placed new sequence in a random bin
-* **Fill Frame **used on clips that have "Scale to Frame Size" enabled, would deliver inaccurate results
+* **Fill Frame** used on clips that have "Scale to Frame Size" enabled, would deliver inaccurate results
 * A keyboard shortcut assigned to **Nest Individual Clips** would show an empty search bar
 * When changing an existing transition without specifying its length, the length would be set to the default transition length
 * **F1-F24** keys couldn't be assigned as shortcuts on Windows

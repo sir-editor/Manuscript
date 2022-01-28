@@ -31,7 +31,7 @@ Applies transition to cuts on the left/right of playhead and stretches transitio
 In comparison to [legacy](video-audio-transitions.md#apply-transition-to-from-playhead-legacy) version, "Apply Transition To/From Playhead" adds proper transition between clips.
 
 {% hint style="warning" %}
-"Apply Transition To/From Playhead" command presses **Select Clip at Playhead **shortcut. Make sure it is assigned in Keyboard Shortcuts menu.
+"Apply Transition To/From Playhead" command presses **Select Clip at Playhead** shortcut. Make sure it is assigned in Keyboard Shortcuts menu.
 {% endhint %}
 
 ## Apply Transition To/From Playhead (legacy)

@@ -10,6 +10,6 @@ sometimes file could have multiple file paths,\
 e.g. mapped drive path vs UNC path on Windows:\
 **Z:\Media\file.mov** vs **\\\Server\Media\file.mov**\
 ****\
-****Watchtower considers these files different (same way as Premiere Pro & After Effect does)**. **By default Watchtower will always use UNC path for import.\
+****Watchtower considers these files different (same way as Premiere Pro & After Effect does)**.** By default Watchtower will always use UNC path for import.\
 If you manually imported file via mapped drive path, Watchtower will import it again, but with UNC path.
 {% endhint %}

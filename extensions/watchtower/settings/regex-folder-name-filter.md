@@ -18,9 +18,9 @@ Instead of strictly defining name filter for each folder, you can set one regex 
 ### Example usage:
 
 * **/\_ame/** — filter folder that has “\_ame” in name: “project\_ame”, “south\_America”, “\_amethyst"
-* **/\_ame$/ **— filter folder that has “\_ame” at the end of the name:  “project\_AME”
-* **/^\_ame/ **—filter folder that has “\_ame at the start if the name: “\_amethyst"
-* **/\d/ **— filter folder that has any digit in name: “100\_images”, “image\_5\_best”
+* **/\_ame$/** — filter folder that has “\_ame” at the end of the name:  “project\_AME”
+* **/^\_ame/** —filter folder that has “\_ame at the start if the name: “\_amethyst"
+* **/\d/** — filter folder that has any digit in name: “100\_images”, “image\_5\_best”
 
 {% hint style="info" %}
 To learn more about regex:\

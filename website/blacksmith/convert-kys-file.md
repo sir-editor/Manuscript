@@ -8,7 +8,7 @@ After upload .kys file you can remap your shortcuts.
 
 {% tabs %}
 {% tab title="macOS -> Windows" %}
-**⌘ **_(cmd)_ becomes **Ctrl**, **⌃**_(ctrl)_ becomes **Ctrl**
+**⌘** _(cmd)_ becomes **Ctrl**, **⌃**_(ctrl)_ becomes **Ctrl**
 
 In case of conflict shortcut will be outlined with orange color.
 
@@ -18,7 +18,7 @@ If you choose to download without solving command conflicts, these commands will
 {% endtab %}
 
 {% tab title="Windows -> macOS" %}
-**Ctrl** becomes **⌘ **_(cmd)_
+**Ctrl** becomes **⌘** _(cmd)_
 {% endtab %}
 {% endtabs %}
 

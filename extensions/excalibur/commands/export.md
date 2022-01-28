@@ -10,7 +10,7 @@ Export dialog lists user export presets. If no presets available, open Media Enc
 
 {% hint style="info" %}
 After creating new preset in Media Encoder, press\
-**cmd+s** (macOS) / **ctrl+s **(Windows)\
+**cmd+s** (macOS) / **ctrl+s** (Windows)\
 it will do nothing visualy, but will force export presets to be updated in the Excalibur.
 {% endhint %}
 
