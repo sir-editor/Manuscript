@@ -22,7 +22,7 @@ Adds, subtracts, multiplies, divides or takes percentage from existing value. If
 
 {% hint style="info" %}
 Create two User Commands for scale, using **add value** setting:\
-`scale_up: +5  `\
+`scale_up: +5`  \
 `scale_down: -5`\
 Assign keyboard for each command. Now it is possible to control clip scale with a keyboard.
 
@@ -149,7 +149,6 @@ If there is already another clip at playhead position, trim will be performed to
 ![](../../../.gitbook/assets/clip\_15\_trim\_out\_fill.gif)
 
 {% hint style="warning" %}
-This command can not be undone.\
 **UI bug**: after performing command some selected clips might look like they are not selected.
 {% endhint %}
 
@@ -162,11 +161,6 @@ Moves clips Start/End to Playhead.
 If there is already another clip at playhead position, move will be performed to End/Start of this clip.
 
 ![](../../../.gitbook/assets/clip\_17\_move\_start\_fill.gif)
-
-{% hint style="warning" %}
-This command can not be undone.\
-**UI bug**: after performing command some selected clips might look like they are not selected.
-{% endhint %}
 
 ## Remove Transitions
 
