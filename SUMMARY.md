@@ -28,7 +28,7 @@
     * [Keyboard Shortcut](extensions/excalibur/user-commands/keyboard-shortcut.md)
     * [Wait](extensions/excalibur/user-commands/wait.md)
     * [Wildcards](extensions/excalibur/user-commands/wildcards.md)
-  * [Special Bins](extensions/excalibur/created-bins.md)
+  * [Special Bins](extensions/excalibur/special-bins.md)
   * [Limitations & Bugs](extensions/excalibur/limitations.md)
   * [Compatibility](extensions/excalibur/compatibility/README.md)
     * [macOS Permissions](extensions/excalibur/compatibility/macos-permissions.md)
