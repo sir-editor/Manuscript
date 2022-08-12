@@ -13,7 +13,7 @@ When using Watchtower with Post Haste you will be able to setup a project templa
 1. Open Post Haste and navigate to your template.
 2. Right click on template top folder and select "Reveal in Finder/Explorer".
 3. Copy "Files" folder with template folder structure and paste it to temporary location (e.g. "Desktop").
-4. Open template project and then Watchtower Select Folders.\
+4. Open template project you just pasted (e.g. "Desktop" location) and then Watchtower Select Folders.\
    In Standard select folders from template folder structure.
 5. In Advanced set all folders to **relative path** ("R" checkbox). Adjust other settings if needed.
 6. Selected folders will be added to project.
@@ -36,8 +36,8 @@ When using Watchtower with Post Haste you will be able to setup a project templa
 
 ![](../../../.gitbook/assets/post\_haste\_03.png)
 
-* Open template project and then Watchtower Select Folders.\
-  In Standard select folders from template folder structure.
+* Open template project you just pasted (e.g. "Desktop" location) and then Watchtower Select Folders.\
+  In Standard select folders from template folder structure..
 
 ![](../../../.gitbook/assets/post\_haste\_04.png)
 
