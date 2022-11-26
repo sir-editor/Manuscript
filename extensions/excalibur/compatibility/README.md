@@ -2,8 +2,9 @@
 
 Excalibur works both on **macOS** **(10.14.5 and higher)** and **Windows**.
 
-| **Premiere Pro** | **2020 and higher** |
+| application      | version             |
 | ---------------- | ------------------- |
+| **Premiere Pro** | **2020 and higher** |
 
 {% hint style="info" %}
 Premiere Pro CC2019 support is being tested.

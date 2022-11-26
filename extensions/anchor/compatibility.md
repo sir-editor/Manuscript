@@ -2,8 +2,9 @@
 
 Anchor works both on **macOS** and **Windows**.
 
-| **Premiere Pro** | **2020\* and higher** |
-| ---------------- | --------------------- |
+| application      | version                |
+| ---------------- | ---------------------- |
+| **Premiere Pro** | **2020\*, 2021, 2022** |
 
 {% hint style="info" %}
 **\***Premiere Pro 14.4 is a minimal compatible version.
