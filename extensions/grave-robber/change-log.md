@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.1 — 2022-12-22
+
+Fixed
+
+* In some cases Grave Robber couldn't be activated with a license key
+
 ## 1.1.0 — 2022-12-16
 
 #### New
