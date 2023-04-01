@@ -88,6 +88,7 @@
   * [Disable Compass](extensions/compass/disable-compass.md)
   * [Change log](extensions/compass/change-log.md)
   * [Uninstall](extensions/compass/uninstall.md)
+* [The Game](extensions/the-game.md)
 * [Spellbook](extensions/spellbook/README.md)
   * [What is it for?](extensions/spellbook/what-is-it-for.md)
   * [How it works](extensions/spellbook/how-it-works.md)
