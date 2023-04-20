@@ -89,6 +89,7 @@
   * [Change log](extensions/compass/change-log.md)
   * [Uninstall](extensions/compass/uninstall.md)
 * [The Game](extensions/the-game/README.md)
+  * [Settings](extensions/the-game/settings.md)
   * [Customize sounds](extensions/the-game/customize-sounds.md)
   * [Change log](extensions/the-game/change-log.md)
   * [Uninstall](extensions/the-game/uninstall.md)

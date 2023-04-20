@@ -27,14 +27,14 @@ The location of the customized keyboard shortcuts file depends on whether you've
 {% tabs %}
 {% tab title="macOS" %}
 Signed into Creative Cloud Sync Settings\
-_****_`Users/[username]/Documents/Adobe/Premiere Pro/[version]/Profile-CreativeCloud-/Mac/`
+`Users/[username]/Documents/Adobe/Premiere Pro/[version]/Profile-CreativeCloud-/Mac/`
 
 Signed out of Creative Cloud Sync Settings`Users/[username]/Documents/Adobe/Premiere Pro/[version]/Profile-username/Mac/`
 {% endtab %}
 
 {% tab title="Windows" %}
 Signed into Creative Cloud Sync Settings\
-_****_`Users\[username]\Documents\Adobe\Premiere Pro\[version]\Profile-CreativeCloud-\Win\`
+`Users\[username]\Documents\Adobe\Premiere Pro\[version]\Profile-CreativeCloud-\Win\`
 
 Signed out of Creative Cloud Sync Settings`Users\[username]\Documents\Adobe\Premiere Pro\[version]\Profile-username\Win\`
 {% endtab %}
