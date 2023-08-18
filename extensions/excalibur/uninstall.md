@@ -1,7 +1,6 @@
 # Uninstall
 
-To uninstall Excalibur, remove\
-“**knights\_of\_the\_editing\_table.excalibur**” folder from:
+Remove **`knights_of_the_editing_table.excalibur`** folder from:
 
 ### macOS
 
