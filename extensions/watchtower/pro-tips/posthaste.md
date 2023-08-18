@@ -26,7 +26,11 @@ When using Watchtower with Post Haste you will be able to setup a project templa
 
 * Open Post Haste and navigate to your template
 
-![](../../../.gitbook/assets/post\_haste\_01.png)
+<div align="center">
+
+<img src="../../../.gitbook/assets/post_haste_01.png" alt="">
+
+</div>
 
 * Right click on template top folder and select "Reveal in Finder/Explorer"
 

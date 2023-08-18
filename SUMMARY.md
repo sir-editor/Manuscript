@@ -100,8 +100,8 @@
 
 ## Website
 
-* [Blacksmith](website/blacksmith/README.md)
-  * [Convert .kys file](website/blacksmith/convert-kys-file.md)
+* [Free tools](website/free/README.md)
+  * [Convert .kys file](website/free/convert-kys-file.md)
 * [License Management](website/license.md)
 
 ***
