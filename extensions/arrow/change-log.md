@@ -1,5 +1,11 @@
 # Change log
 
+## 1.0.5 — 2023-08-30
+
+#### Fixed
+
+* Images with big resolution didn’t fully copy in clipboard (half of an image was white)
+
 ## 1.0.4 — 2021-05-19
 
 #### Fixed
@@ -11,9 +17,8 @@
 
 #### Fixed
 
-* Arrow didn't copy a frame to the clipboard \(oops!\)
+* Arrow didn't copy a frame to the clipboard (oops!)
 
 ## 1.0.0 — 2021-05-14
 
 Initial Release
-
