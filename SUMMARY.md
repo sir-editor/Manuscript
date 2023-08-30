@@ -86,6 +86,7 @@
   * [How it works](extensions/compass/how-it-works.md)
   * [Wildcard names](extensions/compass/wildcard-names.md)
   * [Disable Compass](extensions/compass/disable-compass.md)
+  * [Compatibility](extensions/compass/compatibility.md)
   * [Change log](extensions/compass/change-log.md)
   * [Uninstall](extensions/compass/uninstall.md)
 * [The Game](extensions/the-game/README.md)
