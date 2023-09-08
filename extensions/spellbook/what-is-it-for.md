@@ -4,3 +4,5 @@ API for Adobe products doesn't expose a shortcuts press, so it is impossible for
 There is possibility to assign shortcuts for single scripts in After Effects and Photoshop, but other applications missing this feature.
 
 Spellbook solves that.
+
+I plan to make it open source and allow other developers to use it.

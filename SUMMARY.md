@@ -89,6 +89,13 @@
   * [Compatibility](extensions/compass/compatibility.md)
   * [Change log](extensions/compass/change-log.md)
   * [Uninstall](extensions/compass/uninstall.md)
+* [Portal](extensions/portal/README.md)
+  * [What is it for?](extensions/portal/what-is-it-for.md)
+  * [How it works](extensions/portal/how-it-works.md)
+  * [Settings](extensions/portal/settings.md)
+  * [Compatibility](extensions/portal/compatibility.md)
+  * [Change log](extensions/portal/change-log.md)
+  * [Uninstall](extensions/portal/uninstall.md)
 * [The Game](extensions/the-game/README.md)
   * [Settings](extensions/the-game/settings.md)
   * [Customize sounds](extensions/the-game/customize-sounds.md)
@@ -101,8 +108,8 @@
 
 ## Website
 
-* [Free tools](website/free/README.md)
-  * [Convert .kys file](website/free/convert-kys-file.md)
+* [Free](website/blacksmith/README.md)
+  * [Convert .kys file](website/blacksmith/convert-kys-file.md)
 * [License Management](website/license.md)
 
 ***
