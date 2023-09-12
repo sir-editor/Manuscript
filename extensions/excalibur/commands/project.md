@@ -26,5 +26,14 @@ Executes selected ExtendScript file (.jsx)
 
 To execute script file, place it in **Scripts** folder:
 
-`[mac] /Users/*username*/Documents/Knights of the Editing Table/Excalibur/Scripts  `\
-`[win] C:/Users/*username*/Documents/Knights of the Editing Table/Excalibur/Scripts`
+macOS:
+
+```
+/Users/*username*/Documents/Knights of the Editing Table/Excalibur/Scripts
+```
+
+Windows:
+
+```
+C:/Users/*username*/Documents/Knights of the Editing Table/Excalibur/Scripts
+```
