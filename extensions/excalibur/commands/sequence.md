@@ -50,25 +50,25 @@ Targets specified tracks.
 
 **\*** To affect multiple tracks, type track numbers separated by comma
 
-![](../../../.gitbook/assets/seq\_11\_targettracks.gif)
+![](../../../.gitbook/assets/seq\_11\_targetTracks.gif)
 
 ## Mute Video/Audio Tracks
 
 Mutes specified tracks. For list of options look at [Target Video/Audio Tracks](sequence.md#target-video-audio-tracks).
 
-![](../../../.gitbook/assets/seq\_12\_mutetracks.gif)
+![](../../../.gitbook/assets/seq\_12\_muteTracks.gif)
 
 ## Lock Video/Audio Tracks
 
 Locks specified tracks. For list of options look at [Target Video/Audio Tracks](sequence.md#target-video-audio-tracks).
 
-![](../../../.gitbook/assets/seq\_13\_locktracks.gif)
+![](../../../.gitbook/assets/seq\_13\_lockTracks.gif)
 
 ## Sync Lock Video/Audio Tracks
 
 Sync Locks specified tracks. For list of options look at [Target Video/Audio Tracks](sequence.md#target-video-audio-tracks).
 
-![](../../../.gitbook/assets/seq\_14\_synclocktracks.gif)
+![](../../../.gitbook/assets/seq\_14\_syncLockTracks.gif)
 
 ## Solo Mute Tracks
 

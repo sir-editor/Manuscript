@@ -4,7 +4,7 @@
 
 Video effect is applied to selected clips.
 
-![](../../../.gitbook/assets/fx_01_warp.gif)
+![](../../../.gitbook/assets/fx\_01\_warp.gif)
 
 ## Audio Effects
 
@@ -14,9 +14,8 @@ By default audio effect is applied to selected clips.
 
 ### Apply to Selected Clips
 
-![](../../../.gitbook/assets/fx_02_eq.gif)
+![](../../../.gitbook/assets/fx\_02\_EQ.gif)
 
 ### Apply to Audio Track
 
-![](../../../.gitbook/assets/fx_03_eq_track.gif)
-
+![](../../../.gitbook/assets/fx\_03\_EQ\_track.gif)

@@ -14,7 +14,7 @@ Therefore this instruction consists of two parts:
 {% tab title="Windows" %}
 Open regedit > HKEY\_CURRENT\_USER/Software/Adobe/CSXS.11, then add a new entry **`PlayerDebugMode`** of type **`string`** with the value of **`1`**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><em>On Windows, Regedit is located in (C:\Windows\regedit). You also can access it using CMD.</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><em>On Windows, Regedit is located in (C:\Windows\regedit). You also can access it using CMD.</em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="macOS" %}

@@ -2,7 +2,7 @@
 
 Regular expressions  (shortened as **regex** or **regexp**) are patterns used to match character combinations in strings.
 
-![](../../../.gitbook/assets/settings\_v132\_folder.png)
+![](<../../../.gitbook/assets/settings\_v132\_folder (1).png>)
 
 To use regex filter enclose search pattern in slashes: "/temp/, "/\d/"\
 Regex filter is case-insensitive.
