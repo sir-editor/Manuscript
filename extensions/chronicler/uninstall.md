@@ -1,0 +1,15 @@
+# Uninstall
+
+Remove **`knights_of_the_editing_table.chronicler`** folder from:
+
+### macOS
+
+```
+/Library/Application Support/Adobe/CEP/extensions/
+```
+
+### Windows
+
+```
+C:\Users\*username*\AppData\Roaming\Adobe\CEP\extensions\
+```

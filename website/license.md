@@ -2,7 +2,7 @@
 
 [License management](http://knightsoftheeditingtable.com/license) allows you to control usage of your licenses online.
 
-![](../.gitbook/assets/License\_manager\_cross.png)
+![](../.gitbook/assets/license\_manager\_cross.png)
 
 Here you can see how many seats are used and also deactivate computers.
 

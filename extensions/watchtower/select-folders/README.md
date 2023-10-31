@@ -10,7 +10,7 @@ When you select folders to import Watchtower autodetects folders with image sequ
 
 ## Advanced
 
-![](../../../.gitbook/assets/select\_folders\_info\_adv.png)
+![](<../../../.gitbook/assets/select\_folders\_info\_adv (1).png>)
 
 If you need special adjustments here you can set:
 

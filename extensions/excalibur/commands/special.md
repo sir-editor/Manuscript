@@ -25,4 +25,4 @@ If you use native undo command, you will get to **#1** in history stack and reco
 
 Opens Excalibur Settings
 
-![](../../../.gitbook/assets/special\_02\_excaliburSettings.png)
+![](../../../.gitbook/assets/special\_02\_excalibursettings.png)

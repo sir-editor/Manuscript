@@ -14,8 +14,8 @@ By default audio effect is applied to selected clips.
 
 ### Apply to Selected Clips
 
-![](../../../.gitbook/assets/fx\_02\_EQ.gif)
+![](../../../.gitbook/assets/fx\_02\_eq.gif)
 
 ### Apply to Audio Track
 
-![](../../../.gitbook/assets/fx\_03\_EQ\_track.gif)
+![](../../../.gitbook/assets/fx\_03\_eq\_track.gif)

@@ -47,7 +47,7 @@ file won't be imported.
 
 ## Folders
 
-![](<../../../.gitbook/assets/settings\_v132\_folder (1).png>)
+![](../../../.gitbook/assets/settings\_v132\_folder.png)
 
 Set folder names to be ignored during import.
 

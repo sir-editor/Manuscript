@@ -66,6 +66,14 @@
     * [Windows Antivirus](extensions/grave-robber/compatibility/windows-antivirus.md)
   * [Change Log](extensions/grave-robber/change-log.md)
   * [Uninstall](extensions/grave-robber/uninstall.md)
+* [Chronicler](extensions/chronicler/README.md)
+  * [What is it for?](extensions/chronicler/what-is-it-for.md)
+  * [How it works](extensions/chronicler/how-it-works.md)
+  * [Main Panel](extensions/chronicler/main-panel.md)
+  * [Settings](extensions/chronicler/settings.md)
+  * [Compatibility](extensions/chronicler/compatibility.md)
+  * [Change Log](extensions/chronicler/change-log.md)
+  * [Uninstall](extensions/chronicler/uninstall.md)
 * [Anchor](extensions/anchor/README.md)
   * [What is it for?](extensions/anchor/what-is-it-for.md)
   * [How it works](extensions/anchor/how-it-works.md)
@@ -108,8 +116,8 @@
 
 ## Website
 
-* [Free](website/free/README.md)
-  * [Convert .kys file](website/free/convert-kys-file.md)
+* [Free](website/blacksmith/README.md)
+  * [Convert .kys file](website/blacksmith/convert-kys-file.md)
 * [License Management](website/license.md)
 
 ***
