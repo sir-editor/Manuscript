@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.3 — 2023-11-20
+
+**Fixed**
+
+* Some merged clips couldn’t be un-merged
+
 ## 1.1.2 — 2023-01-19
 
 **Fixed**

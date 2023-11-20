@@ -4,7 +4,7 @@ To make Grave Robber work, one needs to give Accessibility permissions to Premie
 
 Normaly, after Grave Robber installation, when opening Premiere Pro, it should prompt you with dialog:
 
-![](../../../.gitbook/assets/macos\_01\_popup\_access.jpg)
+![](../../../.gitbook/assets/accessibility\_dialog.png)
 
 If you don’t have this pop-up, you can grant permissions manually. Go to:\
 **System Preferences > Security & Privacy > Privacy.**\
@@ -12,7 +12,7 @@ Go to Accessibility section, hit “+", find your Premiere Pro version, add it, 
 
 ## Accessibility (Mojave and above)
 
-![](../../../.gitbook/assets/macos\_03\_access.jpg)
+![](../../../.gitbook/assets/accessibility.png)
 
 ## Reset permissions
 
