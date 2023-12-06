@@ -2,15 +2,17 @@
 
 ## 1.1.2 — 2022-06-04
 
-#### Fixed
+### Fixed
 
 * Compass signature was broken during installation on some of Windows machines (extension didn't launch)
 * Compass didn't work if user didn't have other extensions by Knights of the Editing Table
 * Panel didn't load if Premiere Pro language was set to Japanese
 
+***
+
 ## 1.1.0 — 2022-05-20
 
-#### New
+### New
 
 * Added **Import, Replace Footage** path option
 * Added **Export Frame** option
@@ -18,6 +20,8 @@
 * Productions support
 * Override settings for projects
 * Localisation to all languages that are supported by Premiere Pro
+
+***
 
 ## 1.0.0 — 2021-04-21
 

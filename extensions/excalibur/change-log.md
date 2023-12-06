@@ -22,6 +22,8 @@
 * Add marker to Clip didn't account for clip speed changes
 * Move Clip Start/End to Playhead command optimised
 
+***
+
 ## 1.1.3 — 2021-07-14
 
 ### **New**
@@ -66,6 +68,8 @@
 * "Add Marker" renamed to "Add Marker to Sequence"
 * "Solo Tracks" renamed to "Solo Mute Tracks"
 
+***
+
 ## 1.1.2 — 2021-05-13
 
 ### **New**
@@ -84,6 +88,8 @@
 * Film Impact transitions did't work: Light Leaks Impacts; Kaleido Impacts; Stripes Impacts; Chroma Leaks Impacts
 * Optimized work with bigger timelines
 
+***
+
 ## 1.1.1 — 2021-04-09
 
 ### **New**
@@ -100,6 +106,8 @@
 * Doubling effect for Effect presets that also affect intrinsic effects
 * Excalibur didn't respond or worked with a delay
 * Timecode command
+
+***
 
 ## 1.1.0 — 2021-03-19
 
@@ -130,6 +138,8 @@
   * on macOS it wasn't possible to use Japanese characters in Project panel
   * Excalibur would quit when user selected suggestion from IME dropbox
 
+***
+
 ## 1.0.1 — 2021-01-05
 
 ### Transitions
@@ -149,6 +159,8 @@
 * **F1-F24** keys couldn't be assigned as shortcuts on Windows
 * After pressing down arrow on an empty search bar to show all commands, selected command wouldn't execute
 * UI fixes
+
+***
 
 ## 1.0.0 — 2020-12-01
 
