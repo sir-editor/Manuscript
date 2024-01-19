@@ -2,7 +2,7 @@
 
 ## Position, Scale, Rotation, Anchor Point, Anti-flicker Filter, Opacity, Volume
 
-![](../../../.gitbook/assets/clip\_01\_psr.jpg)
+![](../../../.gitbook/assets/clip\_01\_psr.png)
 
 ### Set value
 
@@ -29,6 +29,15 @@ Assign keyboard for each command. Now it is possible to control clip scale with 
 Same is useful for position, rotation and other properties.
 {% endhint %}
 
+### Add/Delete keyframe
+
+Works the same way as in After Effects.\
+If there is no keyframe at playhead position, it will be created.\
+If a stopwatch is inactive, it will be activated, and a keyframe will be created.
+
+If keyframe exists at playhead, it will be deleted.\
+If no keyframes left, a stopwatch will be deactivated.
+
 ## Blend Mode
 
 Changes blend mode of selected clips.
@@ -37,9 +46,11 @@ Changes blend mode of selected clips.
 
 ## Speed
 
-Changes speed of selected clip, without affecting its duration.
+* **Change Speed** — duration is not affected
+* **Change Speed and Duration** — duration is linked to speed change
+* **Change Speed and Duration**, **Ripple Edit** — trailing clips will shift, left or right depending on duration change
 
-![](../../../.gitbook/assets/clip\_03\_speed.gif)
+![](<../../../.gitbook/assets/clip\_03\_speed (1).gif>)
 
 ## Duration
 

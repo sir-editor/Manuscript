@@ -115,3 +115,23 @@ Available Items:
 * Bars and Tone
 
 ![](../../../.gitbook/assets/seq\_09\_new\_item.gif)
+
+## Match Frame to Source Sequence
+
+Match frame from active sequence to sequence in source monitor.
+
+{% hint style="info" %}
+Source sequence should be loaded in source monitor for this command to work.
+{% endhint %}
+
+## Reverse Match Frame
+
+Match frame from source monitor to active sequence. Works with sequences and media files loaded in source monitor.
+
+## Move Playhead
+
+Move playhead to specific or calculated timecode. Works the same way as [Timecode](timecode.md).
+
+{% hint style="info" %}
+Useful for user commands to create keyframe automations.
+{% endhint %}

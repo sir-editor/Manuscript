@@ -1,5 +1,35 @@
 # Change Log
 
+## 1.2.0 — 2024-01-19
+
+### **New**
+
+* **Match Frame to Source Sequence** command
+* **Reverse Match Frame** command
+* **Move Playhead** command
+* **Add/Delete keyframe** option for Position, Scale, Rotation, Volume, etc.
+* **Speed** command has `Change Duration`, `Ripple Edit` options
+* Support for new Film Impact transitions
+
+### **Fixed**
+
+* Export Selected Clips: export will start after all items are added to render queue
+* Copy frame to clipboard didn't work on Windows
+* Anchor Point didn't account for clip width/height
+* Fill frame didn't account for pixel ratio
+* Select all disabled clips optimisation
+* Undo optimisation
+* Apply transition didn't work in some cases
+* Trim Out Point to Playhead didn't work for Graphic layers
+* un-Solo Tracks didn't account for new tracks added when Solo mode was enabled
+* Export Selected Clips by default didn't use sequence name for exported clip names
+* On Windows, if Timeline panel was detached from main window (e.g. two monitor setup), Excalibur failed to perform following commands: - Apply Transition, Premiere Pro nest, Paste clip, New Item -> Adjustment layer.
+* Added support for bezier and hold keyframes in Effects Presets (animation curve will default to standard bezier curve)
+* Search bar sort order
+* Non English languages fixes
+
+***
+
 ## 1.1.4 — 2021-10-31
 
 ### **New**
