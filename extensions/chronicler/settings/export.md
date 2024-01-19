@@ -8,7 +8,7 @@ Set user ID which will be linked to Chronicler data genarated on a computer. It 
 
 ## CSV Location
 
-CSV file will be created in predefined location.
+CSV file will be automatically created in predefined location.
 
 ## Webhook
 
