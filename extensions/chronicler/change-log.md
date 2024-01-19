@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.1.0 — 2024-01-19
+
+### New:
+
+* Automatic CSV export to predefined location
+* Post data to Webhook URL
+
+***
+
 ## 1.0.1 — 2023-11-22
 
 ### Fixed:
