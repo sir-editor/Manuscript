@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.2.1 — 2024-01-21
+
+### **Fixed**
+
+* Excalibur respond speed was slow
+* Fill frame didn't work on multiple selected clips
+
+***
+
 ## 1.2.0 — 2024-01-19
 
 ### **New**
