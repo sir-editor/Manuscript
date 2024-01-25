@@ -120,13 +120,17 @@ Available Items:
 
 Match frame from active sequence to sequence in source monitor.
 
-{% hint style="info" %}
+This command also works between Production projects.
+
+{% hint style="warning" %}
 Source sequence should be loaded in source monitor for this command to work.
 {% endhint %}
 
 ## Reverse Match Frame
 
 Match frame from source monitor to active sequence. Works with sequences and media files loaded in source monitor.
+
+This command also works between Production projects.
 
 ## Move Playhead
 
