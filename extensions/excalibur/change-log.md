@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.2.2 — 2024-01-29
+
+### **Fixed**
+
+* **Speed** command improvements
+* Fill frame didn't work on images and some video clips
+
+***
+
 ## 1.2.1 — 2024-01-21
 
 ### **Fixed**
