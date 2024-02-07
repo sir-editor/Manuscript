@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.2.3 — 2024-02-07
+
+### **Fixed**
+
+* Bezier keyframes, used in effect presets, didn't account for speed property of a keyframe.
+
+***
+
 ## 1.2.2 — 2024-01-29
 
 ### **Fixed**

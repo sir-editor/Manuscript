@@ -35,4 +35,4 @@ Transition presets can't be applied
 
 ## Bugs
 
-* When applying preset, all non-linear keyframes will be set to linear
+* When applying effect preset, influence (length of keyframe handle) for all bezier keyframes will be set to `16.6%`
