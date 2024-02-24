@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.1.2 — 2024-02-24
+
+### New:
+
+* `untitled_id` value in CSV data
+
+### Fixed:
+
+* on Windows Chronicler wouldn't stop tracking time when Adobe app lost focus
+* macOS Intel support
+
+***
+
 ## 1.1.0 — 2024-01-19
 
 ### New:
