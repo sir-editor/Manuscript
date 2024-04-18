@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.2.3 — 2024-04-18
+
+### **Fixed**
+
+* **Anchor Point** command didn't work if only one value (x or y) was set
+* Windows: Excalibur didn't register `Delete` key
+* Windows: Excalibur couldn't simulate `Backspace` key press
+* Windows: if NumLock was enabled it would affect key press simulation of certain keys
+
+***
+
 ## 1.2.2 — 2024-01-29
 
 ### **Fixed**
