@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.3 — 2024-04-18
+
+### Fixed:
+
+* **export CSV** command for selected projects returned empty CSV
+
+***
+
 ## 1.1.2 — 2024-02-24
 
 ### New:
