@@ -1,5 +1,19 @@
 # Change log
 
+## 1.2.0 — 2024-05-02
+
+### New
+
+* Import Dialog path is no longer supported
+
+### Fixed
+
+* Export Media didn’t work since Premiere Pro 2023
+
+***
+
+##
+
 ## 1.1.2 — 2022-06-04
 
 ### Fixed

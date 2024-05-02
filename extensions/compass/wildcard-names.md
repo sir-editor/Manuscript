@@ -3,15 +3,19 @@
 Wildcard name is a placeholder for a project/sequence name or time.
 
 e.g. for sequence "DrakeShip" in Vikings.prproj, on 15:30 20th May, 2022\
-this Compass export media path:\
-`/Users/Dropbox/EXPORT/`**`#YYYY#MM#DD`**`/`**`#PROJ`**`/`**`#SEQ`**`_`**`#hh#mm`**
+this Compass export media path:
 
-will generate a path:\
-`/Users/Dropbox/EXPORT/`**`20220520`**`/`**`Vikings`**`/`**`DrakeShip`**`_`**`1530`**
+```
+/Users/Dropbox/EXPORT/#YYYY#MM#DD/#PROJ/#SEQ_#hh#mm
+```
 
+will generate a path:
 
+```
+/Users/Dropbox/EXPORT/20220520/Vikings/DrakeShip_1530
+```
 
-When input is activated, wildcards will appear at the bottom of Compass panel.\
+When input is activated, wildcards will below input.\
 Click on any of them to insert a wildcard at cursor position.
 
 ![](../../.gitbook/assets/Compass\_wildcards.gif)

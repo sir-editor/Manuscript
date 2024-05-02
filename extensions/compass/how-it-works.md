@@ -2,7 +2,6 @@
 
 Compass controls following Premiere Pro settings:
 
-* Import, Replace Footage path
 * Export Media path
 * Export Frame path
 
@@ -10,7 +9,7 @@ Compass controls following Premiere Pro settings:
 
 ### Relative path
 
-When **R** checkbox is active Compass will use path that is relative to current project file. This is useful for projects that use folder structure templates.
+When **R** button is active Compass will use path that is relative to current project file. This is useful for projects that use folder structure templates.
 
 {% hint style="info" %}
 If project is a part of Production, then path will be relative to Production folder.
@@ -20,7 +19,7 @@ If project is a part of Production, then path will be relative to Production fol
 
 To have more control over path, use [wildcard names](wildcard-names.md) to create dynamic folder names for each project.
 
-When input is activated, wildcards will appear at the bottom of Compass panel.\
+When input is activated, wildcards will appear below input.\
 Click on any of them to insert a wildcard at cursor position.
 
 ![](../../.gitbook/assets/Compass\_wildcards.gif)
@@ -32,8 +31,6 @@ Compass settings affect all projects. If needed settings could be changed for a 
 ### Folder Creation
 
 If export path does not exist, Compass will create all necessary folders.
-
-Compass won't create any folders for **Import, Replace Footage** option.
 
 ### Supported Export Media dialogs
 
