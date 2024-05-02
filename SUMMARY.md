@@ -113,10 +113,10 @@
   * [Customize sounds](extensions/the-game/customize-sounds.md)
   * [Change log](extensions/the-game/change-log.md)
   * [Uninstall](extensions/the-game/uninstall.md)
-* [Spellbook](extensions/spellbook/README.md)
-  * [What is it for?](extensions/spellbook/what-is-it-for.md)
-  * [How it works](extensions/spellbook/how-it-works.md)
-  * [Uninstall](extensions/spellbook/uninstall.md)
+* [Spell Book](extensions/spell-book/README.md)
+  * [What is it for?](extensions/spell-book/what-is-it-for.md)
+  * [How it works](extensions/spell-book/how-it-works.md)
+  * [Uninstall](extensions/spell-book/uninstall.md)
 
 ## Website
 
