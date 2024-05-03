@@ -18,7 +18,7 @@ will generate a path:
 When input is activated, wildcards will below input.\
 Click on any of them to insert a wildcard at cursor position.
 
-![](../../.gitbook/assets/Compass\_wildcards.gif)
+![](../../.gitbook/assets/compass\_wildcards\_manu.gif)
 
 #### Available Wildcards:
 

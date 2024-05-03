@@ -5,7 +5,7 @@ Compass controls following Premiere Pro settings:
 * Export Media path
 * Export Frame path
 
-![](../../.gitbook/assets/Compass\_01.png)
+![](../../.gitbook/assets/compass\_01.png)
 
 ### Relative path
 
@@ -22,7 +22,7 @@ To have more control over path, use [wildcard names](wildcard-names.md) to creat
 When input is activated, wildcards will appear below input.\
 Click on any of them to insert a wildcard at cursor position.
 
-![](../../.gitbook/assets/Compass\_wildcards.gif)
+![](../../.gitbook/assets/compass\_wildcards\_manu.gif)
 
 ### Override settings
 
@@ -45,7 +45,7 @@ Compass supports all types of export dialogs:
 
 Compass is translated to all Premiere Pro supported languages: English, German, French, Spanish, Italian, Portuguese, Russian, Japanese, Korean and Chinese.
 
-![](../../.gitbook/assets/Compass\_language.gif)
+![](../../.gitbook/assets/compass\_lng\_manu.gif)
 
 {% hint style="info" %}
 If there is an incorrect translation, please write to support@knightsoftheeditingtable.com
