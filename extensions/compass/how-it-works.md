@@ -22,7 +22,11 @@ To have more control over path, use [wildcard names](wildcard-names.md) to creat
 When input is activated, wildcards will appear below input.\
 Click on any of them to insert a wildcard at cursor position.
 
-![](../../.gitbook/assets/compass\_wildcards\_manu.gif)
+<div data-full-width="false">
+
+<img src="../../.gitbook/assets/compass_wildcards_manu.gif" alt="">
+
+</div>
 
 ### Override settings
 
