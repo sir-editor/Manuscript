@@ -19,5 +19,5 @@ If you need special adjustments here you can set:
 **R** - use relative path (useful for project templates)
 
 {% hint style="info" %}
-You can use [keyboard](keyboard-shortcuts.md) to interact with Select Folders menu
+You can use [keyboard](broken-reference) to interact with Select Folders menu
 {% endhint %}
