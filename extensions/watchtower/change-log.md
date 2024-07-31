@@ -1,5 +1,29 @@
 # Change log
 
+## 1.5.1 — 2024-07-30
+
+### Fixed:
+
+* Watchtower didn’t wait for files to be written on disk
+* Special characters in project name wouldn’t allow Watchtower to work
+* When linking bins, sub-bins were not linked
+* After Effects: in some cases Watch folders panel couldn’t load
+* Other minor fixes
+
+***
+
+## 1.5.0 — 2024-05-23
+
+### New:
+
+* Watchtower rewritten from zero
+* Performance improvement
+* Stable auto-sync, waits for files to be written on disk
+* Label option for imported items
+* Import Date metadata for Premiere Pro
+
+***
+
 ## 1.3.2 — 2020-10-31
 
 ### General:
