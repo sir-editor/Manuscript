@@ -1,27 +1,42 @@
 # Main Panel
 
-![](../../.gitbook/assets/main_panel.png)
+![](../../.gitbook/assets/watchtower\_main\_panel.gif)
 
-Watchtower main panel has 3 buttons. It is possible to align them vertically in settings.
+## Main Panel
 
-## Force Sync
+Watchtower main panel has 3 buttons:
 
-Click it whenever you need to sync folders.  
-If you turned on auto sync, you can forget about it :\)
+* **Watch/Un-watch —** toggle auto-sync
+* **Sync —** to manually sync folders
+* **Folders —** open watch-folders manager where you can add/remove watch folders and adjust watch-folders settings
 
-## Select Folders
-
-Opens a menu where you can add/remove watch folders from your project. Also you can adjust if folders should use image sequence import, be flattened or use relative path.
-
-#### Sync folder to an existing bin
-
-Select one bin in your project, **alt+click** on select folders button and you will be able to link folder to that bin.
-
-## Settings
-
-In settings you can adjust import options, filter for file extensions and folder names, deactivate license on current machine and download update.
-
-{% hint style="success" %}
+{% hint style="info" %}
 If you already selected watch folders for your project and turned auto sync on, you can close main panel and Watchtower will continue to work in background
 {% endhint %}
 
+***
+
+## Settings
+
+To access settings, right-click on the main panel or click on 3 lines (flyout menu).
+
+<figure><img src="../../.gitbook/assets/watchtower_main_panel_settings.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Add watch-folders
+
+Select folders in your file browser and drag'n'drop them on Watchtower panel.
+
+<figure><img src="../../.gitbook/assets/watchtower_main_panel_dnd_folders.gif" alt=""><figcaption></figcaption></figure>
+
+## Link existing bins
+
+Select one or more bins in your project and drag'n'drop them on Watchtower panel.
+
+<figure><img src="../../.gitbook/assets/watchtower_main_panel_dnd_bins.gif" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Watchtower will offer folder path based on files path inside a bin.\
+You can change folder path if it is not correct.
+{% endhint %}

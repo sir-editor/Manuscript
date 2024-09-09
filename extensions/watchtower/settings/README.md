@@ -1,53 +1,60 @@
 # Settings
 
+To access settings, right-click on the main panel or click on 3 lines (flyout menu).
+
+<figure><img src="../../../.gitbook/assets/watchtower_main_panel_settings.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 ## General
 
-![](../../../.gitbook/assets/settings\_v132\_both.png)
+![](../../../.gitbook/assets/watchtower\_settings\_general.png)
 
 General tab is different for Premiere Pro and After Effects.
 
-#### **Auto sync**
+### Show import options
 
-Project will be synced every time file or folder added to watch folder. Watchtower panel can be closed and auto import will still happen in background. Auto sync works across multiple opened projects in Premiere Pro.
+If enabled, in Premiere Pro when syncing bins a dialogue will appear and ask how to import files.\
+It works for Illustrator and Photoshop project files.
 
-#### Show import options
+### Add Import Date
 
-In Premiere Pro when syncing bins a dialogue will appear and ask how to import files.\
-It works for Premiere Pro, Illustrator and Photoshop project files.
+In Premiere Pro, additional metadata `Import Date` will be created for each imported item.\
+Date format allows to sort `Import Date` column.
 
-#### Photoshop, Illustrator import as
+To show `Import Date`, open Metadata Display in project panel and check Import Date.
 
-In After Effects it is possible to choose how to import Photoshop and Illustrator files:\
-as footage, composition or composition with retained layers sizes.
+<figure><img src="../../../.gitbook/assets/watchtower_settings_import_date.gif" alt=""><figcaption></figcaption></figure>
 
-#### Notifications
+### Photoshop, Illustrator import as
 
-Premiere Pro event will notify you about sync results.\
+In After Effects it is possible to choose how to import Photoshop and Illustrator files:
+
+* as footage
+* composition
+* composition with retained layers sizes.
+
+### Show Notifications
+
+Premiere Pro event will show notification about sync results.\
 After Effects will show notification in Info panel.
 
-#### Share anonymous usage data
+***
 
-This helps me as a developer to see which Watchtower features are useful and which are not. [See what data is collected](anonymous-usage-data.md).
+## Allowed Files
 
-#### Updates
+![](../../../.gitbook/assets/watchtower\_settings\_allowed\_files.png)
 
-When update will be available, download buttons will appear here.
-
-## Files
-
-![](../../../.gitbook/assets/settings\_v132\_file.png)
-
-Set filter for file extensions to import.\
-You can toggle checkbox and add/delete file extension.
+Set filter for file extensions to import.
 
 {% hint style="warning" %}
 If file extension is not supported by Premiere Pro or After Effects\
 file won't be imported.
 {% endhint %}
 
-## Folders
+## Ignored Folders
 
-![](../../../.gitbook/assets/settings\_v132\_folder.png)
+![](../../../.gitbook/assets/watchtower\_settings\_ignored\_folders.png)
 
 Set folder names to be ignored during import.
 
@@ -60,16 +67,4 @@ You can set [**Regex**](regex-folder-name-filter.md) filter as well, put regex p
 When new folder created inside watch folder, "untitled folder" (or another name, depending on OS language) will be immediately added to project, before you have time to rename it.
 
 To avoid this, add "untitled folder" to folder name filter in settings
-{% endhint %}
-
-## License
-
-![](../../../.gitbook/assets/settings\_v132\_license.png)
-
-In License tab you can see/copy license code used on current computer.\
-It is possible to deactivate license on current machine.
-
-{% hint style="info" %}
-if you need to deactivate license on a computer you don't have access to,\
-use [License Management](../../../website/license.md) on website.
 {% endhint %}
