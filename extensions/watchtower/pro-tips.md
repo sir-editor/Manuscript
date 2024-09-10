@@ -38,38 +38,38 @@ When using Watchtower with Post Haste you will be able to setup a project templa
 
 <div align="center">
 
-<img src="../../../.gitbook/assets/post_haste_01.png" alt="">
+<img src="../../.gitbook/assets/post_haste_01.png" alt="">
 
 </div>
 
 * Right click on template top folder and select "Reveal in Finder/Explorer"
 
-![](../../../.gitbook/assets/post\_haste\_02.png)
+![](../../.gitbook/assets/post\_haste\_02.png)
 
 * Copy "Files" folder with template folder structure and paste it to temporary location (e.g. "Desktop").
 
-![](../../../.gitbook/assets/post\_haste\_03.png)
+![](../../.gitbook/assets/post\_haste\_03.png)
 
 * Open template project you just pasted (e.g. "Desktop" location) and then Watchtower Select Folders.\
   In Standard select folders from template folder structure..
 
-![](../../../.gitbook/assets/post\_haste\_04.png)
+![](../../.gitbook/assets/post\_haste\_04.png)
 
 * In Advanced set all folders to **relative path** ("R" checkbox). Adjust other settings if needed.
 
-![](../../../.gitbook/assets/post\_haste\_05.png)
+![](../../.gitbook/assets/post\_haste\_05.png)
 
 * Selected folders will be added to project.
 
-![](../../../.gitbook/assets/post\_haste\_06a.png)
+![](../../.gitbook/assets/post\_haste\_06a.png)
 
 * Save modified template project and copy it.
 
-![](../../../.gitbook/assets/post\_haste\_07.png)
+![](../../.gitbook/assets/post\_haste\_07.png)
 
 * Replace original template project with modified one.
 
-![](../../../.gitbook/assets/post\_haste\_08.png)
+![](../../.gitbook/assets/post\_haste\_08.png)
 {% endtab %}
 {% endtabs %}
 
@@ -93,7 +93,7 @@ You can choose one of four following operations to begin automatically when file
 * **Create Proxies**
 * **Copy and Create Proxies**
 
-Due to [Watchtower logic](../how-it-works.md) only **Create Proxies** option is supported by Watchtower.\
+Due to [Watchtower logic](how-it-works.md) only **Create Proxies** option is supported by Watchtower.\
 Copy/Transcode will change original path of imported media file to a new path and Watchtower will import original file again, creating an infinite loop.
 
 Workarounds for other options are listed below.
@@ -102,9 +102,11 @@ Workarounds for other options are listed below.
 
 {% tabs %}
 {% tab title="Copy" %}
-1. Open Ingest Settings.\
-   `mac: File > Project Settings > Ingest Settings`\
-   `win: Edit > Project Settings > Ingest Settings`
+1.  Open Ingest Settings.
+
+    `mac: File > Project Settings > Ingest Settings`
+
+    `win: Edit > Project Settings > Ingest Settings`
 2. Turn ingest off.
 3. Create destination folder you want your media be copied to.
 4. Add this folder using Watchtower. A bin will be created in the project.
@@ -114,9 +116,10 @@ Workarounds for other options are listed below.
 {% endtab %}
 
 {% tab title="Transcode" %}
-1. Open Ingest Settings.\
-   `mac: File > Project Settings > Ingest Settings`\
-   `win: Edit > Project Settings > Ingest Settings`
+1.  Open Ingest Settings.\
+    `mac: File > Project Settings > Ingest Settings`
+
+    `win: Edit > Project Settings > Ingest Settings`
 2. Turn ingest off.
 3. Create destination folder you want your media be transcoded to.
 4. Add this folder using Watchtower. A bin will be created in the project.
@@ -131,9 +134,10 @@ If you have new files coming from e.g. another editor and would like them to be 
 {% endtab %}
 
 {% tab title="Copy and Create Proxies" %}
-1. Open Ingest Settings.\
-   `mac: File > Project Settings > Ingest Settings`\
-   `win: Edit > Project Settings > Ingest Settings`
+1.  Open Ingest Settings.\
+    `mac: File > Project Settings > Ingest Settings`
+
+    `win: Edit > Project Settings > Ingest Settings`
 2. Turn ingest on and set it to Create Proxies.
 3. Create destination folder you want your media be copied to.
 4. Add this folder using Watchtower. A bin will be created in the project.

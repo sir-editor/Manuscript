@@ -14,8 +14,7 @@ General tab is different for Premiere Pro and After Effects.
 
 ### Show import options
 
-If enabled, in Premiere Pro when syncing bins a dialogue will appear and ask how to import files.\
-It works for Illustrator and Photoshop project files.
+If enabled, in Premiere Pro, during import of Illustrator and Photoshop files, a dialogue will appear with options of how to import files.
 
 ### Add Import Date
 

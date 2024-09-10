@@ -2,8 +2,6 @@
 
 ![](../../.gitbook/assets/watchtower\_main\_panel.gif)
 
-## Main Panel
-
 Watchtower main panel has 3 buttons:
 
 * **Watch/Un-watch —** toggle auto-sync
