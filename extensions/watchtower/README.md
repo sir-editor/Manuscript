@@ -10,3 +10,4 @@ coverY: 66.74082313681869
 * Import image sequences
 * Import or flatten sub-folders
 * Use relative paths for templates
+* Label imported items
