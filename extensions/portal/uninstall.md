@@ -11,5 +11,5 @@ Remove **`knights_of_the_editing_table.portal`** folder from:
 ### Windows
 
 ```markup
-C:\Users\*username*\AppData\Roaming\Adobe\CEP\extensions\
+C:\Users\%username%\AppData\Roaming\Adobe\CEP\extensions\
 ```

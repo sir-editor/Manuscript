@@ -17,5 +17,5 @@ C:\Program Files\Common Files\Adobe\CEP\extensions\
 Before v1.5.0:
 
 ```
-C:\Users\*username*\AppData\Roaming\Adobe\CEP\extensions\
+C:\Users\%username%\AppData\Roaming\Adobe\CEP\extensions\
 ```

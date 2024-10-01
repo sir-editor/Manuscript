@@ -1,5 +1,14 @@
 # Change log
 
+## 1.5.2 — 2024-09-30
+
+### Fixed:
+
+* Auto sync didn't work with ExFAT drives on macOS
+* After Effects: in some cases Watch folders panel couldn't load
+
+***
+
 ## 1.5.1 — 2024-07-30
 
 ### Fixed:

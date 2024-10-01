@@ -11,5 +11,5 @@ Remove **`knights_of_the_editing_table.anchor`** folder from:
 ### Windows
 
 ```
-C:\Users\*username*\AppData\Roaming\Adobe\CEP\extensions\
+C:\Users\%username%\AppData\Roaming\Adobe\CEP\extensions\
 ```
