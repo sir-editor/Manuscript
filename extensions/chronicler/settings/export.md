@@ -42,7 +42,7 @@ function doPost(e) {
     data.duration_hours,
     data.rate,
     data.sum,
-    data.project_id
+    data.project_id,
     data.untitled_id
     ])
 }
