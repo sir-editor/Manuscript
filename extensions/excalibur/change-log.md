@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.2.4 — 2024-10-20
+
+### **New**
+
+* Support for all 3rd party effects and transitions
+* UI support for Premiere Pro light theme
+
+***
+
+
+
 ## 1.2.3 — 2024-04-18
 
 ### **Fixed**
