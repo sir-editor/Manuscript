@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.2.5 — 2025-11-06
+
+### **Fixed**
+
+* Missing audio effects added (Fill Left with Right, Fill Right with Left, etc.)
+
+***
+
 ## 1.2.4 — 2024-10-20
 
 ### **New**
@@ -8,8 +16,6 @@
 * UI support for Premiere Pro light theme
 
 ***
-
-
 
 ## 1.2.3 — 2024-04-18
 
