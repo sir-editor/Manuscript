@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.2.6 — 2025-11-29
+
+### **Fixed**
+
+* Shortcuts didn't register on macOS 15+ (Sequoia)
+* on Windows, when executing user commands timeline got focus after each step, thus not allowing to use "Keyboard Shortcut" command outside timeline panel (e.g. Project panel)
+
+***
+
 ## 1.2.5 — 2025-11-06
 
 ### **Fixed**
