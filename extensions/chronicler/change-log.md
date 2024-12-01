@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.1.4 — 2024-12-01
+
+### Fixed:
+
+* Chronicler didn't stop tracking time after being idle
+
+***
+
+
+
 ## 1.1.3 — 2024-04-18
 
 ### Fixed:
