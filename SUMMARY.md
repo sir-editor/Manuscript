@@ -29,7 +29,7 @@
     * [Wait](extensions/excalibur/user-commands/wait.md)
     * [Wildcards](extensions/excalibur/user-commands/wildcards.md)
   * [Special Bins](extensions/excalibur/special-bins.md)
-  * [Limitations & Bugs](extensions/excalibur/limitations.md)
+  * [Limitations](extensions/excalibur/limitations.md)
   * [Compatibility](extensions/excalibur/compatibility/README.md)
     * [macOS Permissions](extensions/excalibur/compatibility/macos-permissions.md)
     * [Windows Antivirus](extensions/excalibur/compatibility/windows-antivirus.md)
