@@ -6,5 +6,4 @@ Grave Robber works both on **macOS** **(10.14.5 and higher)** and **Windows**.
 
 For Grave Robber to work one should:
 
-* macOS: give permissions to Premiere Pro
-* Windows: check antivirus
+* Windows: [check antivirus](windows-antivirus.md)

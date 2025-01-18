@@ -118,6 +118,11 @@
   * [How it works](extensions/spell-book/how-it-works.md)
   * [Uninstall](extensions/spell-book/uninstall.md)
 
+## SUPPORT TOOLS
+
+* [Merlin](support-tools/merlin.md)
+* [Undead](support-tools/undead.md)
+
 ## Website
 
 * [Free](website/blacksmith/README.md)

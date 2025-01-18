@@ -1,6 +1,6 @@
 # Uninstall
 
-Remove **`knights_of_the_editing_table.graverobber`** folder from:
+Remove **`knights_of_the_editing_table.grave_robber`** folder from:
 
 ### macOS
 
@@ -11,5 +11,5 @@ Remove **`knights_of_the_editing_table.graverobber`** folder from:
 ### Windows
 
 ```
-C:\Users\%username%\AppData\Roaming\Adobe\CEP\extensions\
+C:\Program Files\Common Files\Adobe\CEP\extensions\
 ```
