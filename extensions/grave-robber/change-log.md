@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.2.0 — 2025-01-18
+
+### **New**
+
+* Merlin control surface support
+* Undead extension support
+
+### Fixed
+
+* Merged video clips on tracks #2 and above couldn't be un-merged
+
+***
+
 ## 1.1.3 — 2023-11-20
 
 ### **Fixed**
