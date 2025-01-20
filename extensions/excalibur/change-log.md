@@ -1,4 +1,26 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Change Log
+
+## 1.2.7 — 2025-01-20
+
+### **Fixed**
+
+* Excalibur used obsolete version of Transform effect
+
+***
 
 ## 1.2.6 — 2024-11-29
 
