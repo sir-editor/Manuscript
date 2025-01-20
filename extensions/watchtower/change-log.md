@@ -18,7 +18,7 @@ layout:
 
 ### Fixed
 
-* Some of extensions not allowed in settings, were still imported (e.g. ".mts")
+* Some of file extensions not allowed in settings, were still imported (e.g. ".mts")
 
 ***
 
