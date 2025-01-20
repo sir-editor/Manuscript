@@ -1,4 +1,26 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Change log
+
+## 1.5.4 — 2025-01-20
+
+### Fixed
+
+* Some of extensions not allowed in settings, were still imported (e.g. ".mts")
+
+***
 
 ## 1.5.3 — 2024-11-18
 
