@@ -14,6 +14,14 @@ layout:
 
 # Change Log
 
+## 1.2.8 — 2025-02-01
+
+### **Fixed**
+
+* Excalibur didn’t apply LUTs in Lumetri presets in Premiere 23.4+
+
+***
+
 ## 1.2.7 — 2025-01-20
 
 ### **Fixed**
