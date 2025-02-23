@@ -35,6 +35,7 @@
     * [Windows Antivirus](extensions/excalibur/compatibility/windows-antivirus.md)
   * [Change Log](extensions/excalibur/change-log.md)
   * [Uninstall](extensions/excalibur/uninstall.md)
+* [Quiver](extensions/quiver.md)
 * [Watchtower](extensions/watchtower/README.md)
   * [What is it for?](extensions/watchtower/what-is-it-for.md)
   * [How it works](extensions/watchtower/how-it-works.md)
