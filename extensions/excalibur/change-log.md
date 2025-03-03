@@ -14,6 +14,14 @@ layout:
 
 # Change Log
 
+## 1.2.9 — 2025-03-03
+
+### **Fixed**
+
+* Excalibur shortcuts didn’t work on M4 Apple computers
+
+***
+
 ## 1.2.8 — 2025-02-01
 
 ### **Fixed**
