@@ -1,5 +1,13 @@
 # Change log
 
+## 1.5.0 — 2025-03-04
+
+### New
+
+* Spell Book support
+
+***
+
 ## 1.0.3 — 2023-12-06
 
 ### **Fixed**
