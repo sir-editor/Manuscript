@@ -14,6 +14,19 @@ layout:
 
 # Change log
 
+## 1.5.5 — 2025-03-12
+
+### New
+
+* Spell Book support
+
+### Fixed
+
+* On Windows if project and folders/files were on different drives, folders/files were ignored.
+* Another fix for allowed extensions setting
+
+***
+
 ## 1.5.4 — 2025-01-20
 
 ### Fixed
