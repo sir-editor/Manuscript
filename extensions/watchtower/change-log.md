@@ -14,6 +14,15 @@ layout:
 
 # Change log
 
+## 1.5.6 — 2025-03-13
+
+### Fixed
+
+* Watchtower couldn't be activated in Premiere 2024 and below
+* Translation typos
+
+***
+
 ## 1.5.5 — 2025-03-12
 
 ### New
