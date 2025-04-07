@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.5 — 2025-04-07
+
+### Fixed:
+
+* Chronicler didn't track time in After Effects 25.2 on macOS
+
+***
+
 ## 1.1.4 — 2024-12-01
 
 ### Fixed:
@@ -7,8 +15,6 @@
 * Chronicler didn't stop tracking time after being idle
 
 ***
-
-
 
 ## 1.1.3 — 2024-04-18
 
