@@ -14,6 +14,14 @@ layout:
 
 # Change log
 
+## 1.5.7 — 2025-04-16
+
+### Fixed
+
+* Spell Book didn't load or crashed
+
+***
+
 ## 1.5.6 — 2025-03-13
 
 ### Fixed

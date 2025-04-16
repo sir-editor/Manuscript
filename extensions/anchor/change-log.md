@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.1 — 2025-04-16
+
+### Fixed
+
+* Spell Book didn't load or crashed
+
+***
+
 ## 1.5.0 — 2025-03-11
 
 ### New
