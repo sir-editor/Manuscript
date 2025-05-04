@@ -1,5 +1,13 @@
 # Change log
 
+## 1.5.2 — 2025-05-04
+
+### Fixed
+
+* If button used emoji in name, it displayed "?" in toolbar view (small buttons)
+
+***
+
 ## 1.5.1 — 2025-04-16
 
 ### Fixed
