@@ -16,7 +16,7 @@ layout:
 
 {% hint style="warning" %}
 **Merlin** control surface plugin is needed for Grave Robber to work.\
-[Read](../../support-tools/merlin.md) how to add it.
+[Read](../../support-tools/merlin/) how to add it.
 {% endhint %}
 
 1. Select clips on a timeline, that you want to un-nest or un-merge.\

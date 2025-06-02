@@ -1,6 +1,6 @@
 ---
 description: Clips at your fingertips
-cover: ../.gitbook/assets/Quiver_LQ.jpg
+cover: ../../.gitbook/assets/Quiver_LQ.jpg
 coverY: 44
 layout:
   cover:

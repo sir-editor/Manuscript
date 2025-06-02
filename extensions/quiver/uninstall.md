@@ -1,6 +1,6 @@
 # Uninstall
 
-Remove **`knights_of_the_editing_table.arrow`** folder from:
+Remove **`knights_of_the_editing_table.quiver`** folder from:
 
 ### macOS
 

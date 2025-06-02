@@ -35,7 +35,8 @@
     * [Windows Antivirus](extensions/excalibur/compatibility/windows-antivirus.md)
   * [Change Log](extensions/excalibur/change-log.md)
   * [Uninstall](extensions/excalibur/uninstall.md)
-* [Quiver](extensions/quiver.md)
+* [Quiver](extensions/quiver/README.md)
+  * [Uninstall](extensions/quiver/uninstall.md)
 * [Watchtower](extensions/watchtower/README.md)
   * [What is it for?](extensions/watchtower/what-is-it-for.md)
   * [How it works](extensions/watchtower/how-it-works.md)
@@ -114,19 +115,23 @@
   * [Customize sounds](extensions/the-game/customize-sounds.md)
   * [Change log](extensions/the-game/change-log.md)
   * [Uninstall](extensions/the-game/uninstall.md)
-* [Spell Book](extensions/spell-book/README.md)
+* [Spell Book](<extensions/spell-book/README (1).md>)
   * [What is it for?](extensions/spell-book/what-is-it-for.md)
   * [How it works](extensions/spell-book/how-it-works.md)
   * [Uninstall](extensions/spell-book/uninstall.md)
-* [Spell Book \[Excalibur version\]](extensions/spell-book-old/README.md)
-  * [What is it for?](extensions/spell-book-old/what-is-it-for.md)
-  * [How it works](extensions/spell-book-old/how-it-works.md)
-  * [Uninstall](extensions/spell-book-old/uninstall.md)
+* [Spell Book \[Excalibur version\]](extensions/spell-book/README.md)
+  * [What is it for?](<extensions/spell-book/what-is-it-for (1).md>)
+  * [How it works](<extensions/spell-book/how-it-works (1).md>)
+  * [Uninstall](<extensions/spell-book/uninstall (1).md>)
 
 ## SUPPORT TOOLS
 
-* [Merlin](support-tools/merlin.md)
-* [Undead](support-tools/undead.md)
+* [Merlin](support-tools/merlin/README.md)
+  * [Supported extensions](support-tools/merlin/supported-extensions.md)
+  * [Uninstall](support-tools/merlin/uninstall.md)
+* [Undead](support-tools/undead/README.md)
+  * [Supported extensions](support-tools/undead/supported-extensions.md)
+  * [Uninstall](support-tools/undead/uninstall.md)
 
 ## Website
 

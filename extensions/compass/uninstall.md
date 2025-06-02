@@ -11,5 +11,5 @@ Remove **`knights_of_the_editing_table.compass`** folder from:
 ### Windows
 
 ```
-C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\
+C:\Program Files\Common Files\Adobe\CEP\extensions\
 ```
