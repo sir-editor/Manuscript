@@ -56,7 +56,7 @@
   * [How it works](extensions/grave-robber/how-it-works.md)
   * [Main Panel](extensions/grave-robber/main-panel.md)
   * [Settings](extensions/grave-robber/settings.md)
-  * [Excalibur shortcut](extensions/grave-robber/excalibur-shortcut.md)
+  * [Excalibur support](extensions/grave-robber/excalibur-support.md)
   * [Compatibility](extensions/grave-robber/compatibility/README.md)
     * [macOS Permissions](extensions/grave-robber/compatibility/macos-permissions.md)
     * [Windows Antivirus](extensions/grave-robber/compatibility/windows-antivirus.md)

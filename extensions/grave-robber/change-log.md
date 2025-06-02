@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.1 — 2025-06-02
+
+### New
+
+* "Link un-nested clips" setting: clips will be linked, when un-nesting linked sequences.
+
+***
+
 ## 1.5.0 — 2025-03-03
 
 ### **New**
