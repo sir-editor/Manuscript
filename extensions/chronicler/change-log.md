@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.6 — 2025-06-02
+
+### Fixed
+
+* Idle time always started after 1 minute, regardless of the settings value
+
+***
+
 ## 1.1.5 — 2025-04-07
 
 ### Fixed:
