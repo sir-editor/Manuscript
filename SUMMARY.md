@@ -56,7 +56,7 @@
   * [How it works](extensions/grave-robber/how-it-works.md)
   * [Main Panel](extensions/grave-robber/main-panel.md)
   * [Settings](extensions/grave-robber/settings.md)
-  * [Excalibur support](extensions/grave-robber/excalibur-support.md)
+  * [Excalibur support](extensions/grave-robber/excalibur-shortcut.md)
   * [Compatibility](extensions/grave-robber/compatibility/README.md)
     * [macOS Permissions](extensions/grave-robber/compatibility/macos-permissions.md)
     * [Windows Antivirus](extensions/grave-robber/compatibility/windows-antivirus.md)
@@ -118,6 +118,10 @@
   * [What is it for?](extensions/spell-book/what-is-it-for.md)
   * [How it works](extensions/spell-book/how-it-works.md)
   * [Uninstall](extensions/spell-book/uninstall.md)
+* [Spell Book \[Excalibur version\]](extensions/spell-book-old/README.md)
+  * [What is it for?](extensions/spell-book-old/what-is-it-for.md)
+  * [How it works](extensions/spell-book-old/how-it-works.md)
+  * [Uninstall](extensions/spell-book-old/uninstall.md)
 
 ## SUPPORT TOOLS
 

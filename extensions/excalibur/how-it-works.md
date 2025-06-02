@@ -13,7 +13,7 @@ There is no possibility in Premiere Pro API to register shortcut press and execu
 Essentially any program that has shortcuts has a shortcut listener, e.g.:\
 Keyboard Maestro, AutoHotKey, Alfred.
 
-That is why I developed a second extension, that goes along with Excalibur: [**Spellbook**](../spell-book/)\
+That is why I developed a second extension, that goes along with Excalibur: [**Spellbook**](../spell-book-old/)\
 It listens for shortcut press inside Premiere Pro only, this allows to assign shortcuts to Excalibur search bar and any other command.
 
 ## Premiere Pro API

@@ -3,13 +3,13 @@
 Arrow works in background, when one presses a user defined shortcut Arrow will copy a frame at playhead to clipboard.
 
 {% hint style="info" %}
-Arrow listens for a shortcut press with help of [Spellbook](../spell-book/)\
+Arrow listens for a shortcut press with help of [Spellbook](../spell-book-old/)\
 (Excalibur relies on it as well)
 {% endhint %}
 
 ## Settings
 
-![](../../.gitbook/assets/arrow\_settings\_slim.png)
+![](../../.gitbook/assets/arrow_settings_slim.png)
 
 ### Shortcut
 
