@@ -21,3 +21,7 @@ Undead is an invisible extension for undo groups, which allows native Premiere P
 Undead will be automatically installed with the main extension.
 
 After installation, no extra steps are needed. Undead will work in the background.
+
+* [Quiver](../extensions/quiver/)
+* [Grave Robber](../extensions/grave-robber/) 1.2.0+
+* [Arrow](../extensions/arrow/) 1.5.0+

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Windows Antivirus
 
 If you have antivirus installed, it might block Arrow from listening a shortcut press. To be sure that Arrow works properly, whitelist following file:

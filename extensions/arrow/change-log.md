@@ -1,5 +1,19 @@
 # Change log
 
+## 1.5.0 — 2025-05-30
+
+### New
+
+* Paste images from clipboard to a timeline (overlay, overwrite & insert modes are supported)
+* Arrow panel with buttons
+* Spell Book support
+
+### Fixed
+
+* On Windows alpha channel was not preserved when copying frame to a clipboard
+
+***
+
 ## 1.0.5 — 2023-08-30
 
 ### Fixed

@@ -1,7 +1,6 @@
 # Image transparency
 
-If frame has an alpha channel, Arrow will preserve it.
+Arrow will preserve transparency both for:
 
-{% hint style="danger" %}
-On Windows transparency is not preserved.
-{% endhint %}
+* copied frame
+* pasted image

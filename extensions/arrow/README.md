@@ -1,10 +1,10 @@
 ---
-description: Loose a frame to the clipboard
+description: Loose a frame, draw a frame — with the clipboard.
 cover: ../../.gitbook/assets/Arrow_LQ.jpg
 coverY: 115.68409343715238
 ---
 
 # Arrow
 
-* Copy a frame to clipboard with a shortcut
-* Optionally save frame in: `png, jpeg, tiff, tga, dpx`
+* Copy a frame from a timeline to the clipboard
+* Paste an image from the clipboard to a timeline

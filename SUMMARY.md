@@ -88,8 +88,8 @@
   * [Change Log](extensions/cauldron/change-log.md)
   * [Uninstall](extensions/cauldron/uninstall.md)
 * [Arrow](extensions/arrow/README.md)
-  * [What is it for?](extensions/arrow/what-is-it-for.md)
-  * [How it works](extensions/arrow/how-it-works.md)
+  * [Main panel](extensions/arrow/main-panel.md)
+  * [Settings](extensions/arrow/settings.md)
   * [Image transparency](extensions/arrow/image-transparency.md)
   * [Compatibility](extensions/arrow/compatibility/README.md)
     * [macOS Permissions](extensions/arrow/compatibility/macos-permissions.md)
@@ -126,10 +126,10 @@
 
 ## SUPPORT TOOLS
 
-* [Merlin](support-tools/merlin/README.md)
+* [Merlin](support-tools/merlin.md)
   * [Supported extensions](support-tools/merlin/supported-extensions.md)
   * [Uninstall](support-tools/merlin/uninstall.md)
-* [Undead](support-tools/undead/README.md)
+* [Undead](support-tools/undead.md)
   * [Supported extensions](support-tools/undead/supported-extensions.md)
   * [Uninstall](support-tools/undead/uninstall.md)
 

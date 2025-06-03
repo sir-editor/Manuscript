@@ -1,10 +1,14 @@
+---
+hidden: true
+---
+
 # macOS Permissions
 
 To allow Arrow work properly, one need to give Input Monitoring permissions for Premiere Pro.
 
 Normaly, after Arrow installation, when opening Premiere Pro, it should prompt user with dialog:
 
-![](../../../.gitbook/assets/accessibility\_dialog.png)
+![](../../../.gitbook/assets/accessibility_dialog.png)
 
 If you don’t have these pop-up, you can grant permissions manually. Go to:\
 **System Preferences > Security & Privacy > Privacy.**\
@@ -12,7 +16,7 @@ Go to each section, hit “+", find your Premiere Pro version, add it, make sure
 
 ## Input monitoring (Catalina and above)
 
-![](../../../.gitbook/assets/input\_monitoring.png)
+![](../../../.gitbook/assets/input_monitoring.png)
 
 ## Reset permissions
 
