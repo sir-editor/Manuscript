@@ -7,7 +7,7 @@ Arrow panel has 4 commands:
 {% hint style="info" %}
 Arrow also works with the main panel closed.
 
-To access commands assign shortcuts or control surface buttons with [Spell Book](../spell-book/).
+To access commands assign shortcuts or control surface buttons with [Spell Book](<../spell-book/README (1).md>).
 {% endhint %}
 
 ### Copy

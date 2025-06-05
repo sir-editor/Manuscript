@@ -1,4 +1,23 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Spell Book
+
+Spell Book is a support app to listen for shortcut or control surface button press in Adobe apps,\
+to trigger 3rd party extension commands.
+
+
 
 There are 2 kinds of Spell Book:
 
