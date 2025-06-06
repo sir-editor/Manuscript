@@ -8,5 +8,5 @@ coverY: 0
 
 * Move an anchor point without moving a clip
 * Use alpha mode to set an anchor point to edge of an image
+* Choose to move an anchor point for Motion or Transform effect
 * Change an anchor point of animated clips
-* Assign a shortcut in [Excalibur](../excalibur/)
