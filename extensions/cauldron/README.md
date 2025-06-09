@@ -24,3 +24,5 @@ layout:
 * Use custom sequence settings or match first clip settings
 * Fit or fill frame in generated sequences
 * Name sequences with wildcards
+
+{% embed url="https://youtu.be/3NyPnH1zGUU" %}

@@ -10,3 +10,5 @@ coverY: 0
 * Use alpha mode to set an anchor point to edge of an image
 * Choose to move an anchor point for Motion or Transform effect
 * Change an anchor point of animated clips
+
+{% embed url="https://youtu.be/GQjjNuarH50" %}

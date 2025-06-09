@@ -11,3 +11,5 @@ coverY: 66.74082313681869
 * Import or flatten sub-folders
 * Use relative paths for templates
 * Label imported items
+
+{% embed url="https://youtu.be/RLNhNBuZKHc" %}

@@ -8,3 +8,5 @@ coverY: -17.26263871763255
 
 * Un-nest nested or multi-cam sequences
 * Un-merge clips
+
+{% embed url="https://youtu.be/gl8UE8d-RJ4" %}

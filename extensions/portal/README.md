@@ -8,3 +8,5 @@ coverY: 0
 
 * Access favourite folders from Adobe app
 * Absolute or relative path
+
+{% embed url="https://youtu.be/YS7nq-ADVJk" %}

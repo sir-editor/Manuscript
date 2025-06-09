@@ -11,3 +11,5 @@ coverY: 0
 * Auto-group linked projects: dynamic link, `.psd` files inside Premiere, etc.
 * Set idle time: tracking will stop after being idle for X minutes
 * Export CSV log for projects
+
+{% embed url="https://youtu.be/M2LEzLDGd8M" %}

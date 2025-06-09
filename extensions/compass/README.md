@@ -13,3 +13,5 @@ Same applies to import/replace footage dialog.
 With relative paths, when a project is changed, Compass will adjust an export path accordingly.\
 If an output folder doesn't exist Compass will create it.\
 And wildcard names give more control over export folder organisation.
+
+{% embed url="https://youtu.be/sM1a8fAqnQk" %}
