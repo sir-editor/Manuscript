@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Merlin
 
 Merlin is a control surface plugin that gives extensions even more control over Premiere Pro than just by using the API.
@@ -32,8 +18,3 @@ after major update of Premiere Pro (2025, 2026, etc)
 If Merlin is not loaded, you will get a warning:
 
 <figure><img src="../.gitbook/assets/Merlin_warning (1).png" alt=""><figcaption></figcaption></figure>
-
-##
-
-* [Quiver](../extensions/quiver/)
-* [Grave Robber](../extensions/grave-robber/) 1.2.0+
