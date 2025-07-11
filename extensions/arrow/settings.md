@@ -1,3 +1,18 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Settings
 
 ## Copy
@@ -34,6 +49,8 @@ Pasted image will be imported to a specified bin in the Project panel.
 If value is not set, image will be imported in `Arrow` bin.
 
 <figure><img src="../../.gitbook/assets/Arrow_paste_bin_path.gif" alt=""><figcaption><p>Bin path set to "/PASTED/#SEQ/#hh_#mm"</p></figcaption></figure>
+
+***
 
 ## Wildcards
 
