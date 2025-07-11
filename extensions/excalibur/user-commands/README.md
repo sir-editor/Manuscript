@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # User Commands
 
 User Command consists of one and more customised Excalibur commads, so it is possible to create combos/macros/workflows that fit your needs.

@@ -2,30 +2,42 @@
 
 ## Copy
 
-<figure><img src="../../.gitbook/assets/Arrow_Copy_settings (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Arrow_Copy_settings (2).png" alt=""><figcaption></figcaption></figure>
 
-#### Show Notifications
+### Show Notifications
 
 Toggle to show notification about copied frame.
 
-#### Save frame
+### Save frame
 
-If enabled, copied frame will be saved at absolute or relative (enable to a project path location.
+If enabled, copied frame will be saved at absolute or relative to a project path location.
+
+To enable **relative path**, toggle "R" button.
 
 ***
 
 ## Paste
 
-<figure><img src="../../.gitbook/assets/Arrow_Paste_settings (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Arrow_Paste_settings (2).png" alt=""><figcaption></figcaption></figure>
 
-Pasted image will be saved at absolute or relative to a project path location.
+### Pasted frame save location
 
+Pasted image will be saved at absolute or relative to a project path location.\
 If destination path doesn't exist, it will be created.
+
+To enable **relative path**, toggle "R" button.
+
+### Pasted frame project bin path
+
+Pasted image will be imported to a specified bin in the Project panel.
+
+If value is not set, image will be imported in `Arrow` bin.
+
+<figure><img src="../../.gitbook/assets/Arrow_paste_bin_path.gif" alt=""><figcaption><p>Bin path set to "/PASTED/#SEQ/#hh_#mm"</p></figcaption></figure>
 
 ## Wildcards
 
-Wildcard name is a placeholder for a project/sequence name or time.
-
+Wildcard name is a placeholder for a project/sequence name or time.\
 It is available both for Copy and Paste save paths.
 
 > e.g. for sequence "DrakeShip" in Vikings.prproj, on 15:30 20th May, 2022

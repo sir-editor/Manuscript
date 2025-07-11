@@ -1,5 +1,18 @@
 # Change log
 
+## 1.5.1 — 2025-07-04
+
+### New
+
+* "Pasted frame project bin path" setting — define where frame will be saved in a project panel
+
+### Fixed
+
+* On Windows Arrow didn't work with non-latin file paths
+* On Windows paste didn't work with images copied to clipboard with ShareX or similar tools
+
+***
+
 ## 1.5.0 — 2025-05-30
 
 ### New

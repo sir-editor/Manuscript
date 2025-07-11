@@ -2,20 +2,6 @@
 description: Clips at your fingertips
 cover: ../../.gitbook/assets/Quiver_LQ.jpg
 coverY: 44
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Quiver

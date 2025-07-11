@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Projects library
 
 If "Active project" is selected in Quiver panel, it is only possible to add clips to a sequence inside the same project. So if new project will be opened, all Quiver items from previous project won't be accessible.
