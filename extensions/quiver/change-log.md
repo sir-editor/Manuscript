@@ -1,5 +1,14 @@
 # Change log
 
+## 1.1.1 — 2025-07-23
+
+### Fixed
+
+* Library projects were automatically closed during activation without saving unsaved changes
+* Quiver panel lost focus after activation of library project
+
+***
+
 ## 1.1.0 — 2025-05-03
 
 ### New
