@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.2.10 — 2025-07-23
+
+### Fixed
+
+* Timecode command didn’t work correctly with drop frame sequences
+* Timecode move selected clips didn’t work on Windows
+* Excalibur settings accidentally could get corrupted
+
+***
+
 ## 1.2.9 — 2025-03-03
 
 ### **Fixed**
