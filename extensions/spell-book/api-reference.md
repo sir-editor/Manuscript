@@ -30,9 +30,12 @@ import Spellbook from '@knights-of-the-editing-table/spell-book';
 const commands = [
     {
         commandID: 'command.id',
-        name: 'Command 1', // use localised name if needed
-        group: 'Group 1', // optional
-        action: () => { // run action when command is triggered
+        // name: use localised name if needed
+        name: 'Command 1',
+        // group: optional
+        group: 'Group 1',
+        // action runs when command is triggered
+        action: () => { 
             console.log('command.id triggered!')
         }
     }
@@ -84,9 +87,12 @@ import Spellbook from '@knights-of-the-editing-table/spell-book-uxp';
 const commands = [
     {
         commandID: 'command.id',
-        name: 'Command 1', // use localised name if needed
-        group: 'Group 1', // optional
-        action: () => { // run action when command is triggered
+        // name: use localised name if needed
+        name: 'Command 1',
+        // group: optional
+        group: 'Group 1',
+        // action runs when command is triggered
+        action: () => { 
             console.log('command.id triggered!')
         }
     }
@@ -119,9 +125,12 @@ const spellbook = new Spellbook(
 #### **Methods**
 
 ```javascript
-spellbook.register(commands) // Add or update commands
-spellbook.start() // Start listening for command events
-spellbook.stop() // Stop listening for command events
+// Add or update commands
+spellbook.register(commands)
+// Start listening for command events
+spellbook.start()
+// Stop listening for command events
+spellbook.stop()
 ```
 
 #### **Events**
