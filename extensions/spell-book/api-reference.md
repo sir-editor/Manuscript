@@ -1,13 +1,9 @@
----
-description: Learn how to add Spell Book support to your extension
----
-
 # API Reference
 
 Spell Book works both in **CEP** and **UXP** platforms.
 
 It consists of application and extension, which acts as a bridge between Spell Book app and your extension.\
-I've created two npm modules, both for [CEP](https://www.npmjs.com/package/@knights-of-the-editing-table/spell-book) and [UXP](https://app.gitbook.com/u/S44malNHPqNYGj2frrNU4XHIoMc2). These modules provide interface for commands registration and handling command event.
+Use npm modules, both for [CEP](https://www.npmjs.com/package/@knights-of-the-editing-table/spell-book) and [UXP](http://npmjs.com/package/@knights-of-the-editing-table/spell-book-uxp), that provide interface for commands registration and handling command event.
 
 ## Installation
 
