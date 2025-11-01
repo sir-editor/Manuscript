@@ -15,7 +15,7 @@ To open Spell Book window use one of these methods
 
 <figure><img src="../../.gitbook/assets/Spell_Book_open_tray.gif" alt=""><figcaption></figcaption></figure>
 
-## Profile
+## Profiles
 
 Profile allows to save different shortcuts layout. Depending on your current workflow, you can quickly switch between different modes and use same shortcuts for different commands.
 
