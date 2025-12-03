@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.2 — 2025-12-03
+
+### Fixed
+
+* License verification failed in some cases
+
+***
+
 ## 1.5.1 — 2025-04-16
 
 ### Fixed

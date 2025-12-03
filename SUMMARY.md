@@ -137,6 +137,7 @@
   * [Control Surfaces](extensions/spell-book/control-surfaces.md)
   * [Supported apps](extensions/spell-book/supported-apps.md)
   * [API Reference](extensions/spell-book/api-reference.md)
+  * [Change log](extensions/spell-book/change-log.md)
   * [Uninstall](extensions/spell-book/uninstall.md)
 * [Spell Book \[Excalibur version\]](extensions/spell-book/README.md)
   * [What is it for?](<extensions/spell-book/what-is-it-for (1).md>)

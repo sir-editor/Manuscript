@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.7 — 2025-12-03
+
+### Fixed
+
+* License verification failed in some cases
+
+***
+
 ## 1.1.6 — 2025-06-02
 
 ### Fixed

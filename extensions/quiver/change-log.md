@@ -1,5 +1,16 @@
 # Change log
 
+## 1.1.2 — 2025-12-03
+
+### Fixed
+
+* Locked tracks were treated as empty tracks
+* Spell Book limit removed
+* Random addition was not random enough
+* License verification failed in some cases
+
+***
+
 ## 1.1.1 — 2025-07-23
 
 ### Fixed
