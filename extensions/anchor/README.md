@@ -1,5 +1,6 @@
 ---
 description: Keep your clip steady
+icon: anchor
 cover: ../../.gitbook/assets/Anchor_LQ.jpg
 coverY: 0
 ---

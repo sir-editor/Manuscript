@@ -1,3 +1,7 @@
+---
+icon: hat-wizard
+---
+
 # Merlin
 
 Merlin is a control surface plugin that gives extensions even more control over Premiere Pro than just by using the API.

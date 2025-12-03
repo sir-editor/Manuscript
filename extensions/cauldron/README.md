@@ -1,5 +1,6 @@
 ---
 description: Brew sequences at once
+icon: cauldron
 cover: ../../.gitbook/assets/Cauldron_LQ.jpg
 coverY: 0
 ---

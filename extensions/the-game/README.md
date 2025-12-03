@@ -1,5 +1,6 @@
 ---
 description: Let your adventure begin
+icon: game-console-handheld
 cover: ../../.gitbook/assets/TheGame_LQ.jpg
 coverY: 0
 ---

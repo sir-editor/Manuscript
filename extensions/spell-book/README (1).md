@@ -1,4 +1,5 @@
 ---
+icon: book-bookmark
 cover: ../../.gitbook/assets/Spell_Book_Wide_LQ.jpg
 coverY: 0
 ---

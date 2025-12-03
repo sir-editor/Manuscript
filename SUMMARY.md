@@ -154,9 +154,9 @@
 
 ## Website
 
+* [License Keeper](website/license.md)
 * [Free](website/blacksmith/README.md)
   * [Convert .kys file](website/blacksmith/convert-kys-file.md)
-* [License Management](website/license.md)
 
 ***
 

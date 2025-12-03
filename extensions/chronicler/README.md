@@ -1,5 +1,6 @@
 ---
 description: It is I, your chronicler, who alone can tell thee of your saga
+icon: hourglass-start
 cover: ../../.gitbook/assets/Chronicler_LQ.jpg
 coverY: 0
 ---

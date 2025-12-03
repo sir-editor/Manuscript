@@ -1,5 +1,6 @@
 ---
 description: Reach folder in no time
+icon: dungeon
 cover: ../../.gitbook/assets/Portal_LQ.jpg
 coverY: 0
 ---

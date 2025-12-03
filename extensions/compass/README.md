@@ -1,5 +1,6 @@
 ---
 description: Navigate an export at sea of folders
+icon: compass
 cover: ../../.gitbook/assets/Compass_LQ.jpg
 coverY: -124.58286985539488
 ---

@@ -1,3 +1,7 @@
+---
+icon: gift
+---
+
 # Free
 
 A collection of free extensions and online tools.

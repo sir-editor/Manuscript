@@ -1,3 +1,7 @@
+---
+icon: book-blank
+---
+
 # Spell Book \[Excalibur version]
 
 There are 2 kinds of Spell Book:
