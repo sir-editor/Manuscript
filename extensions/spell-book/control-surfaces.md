@@ -25,7 +25,8 @@ Examples how to setup control surface to work with Spell Book commands.
 
 <figure><img src="../../.gitbook/assets/Spell_Book_StreamDeck_01.png" alt=""><figcaption></figcaption></figure>
 
-* Drag it over a button and paste URL link (don't use GET request)
+* Drag it over a button and paste URL link\
+  &#xNAN;_&#x55;se "Open with Default Browser"._
 
 <figure><img src="../../.gitbook/assets/Spell_Book_StreamDeck_02.png" alt=""><figcaption></figcaption></figure>
 
