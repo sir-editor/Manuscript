@@ -1,11 +1,23 @@
 # Change Log
 
+## 1.0.2 — 2026-01-07
+
+### New
+
+* Trim clips in Cauldron (right click on a clip)
+
+### Fixed
+
+* License verification failed in some cases
+
+***
+
 ## 1.0.1 — 2024-11-19
 
 ### New
 
 * Auto reframe option added
-* Ungroup grouped items in Cauldron timeline (right click on group)
+* Ungroup grouped items in Cauldron timeline (right click on a group)
 
 ### Fixed
 

@@ -28,6 +28,22 @@ It is possible either to select group of clips or just bin with clips inside, it
 When a bin is added to Cauldron, you can add/remove clips from it and generate updated version of sequences.
 {% endhint %}
 
+#### Ungroup clips
+
+To ungroup added clips, right click on a group and select "Ungroup".
+
+<figure><img src="../../.gitbook/assets/Cauldron_ungroup.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+### Trim clips
+
+It is possible to trim clips before adding them to generated sequences.
+
+To do this, right click on a clip and select "Trim clip".
+
+<figure><img src="../../.gitbook/assets/Cauldron_trim_clips.gif" alt=""><figcaption></figcaption></figure>
+
 ### Remove clips
 
 To remove clips from Cauldron, right click on a clip and select "Delete".
