@@ -1,5 +1,29 @@
 # Change Log
 
+## 1.3.2 — 2026-01-22
+
+### Fixed
+
+* Excalibur didn’t work in Premiere 26
+
+***
+
+## 1.3.1 — 2025-12-15
+
+### Fixed
+
+* Excalibur didn’t work in Premiere Beta 26.1+
+
+***
+
+## 1.3.0 — 2025-09-25
+
+### New
+
+* **Merlin** control surface now handles Add Transition, Nest clips, Label, and other commands that were previously triggered by mouse click simulation, resulting in improved performance for these operations
+
+***
+
 ## 1.2.10 — 2025-07-23
 
 ### Fixed

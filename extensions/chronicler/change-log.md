@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.1.8 — 2026-01-27
+
+### Fixed
+
+* Chronicler didn’t work correctly in Premiere 26
+
+***
+
 ## 1.1.7 — 2025-12-03
 
 ### Fixed
