@@ -19,8 +19,8 @@ layout:
 
 ## How it works
 
-* Select a clip or group of clips.
-* Open Dagger search bar with a shortcut assigned in [Spell Book](<../spell-book/README (1).md>).
+* Select a clip or group of clips
+* Open Dagger search bar with a shortcut assigned in [Spell Book](<../spell-book/README (1).md>)
 * Type name of a effect
 * Select it and press `Enter`
 
