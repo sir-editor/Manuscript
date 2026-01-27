@@ -10,5 +10,4 @@ coverY: -303.31031997066884
 * Search and apply video/audio effects
 * Favourite or hide effects in search results
 
-{% embed url="https://youtu.be/3F9oI8fbNbI" %}
-
+{% embed url="https://youtu.be/enEpuLCjo5Q" %}
