@@ -99,7 +99,7 @@
   * [Change Log](extensions/cauldron/change-log.md)
   * [Uninstall](extensions/cauldron/uninstall.md)
 * [Dagger](extensions/dagger/README.md)
-  * [Search bar](extensions/dagger/main-panel.md)
+  * [Search bar](extensions/dagger/search-bar.md)
   * [Settings](extensions/dagger/settings.md)
   * [Spell Book shortcuts](extensions/dagger/spell-book-shortcuts.md)
   * [Compatibility](extensions/dagger/compatibility/README.md)
