@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.0.3 — 2026-01-31
+
+### Fixed
+
+* License prompt blocked the interface
+
+***
+
 ## 1.0.2 — 2026-01-07
 
 ### New
