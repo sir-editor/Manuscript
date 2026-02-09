@@ -2,7 +2,7 @@
 
 To access settings сlick on hamburger menu or right click on Quiver panel
 
-<figure><img src="../../.gitbook/assets/Quiver_settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_settings (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Auto-mark audio clips
 
@@ -38,8 +38,10 @@ Use Bin button, loop playback and "Replace selected clips" feature to quickly au
 
 Set amount of Quiver items to be shown in Spell Book.
 
-{% hint style="warning" %}
-Currently maximum amount is set to 100 items.
+## Orientation
 
-Such limit is set, because more items can break Spell Book connection.
-{% endhint %}
+Set orientation of Quiver buttons
+
+* Auto (orientation will be set automatically, based on panel's width and height)
+* Horizontal
+* Vertical

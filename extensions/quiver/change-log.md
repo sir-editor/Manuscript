@@ -1,5 +1,19 @@
 # Change log
 
+## 1.1.3 — 2026-02-09
+
+### New
+
+* Orientation setting - set buttons to vertical, horizontal, or keep auto orientation
+* Items added from libraries are now stored in "Quiver Library/Library Name" bin
+
+### Fixed
+
+* Quiver library projects now have separate project files for each Premiere version
+* Improved loading of Quiver library project
+
+***
+
 ## 1.1.2 — 2025-12-03
 
 ### Fixed
