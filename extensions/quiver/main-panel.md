@@ -35,7 +35,7 @@ It is possible to add clips to the timeline during live playback.
 
 ## Activate library project
 
-You can activate Quiver library project via dropdown list or with a shortcut. [Learn more](projects-library.md).
+You can activate Quiver library project via dropdown list or with a shortcut. [Learn more](library-projects.md).
 
 <figure><img src="../../.gitbook/assets/Quiver_switch_quiver_add_groups.gif" alt=""><figcaption></figcaption></figure>
 

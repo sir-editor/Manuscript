@@ -42,7 +42,7 @@
   * [Start Marker](extensions/quiver/start-marker.md)
   * [Bin item](extensions/quiver/bin-item.md)
   * [Sequence item (group of clips)](extensions/quiver/sequence-item-group-of-clips.md)
-  * [Projects library](extensions/quiver/projects-library.md)
+  * [Library projects](extensions/quiver/library-projects.md)
   * [Spell Book shortcuts](extensions/quiver/spell-book-shortcuts.md)
   * [Excalibur user command](extensions/quiver/excalibur-user-command.md)
   * [Videos](extensions/quiver/videos.md)
