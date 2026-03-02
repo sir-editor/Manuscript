@@ -1,5 +1,22 @@
 # Change log
 
+## 1.1.4 — 2026-03-02
+
+### Fixed
+
+* In some cases extensions' commands couldn't be triggered
+
+***
+
+## 1.1.3 — 2026-01-27
+
+### Fixed
+
+* URL links with spaces didn't trigger commands
+* Minor fixes
+
+***
+
 ## 1.1.2 — 2025-11-14
 
 ### Fixed
