@@ -2,7 +2,7 @@
 
 ## Application
 
-Remove `Dagger` application from:
+Remove **Spell Book** application from:
 
 ### macOS
 

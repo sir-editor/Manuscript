@@ -2,7 +2,7 @@
 
 ## Application
 
-Remove `Dagger` application from:
+Remove **Dagger** application from:
 
 ### macOS
 
