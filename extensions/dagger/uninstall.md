@@ -1,5 +1,25 @@
 # Uninstall
 
+## Application
+
+Remove `Dagger` application from:
+
+### macOS
+
+```
+/Applications/Dagger.app
+```
+
+### Windows
+
+```
+C:\Program Files\Knights of the Editing Table\Dagger.exe
+```
+
+***
+
+## Extension
+
 Remove **`knights_of_the_editing_table.dagger`** folder from:
 
 ### macOS
