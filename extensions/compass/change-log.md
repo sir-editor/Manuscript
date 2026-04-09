@@ -1,5 +1,21 @@
 # Change log
 
+## 1.2.2 — 2026-04-06
+
+### Fixed
+
+* Workaround for conflict with Premiere Composer is removed as it affected performance of other Knights' tools (Excalibur, Grave Robber)
+
+***
+
+## 1.2.1 — 2026-03-12
+
+### Fixed
+
+* Export Media stopped working if Premiere Composer extension was open
+
+***
+
 ## 1.2.0 — 2024-05-02
 
 ### New
