@@ -8,7 +8,7 @@ To access settings, right-click on the main panel or click on 3 lines (flyout me
 
 ## General
 
-![](../../../.gitbook/assets/watchtower\_settings\_general.png)
+![](../../../.gitbook/assets/watchtower_settings_general.png)
 
 General tab is different for Premiere Pro and After Effects.
 
@@ -38,11 +38,15 @@ In After Effects it is possible to choose how to import Photoshop and Illustrato
 Premiere Pro event will show notification about sync results.\
 After Effects will show notification in Info panel.
 
+### Analyze imported media with Jumper
+
+If [Jumper](http://getjumper.io/) is installed, imported media will be automatically analyzed.
+
 ***
 
 ## Allowed Files
 
-![](../../../.gitbook/assets/watchtower\_settings\_allowed\_files.png)
+![](../../../.gitbook/assets/watchtower_settings_allowed_files.png)
 
 Set filter for file extensions to import.
 
@@ -53,7 +57,7 @@ file won't be imported.
 
 ## Ignored Folders
 
-![](../../../.gitbook/assets/watchtower\_settings\_ignored\_folders.png)
+![](../../../.gitbook/assets/watchtower_settings_ignored_folders.png)
 
 Set folder names to be ignored during import.
 

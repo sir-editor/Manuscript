@@ -1,5 +1,24 @@
 # Change log
 
+## 1.6.0 — 2026-04-16
+
+### New
+
+* Hierarchy in folder manager
+* Add folders button in folder manager
+* Subfolders inherit properties from their parent folders
+* Improved link bin and relink offline folders logic
+* Support for Sony FS/XAVC camera folder structure
+* Junction folders support on Windows
+* Analyze imported media with Jumper
+
+### Fixed
+
+* Duplicates were imported if files were relinked or imported manually, before adding/relinking watch-folders
+* Relative path folders didn't work between macOS and Windows
+
+***
+
 ## 1.5.7 — 2025-04-16
 
 ### Fixed

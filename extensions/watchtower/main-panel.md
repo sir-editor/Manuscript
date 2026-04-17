@@ -1,6 +1,6 @@
 # Main Panel
 
-![](../../.gitbook/assets/watchtower\_main\_panel.gif)
+![](../../.gitbook/assets/watchtower_main_panel.gif)
 
 Watchtower main panel has 3 buttons:
 
@@ -32,9 +32,6 @@ Select folders in your file browser and drag'n'drop them on Watchtower panel.
 
 Select one or more bins in your project and drag'n'drop them on Watchtower panel.
 
-<figure><img src="../../.gitbook/assets/watchtower_main_panel_dnd_bins.gif" alt=""><figcaption></figcaption></figure>
+If there is at least one file inside bins,Watchtower will offer folder paths based on a file path.
 
-{% hint style="info" %}
-Watchtower will offer folder path based on files path inside a bin.\
-You can change folder path if it is not correct.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/watchtower_main_panel_dnd_bins.gif" alt=""><figcaption></figcaption></figure>
