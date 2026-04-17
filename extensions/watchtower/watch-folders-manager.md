@@ -18,31 +18,7 @@ To fold/unfold all folders quickly, hold **opt/alt** down and click on a fold ar
 
 ## Watch-folder settings
 
-### **PATH**
-
-Path to a watch-folder. You can click on it and change it.
-
-### SUB
-
-Import or ignore subfolder.
-
-### REL
-
-Use path relative to project location. This is useful for project templates.
-
-Relative path will also switch when moving project file between macOS and Windows, so there is no need to relink watch-folders.
-
-### SEQ
-
-Import images as image sequences.
-
-### FLT
-
-Flatten sub-folders: all files will be imported in a parent folder. This is useful for camera cards or image sequences that are placed each in a sub-folder.
-
-### LABEL
-
-Assign label to a bin and new items imported in that bin. Great, if you want your media be labeled automatically (e.g. Whooshes are green, Drones are blue)
+<table><thead><tr><th width="135">Setting</th><th>Description</th></tr></thead><tbody><tr><td><strong>Path</strong></td><td>Path to a watch-folder. Click on it to change it.</td></tr><tr><td><strong>SUB</strong></td><td>Import or ignore subfolders.</td></tr><tr><td><strong>REL</strong></td><td>Use path relative to project location. This is useful for project templates. Relative path will also switch when moving project file between macOS and Windows, so there is no need to relink watch-folders.</td></tr><tr><td><strong>SEQ</strong></td><td>Import images as image sequences.</td></tr><tr><td><strong>FLT</strong></td><td>Flatten sub-folders: all files will be imported in a parent folder. This is useful for camera cards or image sequences that are placed each in a sub-folder.</td></tr><tr><td><strong>Label</strong></td><td>Assign label to a bin and new items imported in that bin. Great to label media files automatically (e.g. Whooshes are green, Drones are blue)</td></tr></tbody></table>
 
 ### Settings inheritance
 
