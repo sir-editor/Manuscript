@@ -60,7 +60,11 @@ Cauldron creates multiple sequences, so it is good to have name that reflects wh
 
 ### Width, Height, FPS
 
-Disable `Match first video clip` checkbox to set custom width, height and fps for created sequences.&#x20;
+Disable `Match first video clip` checkbox to set custom width, height and fps for created sequences.
+
+### Auto-reframe
+
+Use Premiere's "Auto-reframe sequence" feature.
 
 ### Clip Sizing
 
