@@ -1,5 +1,24 @@
 # Change Log
 
+## 1.3.3 — 2026-04-27
+
+### New
+
+* Export selected clips: “Keep tracks enabled” option added to user command (e.g. use clips as regions for multi-export)
+* Select clips after/before playhead now uses native Premiere command
+
+### Fixed
+
+* Match frame to source sequence would close opened source sequences
+* Match frame to source sequence didn’t account for speed change in clips
+* Match frame to source sequence didn’t account for sequence clips
+* F21-F24 couldn’t be triggered on Windows with Keyboard Shortcut command
+* Nested clips were not selected after nesting
+* Export Frame saved file with doubled file extension in Premiere 25+
+* Audio presets sometimes couldn’t be applied
+
+***
+
 ## 1.3.2 — 2026-01-22
 
 ### Fixed
