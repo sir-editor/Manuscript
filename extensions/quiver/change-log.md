@@ -1,5 +1,14 @@
 # Change log
 
+## 1.1.4 — 2026-04-27
+
+### Fixed
+
+* Relinking media would hang during the first open of Premiere (Workaround: close and reopen the project)
+* Minor bug fixes
+
+***
+
 ## 1.1.3 — 2026-02-09
 
 ### New
