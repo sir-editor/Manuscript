@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.3.4 — 2026-04-30
+
+### Fixed
+
+* License needed to be entered every time Premiere is opened (“Internet connection required” message)
+
+***
+
 ## 1.3.3 — 2026-04-27
 
 ### New
