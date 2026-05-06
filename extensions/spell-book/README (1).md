@@ -1,7 +1,8 @@
 ---
 icon: book-bookmark
-cover: ../../.gitbook/assets/Spell_Book_Wide_LQ.jpg
-coverY: 0
+cover: ../../.gitbook/assets/Spell_Book_SQ.jpg
+coverY: 128.7128712871287
+coverHeight: 354
 ---
 
 # Spell Book

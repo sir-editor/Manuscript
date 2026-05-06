@@ -2,7 +2,8 @@
 description: Clips at your fingertips
 icon: feather
 cover: ../../.gitbook/assets/Quiver_LQ.jpg
-coverY: 44
+coverY: 6.046204620462042
+coverHeight: 353
 ---
 
 # Quiver

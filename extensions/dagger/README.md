@@ -2,7 +2,8 @@
 description: It's not Excalibur
 icon: dagger
 cover: ../../.gitbook/assets/Dagger_SQ.jpg
-coverY: -303.31031997066884
+coverY: -203.46534653465355
+coverHeight: 357
 ---
 
 # Dagger

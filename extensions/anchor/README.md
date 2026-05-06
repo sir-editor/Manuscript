@@ -2,7 +2,8 @@
 description: Keep your clip steady
 icon: anchor
 cover: ../../.gitbook/assets/Anchor_LQ.jpg
-coverY: 0
+coverY: -39.603960396039604
+coverHeight: 358
 ---
 
 # Anchor

@@ -2,7 +2,27 @@
 description: Behold, the Sword of Power.
 icon: sword
 cover: ../../.gitbook/assets/Excalibur_LQ.jpg
-coverY: 73.41490545050056
+coverY: -32.195655605605054
+coverHeight: 358
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Excalibur

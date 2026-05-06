@@ -2,7 +2,8 @@
 description: Defeat incoming hordes of files with auto sync
 icon: chess-rook
 cover: ../../.gitbook/assets/Watchtower_twitter_wide.png
-coverY: 66.74082313681869
+coverY: 22.186367691274135
+coverHeight: 358
 ---
 
 # Watchtower

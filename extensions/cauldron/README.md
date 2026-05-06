@@ -2,7 +2,8 @@
 description: Brew sequences at once
 icon: cauldron
 cover: ../../.gitbook/assets/Cauldron_LQ.jpg
-coverY: 0
+coverY: -155.44554455445544
+coverHeight: 357
 ---
 
 # Cauldron

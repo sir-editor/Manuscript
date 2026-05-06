@@ -2,7 +2,8 @@
 description: Let your adventure begin
 icon: game-console-handheld
 cover: ../../.gitbook/assets/TheGame_LQ.jpg
-coverY: 0
+coverY: -36.303630363036305
+coverHeight: 357
 ---
 
 # The Game

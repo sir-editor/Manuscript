@@ -3,6 +3,7 @@ description: Loose a frame, draw a frame — with the clipboard.
 icon: bow-arrow
 cover: ../../.gitbook/assets/Arrow_LQ.jpg
 coverY: 115.68409343715238
+coverHeight: 356
 ---
 
 # Arrow
