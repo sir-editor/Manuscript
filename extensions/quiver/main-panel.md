@@ -1,67 +1,98 @@
 # Main panel
 
-## Add clips to Quiver
+## Overview
 
-To add clips to Quiver, select and drag clips from Project panel onto Quiver panel.
+The Quiver main panel is a file manager for your clip library. On the left is the folder tree; on the right is the preview pane with item tiles.
 
-"**Quiver**" bin will be created in the root of Project panel and clips will be moved there.
+Top-level folders in the tree are **quiver folders**. The active quiver is highlighted with a blue box — shortcuts and Toolbar 1 add items from that folder.
 
-<figure><img src="../../.gitbook/assets/Quiver_add_to_quiver (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_15_main_panel_overview.png" alt=""><figcaption></figcaption></figure>
 
-### Add MOGRTs to Quiver
+## Add items
 
-To add MOGRT files, that don't have project item in Project panel, drag MOGRT file onto Quiver panel from file browser.
+Add items using the context menu, the plus button, or drag and drop.
 
-Transparent video with name of MOGRT file will be created in "**Quiver**" bin. It is used as placeholder for MOGRT data.
+Right-click in the panel or on the plus button to create a **New folder**, **New item** (audio, video, still, or MOGRT), or **New sequence**. Shortcuts are shown in the menu.
 
-<figure><img src="../../.gitbook/assets/Quiver_add_MOGRT_to_quiver.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_15_context_menu_create.png" alt=""><figcaption></figcaption></figure>
+
+You can also drag items from the Project panel or from your file manager (Finder on macOS, Explorer on Windows).
+
+<figure><img src="../../.gitbook/assets/Quiver_15_add_items_drag.gif" alt=""><figcaption></figcaption></figure>
+
+By default, added media is **copied** to the Quiver data folder. In [Settings](settings.md), you can switch to **reference mode**, where Quiver uses the original file path instead. Referenced items show a link icon in the corner.
+
+<figure><img src="../../.gitbook/assets/Quiver_15_reference_link_icon.png" alt=""><figcaption></figcaption></figure>
+
+While dragging and dropping, hold **Opt/Alt** to toggle between copy and reference mode for that drop.
+
+### Add MOGRTs
+
+MOGRT files can be added by dragging them from your file manager onto the Quiver panel, or by creating a **New item** and selecting a MOGRT file.
 
 {% hint style="info" %}
-You can change label color of MOGRT item added to a timeline, by changing label color of Transparent video placeholder.
+You can change the label color of a MOGRT item added to a timeline by setting the label on the Quiver item.
 {% endhint %}
+
+## Navigation
+
+Click a folder in the tree to open it in the preview pane.
+
+* **Double-click** an item to add it to the timeline
+* **Double-click** a folder to add a random item from inside that folder
+* **Cmd/Ctrl + double-click** a folder to open it instead
+
+<figure><img src="../../.gitbook/assets/Quiver_15_open_folder.gif" alt=""><figcaption></figcaption></figure>
+
+Like a regular file manager, you can select multiple items with **Shift** or a selection marquee, drag to reorder them, and rename them with **Enter**.
+
+<figure><img src="../../.gitbook/assets/Quiver_15_reorder_rename.gif" alt=""><figcaption></figcaption></figure>
+
+## Previews
+
+Each item has a preview tile. Select an item and press **Space** to play it back.
+
+Adjust preview volume and tile size with the sliders above the preview pane.
+
+<figure><img src="../../.gitbook/assets/Quiver_15_preview_playback.gif" alt=""><figcaption></figcaption></figure>
+
+To change the poster frame, scrub to a frame you like and press **P** or choose **Set poster frame** from the context menu.
+
+To set a [start marker](start-marker.md), scrub to the desired position and press **M** or choose **Set start marker** from the context menu.
 
 ## Add clips to a timeline
 
-To add clips do one of the following:
+To add an item to the timeline, do one of the following:
 
-* Click on Quiver button for added item
-* Press a shortcut or control surface button assigned to Quiver item in [Spell Book](<../spell-book/README (1).md>)
+* Double-click the item in the preview pane
+* Click the item in a [toolbar](toolbars.md)
+* Press a shortcut or control surface button assigned in [Spell Book](<../spell-book/README (1).md>)
 
-<figure><img src="../../.gitbook/assets/Quiver_add_clips.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_15_add_to_timeline.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 It is possible to add clips to the timeline during live playback.
 {% endhint %}
 
-## Activate library project
+## Item types
 
-You can activate Quiver library project via dropdown list or with a shortcut. [Learn more](library-projects.md).
+There are 3 types of items in Quiver.
 
-<figure><img src="../../.gitbook/assets/Quiver_switch_quiver_add_groups.gif" alt=""><figcaption></figcaption></figure>
+#### Item
 
-***
+Adds one clip associated with the tile. [Learn more about item settings](item-settings.md).
 
-## Button types
+#### Folder
 
-There are 3 types of buttons in Quiver panel.
-
-<figure><img src="../../.gitbook/assets/Quiver_button_types.png" alt=""><figcaption></figcaption></figure>
-
-#### Clip
-
-Adds one clip assosiated with a button.
-
-#### Bin
-
-Adds one random clip from a bin. [Learn more](bin-item.md).
+Adds one random clip from the folder. [Learn more](folder-item.md).
 
 #### Sequence
 
-Adds group of clips from a sequence. [Learn more](sequence-item-group-of-clips.md).
+Adds a group of clips from a sequence project. [Learn more](sequence-item-group-of-clips.md).
 
 ## Add methods
 
-To modify add method for a clip, right click on it and select a method.
+To modify the add method for an item, right-click on it and select a method. See [Item settings](item-settings.md) for the full list of per-item options.
 
 <figure><img src="../../.gitbook/assets/Quiver_methods.png" alt=""><figcaption></figcaption></figure>
 
@@ -85,7 +116,7 @@ If track name is not listed, create new track in active sequence and name it the
 
 <figure><img src="../../.gitbook/assets/Quiver_track_name_01 (1).png" alt=""><figcaption></figcaption></figure>
 
-After track name is selected, it will be shown on an item button.
+After track name is selected, it will be shown on an item tile.
 
 <figure><img src="../../.gitbook/assets/Quiver_track_name_02.png" alt=""><figcaption></figcaption></figure>
 
@@ -94,3 +125,27 @@ After track name is selected, it will be shown on an item button.
 If a clip targets a track with a name and such track doesn't exist, track will be created.
 
 If a clip uses "**Overlay**" method and a track with name is occupied, new track with incremented name will be created (e.g. "**Sword 2**" is occupied, "**Sword 3**" will be created).
+
+## Replace selected clips
+
+If enabled in [Settings](settings.md), Quiver will replace selected clips with the Quiver item, keeping start points in sync.
+
+If selected items have start markers, new items will be aligned with them.
+
+You can also toggle this from the panel toolbar or with the Spell Book command **Toggle replace selected clips**.
+
+<figure><img src="../../.gitbook/assets/Quiver_15_replace_clips.gif" alt=""><figcaption></figcaption></figure>
+
+After replacing a selected clip, the new clip will stay selected, so you can quickly replace it again.
+
+{% hint style="info" %}
+If "Replace selected clips" is enabled, when adding clips to a timeline they will stay deselected (so next added clip won't replace previous one).
+
+To keep clip selected after it is added to a timeline (useful for creating Excalibur user commands), disable "Replace" feature.
+{% endhint %}
+
+### Replace audition
+
+Use a folder item, loop playback, and "Replace selected clips" to quickly audition clips and replace them until you find the perfect one.
+
+<figure><img src="../../.gitbook/assets/Quiver_replace_loop.gif" alt=""><figcaption></figcaption></figure>

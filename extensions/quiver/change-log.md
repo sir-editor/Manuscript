@@ -1,5 +1,42 @@
 # Change log
 
+## 1.5.0 — 2026-07-06
+
+### New
+
+* Complete UI rewrite: OS-folder quivers with tree and preview manager
+* Copy and reference import modes for added media
+* Item previews with playback, poster frame, preview volume, and tile size
+* Item settings: blend mode, volume, duration (stills), and in/out points (video/audio)
+* Sequence items as Premiere projects with preview placeholders
+* Up to 3 toolbars with grid, horizontal, and vertical layouts
+* Import and export quiver folders; legacy library migration on first launch
+* Quiver data path setting; metadata-to-name (qtag) option for replace workflow
+* Reveal in Quiver and Reveal in Finder/Explorer for toolbar items
+
+### Changed
+
+* Top-level folders replace Quiver library projects
+* Folders replace bins for random addition
+* Sequence clips are added via copy-paste by default
+* Start marker and poster frame are set from the preview pane
+
+### Removed
+
+* Quiver library projects panel
+* Group clips option for sequence items
+* Clips are no longer moved to a "Quiver" bin in the Project panel
+
+### Fixed
+
+* Duplicate item did not work in some cases
+* Preview scrub and playbar issues
+* Offline referenced items can be relinked
+* Legacy import no longer deletes source projects during migration
+* Export works for individual items as well as folders
+
+***
+
 ## 1.1.4 — 2026-04-27
 
 ### Fixed

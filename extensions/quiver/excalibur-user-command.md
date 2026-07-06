@@ -6,10 +6,10 @@ Search for **Quiver** and select command name.
 
 ## List of commands
 
-| Command name     |
-| ---------------- |
+| Command name |
+| ------------ |
 | Add start marker |
-| Item 1           |
-| Item 2           |
-| ...              |
-
+| Toggle replace selected clips |
+| Item 1 |
+| Item 2 |
+| ... |

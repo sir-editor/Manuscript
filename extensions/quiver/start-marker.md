@@ -1,34 +1,27 @@
-# Start Marker
+# Start marker
 
 By default clips are added at playhead at their in point.
 
-If a clip has start marker, when added to a timeline, start marker will be aligned with playhead.
+If a clip has a start marker, when added to a timeline, the start marker will be aligned with the playhead.
 
-<figure><img src="../../.gitbook/assets/Quiver_start_marker.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_15_start_marker.gif" alt=""><figcaption></figcaption></figure>
 
-## Open Start Marker panel
+## Add start marker from preview
 
-To access Start Marker panel, click on hamburger menu or right click on Quiver panel.
+Select an item in the preview pane, scrub to the desired position, and press **M** or choose **Set start marker** from the context menu.
 
-<figure><img src="../../.gitbook/assets/Quiver_settings.png" alt=""><figcaption></figcaption></figure>
+## Auto-mark audio clips
 
-## Add start marker
+If [Auto-mark audio clips](settings.md#auto-mark-audio-clips) is enabled, a start marker will be added automatically when audio clips are added to Quiver, at the loudest part.
 
-If [Auto-mark audio clips](settings.md#auto-mark-audio-clips) is enabled, start marker will be added automatically, when audio clips are added to Quiver, at the loudest part.
+## Sequence start markers
 
-To add start marker manually:
+For sequence items, open the sequence project (**Edit…**, Shift+E) and move the start marker on the timeline to control where clips are added.
 
-* Open Start marker panel
-* Open clip in Source Monitor
-* Move playhead
-* Press "Add start marker"
+## Clear start marker
 
-Start marker will be added at the playhead position.
-
-<figure><img src="../../.gitbook/assets/Quiver_add_start_marker.gif" alt=""><figcaption></figcaption></figure>
-
-When adding start marker to a sequence item in Quiver, you can just activate sequence itself (without Source monitor) and add start marker there.
+Right-click an item and choose **Clear start marker** to remove it.
 
 {% hint style="info" %}
-To add start marker without opening panel use [Spell Book shortcut](spell-book-shortcuts.md).
+To add a start marker without using the context menu, use the [Spell Book shortcut](spell-book-shortcuts.md) or [Excalibur user command](excalibur-user-command.md).
 {% endhint %}
