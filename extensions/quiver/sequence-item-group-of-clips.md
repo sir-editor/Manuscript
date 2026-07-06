@@ -1,41 +1,50 @@
-# Sequence item (group of clips)
+# Sequence item
 
 ## Create sequence item
 
-To create sequence item, drag and drop a sequence onto Quiver panel.
+Create a sequence with the context menu (**New sequence**, Shift+S) inside a quiver folder.
 
-<figure><img src="../../.gitbook/assets/Quiver_add_sequence_item.gif" alt=""><figcaption></figcaption></figure>
+You can also import an existing sequence by dragging it from the Project panel onto the Quiver panel.
 
-## Addition Options
+## Edit a sequence
 
-To customise addition options, right click on sequence button.
+Each sequence item is a Premiere project. To edit it, right-click and choose **Edit…** or press **Shift+E**.
 
-<figure><img src="../../.gitbook/assets/Quiver_sequence_settings.png" alt=""><figcaption></figcaption></figure>
+A new project opens with a timeline where you can add clips. The timeline already contains:
 
-### Add as individual clips
+* A **start marker** you can move to control the addition point
+* A locked **PREVIEW** track with placeholder clips used to generate preview images
 
-When adding sequence item to a timeline, clips from the sequence will be added as individual clips.
+<figure><img src="../../.gitbook/assets/Quiver_15_sequence_timeline.png" alt=""><figcaption></figcaption></figure>
 
-This is useful for creating custom transtions with effects and sounds.
-
-<figure><img src="../../.gitbook/assets/Quiver_sequence_individual_clips.gif" alt=""><figcaption></figcaption></figure>
-
-Any effect applied to clips inside sequence **will be transferred**, so you can use blend modes, effects and keyframes.
-
-{% hint style="warning" %}
-Limitations: non-linear keyframes and masks are not supported.
-
-To overcome it, use [un-nest method](sequence-item-group-of-clips.md#un-nest-sequence-copy-paste) below.
+{% hint style="info" %}
+To quickly open and close sequence projects, add a Premiere shortcut to close the active project. Opening and closing a sequence then takes just two shortcuts (Shift+E to edit, then close project).
 {% endhint %}
 
-### Un-nest sequence (copy/paste)
+<figure><img src="../../.gitbook/assets/Quiver_15_edit_sequence.gif" alt=""><figcaption></figcaption></figure>
 
-With un-nest option enabled, Quiver will briefly activate source sequence, copy clips from it and paste them to a current timeline.
+There is no need to align your clips with the start or end of the placeholder clips — their start point is ignored because the track is locked. Leave a bit of padding at the start and end of placeholders for nicer sequence previews.
 
-<figure><img src="../../.gitbook/assets/Quiver_sequence_un-nest.gif" alt=""><figcaption></figcaption></figure>
+## Add to timeline
 
-Any effect or transition applied to clips inside sequence **will be transferred**, so you can use blend modes, effects and keyframes. No limitations.
+Clips in a sequence are added via copy-paste. If you want clips grouped on the timeline, group them inside the sequence project itself.
 
-### Group clips
+## Sequence defaults
 
-After individual clips are added to a timeline, they will be grouped, so it is easier to move them together.
+New sequences use **Full HD (1920×1080)** and **25 fps** by default. Change these in [Settings](settings.md#sequence).
+
+## Preview placeholders
+
+Placeholder images for sequence previews can be customized in [Settings](settings.md#preview). After changing placeholders, right-click a sequence and choose **Generate preview** or **Refresh preview**.
+
+<figure><img src="../../.gitbook/assets/Quiver_15_sequence_preview_regen.gif" alt=""><figcaption></figcaption></figure>
+
+## Copy media to Quiver folder
+
+For portable sequence items, right-click a sequence and choose **Copy media to Quiver folder**. This copies sequence media into the Quiver data folder so the item works when exported or moved.
+
+## Addition options
+
+Right-click a sequence item to adjust addition settings such as method, target track, and label. See [Item settings](item-settings.md).
+
+Clips are added as individual clips by default (copy-paste). The **Add as individual clips** toggle is enabled by default.

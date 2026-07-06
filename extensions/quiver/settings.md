@@ -1,47 +1,85 @@
 # Settings
 
-To access settings сlick on hamburger menu or right click on Quiver panel
+Open settings from the hamburger menu or by right-clicking the Quiver panel background.
 
-<figure><img src="../../.gitbook/assets/Quiver_settings (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_15_settings_general.png" alt=""><figcaption></figcaption></figure>
 
-## Auto-mark audio clips
+## General
 
-When adding audio clips to Quiver panel, Quiver will analyse audio clips and add start markers at the loudest part of the clip.
+### Auto-mark audio clips
+
+When adding audio clips to Quiver, Quiver will analyse audio clips and add start markers at the loudest part of the clip.
 
 This is useful for audio clips like whooshes, hits, etc.
 
 <figure><img src="../../.gitbook/assets/Quiver_start_marker.png" alt=""><figcaption></figcaption></figure>
 
-## Replace selected clips
+### Replace selected clips
 
 If enabled, Quiver will replace selected clips with Quiver item, keeping start points in sync.
 
 If selected items have start markers, new items will be aligned with them.
 
-<figure><img src="../../.gitbook/assets/Quiver_replace_clips.gif" alt=""><figcaption></figcaption></figure>
+See [Main panel](main-panel.md#replace-selected-clips) for details and audition workflow.
 
-After replacing selected clip, new clip will stay selected, so you can quickly replace it again.
+### Add metadata to clip name
 
-{% hint style="info" %}
-If "Replace selected clips" is enabled, when adding clips to a timeline they will stay deselected (so next added clip won't replace previous one).
+When enabled, Quiver adds metadata to the clip name for copy-pasted clips. This is needed for the **Replace selected clips** feature to work correctly with sequence items.
 
-To keep clip selected after it is added to a timeline (useful for creating Excalibur user commands), disable "Replace" feature.
-{% endhint %}
+### Import mode
 
-### Replace audition
+Choose how media is handled when you add items:
 
-Use Bin button, loop playback and "Replace selected clips" feature to quickly audition clips and replace them until you find the perfect one.
+* **Copy files to Quiver data** — media is copied into the Quiver data folder (default)
+* **Reference files (no copy)** — Quiver uses the original file path; a link icon appears on the tile
 
-<figure><img src="../../.gitbook/assets/Quiver_replace_loop.gif" alt=""><figcaption></figcaption></figure>
+Hold **Opt/Alt** while dragging to switch import mode for a single drop.
 
-## Spell Book items amount
+### Quiver data path
+
+Change where Quiver stores folders and media. Useful for cloud-synced storage shared across machines.
+
+### Spell Book items amount
 
 Set amount of Quiver items to be shown in Spell Book.
 
-## Orientation
+## Toolbar
 
-Set orientation of Quiver buttons
+Configure toolbar count and appearance.
 
-* Auto (orientation will be set automatically, based on panel's width and height)
+<figure><img src="../../.gitbook/assets/Quiver_15_settings_toolbar.png" alt=""><figcaption></figcaption></figure>
+
+* **Toolbars quantity** — 1, 2, or 3 toolbars
+* **Toolbars style** — Default or Color
+
+See [Toolbars](toolbars.md) for usage details.
+
+## Sequence
+
+Default settings for newly created sequence items.
+
+<figure><img src="../../.gitbook/assets/Quiver_15_settings_sequence.png" alt=""><figcaption></figcaption></figure>
+
+* **Sequence width** and **Sequence height** — default resolution (1920×1080)
+* **Frame rate** — default fps (25)
+
+## Preview
+
+Images used for sequence item preview generation.
+
+<figure><img src="../../.gitbook/assets/Quiver_15_settings_preview.png" alt=""><figcaption></figcaption></figure>
+
+* **Placeholder A** and **Placeholder B** — custom images for preview placeholders
+* **Disable placeholder images** — use solid placeholders instead
+* **Restore defaults** — reset placeholder images to defaults
+
+## Panel orientation
+
+Orientation is set per panel from the context menu (not in the settings dialog):
+
+* Auto
 * Horizontal
 * Vertical
+* Grid
+
+Right-click the main panel or toolbar background to change orientation and tile size.
