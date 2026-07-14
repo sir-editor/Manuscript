@@ -1,4 +1,40 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Change log
+
+## 1.5.0 — 2026-07-13
+
+### New
+
+* Redesinged Quiver UI
+* Media is stored in OS-folders
+* Sequence items stored as Premiere projects
+* Item settings: blend mode, volume, duration and in/out points
+* Item previews with playback, poster frame, preview volume, and tile size
+* Import and export quiver folders; legacy library migration on first launch
+* Up to 3 toolbars
+* Quiver data path setting
+
+***
 
 ## 1.1.4 — 2026-04-27
 
