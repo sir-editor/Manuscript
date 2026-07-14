@@ -21,12 +21,9 @@ layout:
 
 # Videos
 
-| Name         | Link                                                                                           |
-| ------------ | ---------------------------------------------------------------------------------------------- |
-| Quiver promo | [​​](https://youtu.be/mMITvghHu98)[https://youtu.be/mMITvghHu98](https://youtu.be/mMITvghHu98) |
-| Quiver 1.0.0 | ​​https://youtu.be/hb4nFjVlAF8                                                                 |
-| Quiver 1.1.0 | ​​https://youtu.be/p4RMLEW6MXk                                                                 |
-| Quiver 1.5.0 | [https://youtu.be/IfCc0o1KvZk](https://youtu.be/IfCc0o1KvZk)                                   |
-
-<br>
-
+| Name         | Link                                                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| Quiver promo | [​​](https://youtu.be/mMITvghHu98)[https://youtu.be/mMITvghHu98](https://youtu.be/mMITvghHu98)                           |
+| Quiver 1.0.0 | [​​](https://app.gitbook.com/s/-LqQuRw1JZNewsp-NrzE/website)[https://youtu.be/hb4nFjVIAF8](https://youtu.be/hb4nFjVIAF8) |
+| Quiver 1.1.0 | [https://youtu.be/p4RMLEW6MXk](https://youtu.be/p4RMLEW6MXk)                                                             |
+| Quiver 1.5.0 | [https://youtu.be/IfCc0o1KvZk](https://youtu.be/IfCc0o1KvZk)                                                             |
