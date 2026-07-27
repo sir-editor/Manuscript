@@ -21,6 +21,18 @@ layout:
 
 # Change Log
 
+## 1.3.5 — 2026-07-27
+
+### New
+
+* “Start render immediately” setting added to Export commands
+
+### Fixed
+
+* File extension was added in #CLIP wildcard
+
+***
+
 ## 1.3.4 — 2026-04-30
 
 ### Fixed
