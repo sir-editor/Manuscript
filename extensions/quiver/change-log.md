@@ -21,6 +21,33 @@ layout:
 
 # Change log
 
+## 1.5.2 — 2026-07-29
+
+### New
+
+* Select custom icons for Quiver items
+* Autoplay previews setting
+* Preview on hover setting
+* Mute preview volume with one click
+* Added support for .acc files
+
+### Fixed
+
+* Preview didn't generate for mov files with png on Windows
+* It wasn't possible to set audio track for MOGRT items
+* When replacing linked clips, replacement happened for each clip separately
+* Automatic start marker wasn't added when Quiver sync button was pressed
+
+***
+
+## 1.5.1 — 2026-07-14
+
+### Fixed
+
+* Items settings (volume, duration, blend mode) didn't work when items were added to a timeline (only during replacement)
+
+***
+
 ## 1.5.0 — 2026-07-13
 
 ### New

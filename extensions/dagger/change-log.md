@@ -1,5 +1,13 @@
 # Change log
 
+## 1.0.3 — 2026-07-26
+
+### New
+
+* Open Dagger command will also close it if search bar is open
+
+***
+
 ## 1.0.2 — 2026-03-02
 
 ### Fixed

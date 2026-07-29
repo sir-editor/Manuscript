@@ -21,6 +21,15 @@ layout:
 
 # Change log
 
+## 1.6.1 — 2026-07-29
+
+### Fixed
+
+* Some camera folders were not detected
+* Minor fixes
+
+***
+
 ## 1.6.0 — 2026-04-16
 
 ### New

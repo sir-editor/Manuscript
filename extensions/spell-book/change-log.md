@@ -1,5 +1,14 @@
 # Change log
 
+## 1.1.5 — 2026-07-26
+
+### Fixed
+
+* On Windows Spell Book stopped working in host app after switching app focus
+* On Windows shortcuts sometimes didn't activate (Spell Book restart was needed)
+
+***
+
 ## 1.1.4 — 2026-03-02
 
 ### Fixed
