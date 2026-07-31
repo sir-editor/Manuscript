@@ -29,7 +29,7 @@ layout:
 * Autoplay previews setting
 * Preview on hover setting
 * Mute preview volume with one click
-* Added support for .acc files
+* Added support for `.aac` files
 
 ### Fixed
 
