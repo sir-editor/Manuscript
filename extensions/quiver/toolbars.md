@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Toolbars
@@ -48,7 +50,7 @@ Additional toolbars are independent. Pick a quiver folder and keep it active in 
 
 Right-click on the toolbar to change layout and tile size.
 
-Layouts available: **Grid**, **Horizontal**, **Vertical**.
+Layouts available: **Grid**, **List**, **Horizontal**, **Vertical**.
 
 Tile size can be **Small**, **Medium**, or **Large**.
 

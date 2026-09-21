@@ -1,8 +1,17 @@
 # Change log
 
+## 1.1.6 — 2026-09-21
+
+#### Fixed
+
+* Spell Book didn't work on macOS 10.14
+* UXP version of Spell Book worked only in Premiere Beta
+
+***
+
 ## 1.1.5 — 2026-07-26
 
-### Fixed
+#### Fixed
 
 * On Windows Spell Book stopped working in host app after switching app focus
 * On Windows shortcuts sometimes didn't activate (Spell Book restart was needed)
@@ -11,7 +20,7 @@
 
 ## 1.1.4 — 2026-03-02
 
-### Fixed
+#### Fixed
 
 * In some cases extensions' commands couldn't be triggered
 
@@ -19,7 +28,7 @@
 
 ## 1.1.3 — 2026-01-27
 
-### Fixed
+#### Fixed
 
 * URL links with spaces didn't trigger commands
 * Minor fixes
@@ -28,7 +37,7 @@
 
 ## 1.1.2 — 2025-11-14
 
-### Fixed
+#### Fixed
 
 * Sometimes Spell Book didn't close after Adobe host app was closed
 
@@ -36,7 +45,7 @@
 
 ## 1.1.1 — 2025-09-01
 
-### Fixed
+#### Fixed
 
 * 100 commands limit per extension is removed
 
@@ -44,7 +53,7 @@
 
 ## 1.1.0 — 2025-09-01
 
-### New
+#### New
 
 * Added support for extensions beyond Knights of the Editing Table Kingdom (license activation required).
 * UXP plugins for Photoshop 2023+, InDesign 2023+, Premiere Pro (Beta)
@@ -53,7 +62,7 @@
 
 ## 1.0.2 — 2025-04-07
 
-### Fixed
+#### Fixed
 
 * Better handling of host app connections
 
@@ -61,7 +70,7 @@
 
 ## 1.0.1 — 2025-03-03
 
-### Fixed
+#### Fixed
 
 * On Windows Stream Deck couldn't trigger URL links
 * On Windows shortcuts were not registered

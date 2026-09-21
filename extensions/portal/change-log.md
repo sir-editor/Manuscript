@@ -1,8 +1,27 @@
 # Change log
 
+## 1.5.4 — 2026-09-18
+
+#### New
+
+* Select custom file browser to open folders and files
+* 4 button layouts: Grid, List, Vertical, Horizontal
+* 3 button size options: Small, Medium, Large
+
+***
+
+## 1.5.3 — 2025-12-15
+
+#### Fixed
+
+* Portal didn't work correctly in Photoshop
+* Spell Book commands limit is removed
+
+***
+
 ## 1.5.2 — 2025-05-04
 
-### Fixed
+#### Fixed
 
 * If button used emoji in name, it displayed "?" in toolbar view (small buttons)
 
@@ -10,7 +29,7 @@
 
 ## 1.5.1 — 2025-04-16
 
-### Fixed
+#### Fixed
 
 * Spell Book didn't load or crashed
 
@@ -18,7 +37,7 @@
 
 ## 1.5.0 — 2025-03-04
 
-### New
+#### New
 
 * Spell Book support
 
@@ -26,7 +45,7 @@
 
 ## 1.0.3 — 2023-12-06
 
-### **Fixed**
+#### **Fixed**
 
 * Relative path didn’t work
 
@@ -34,11 +53,11 @@
 
 ## 1.0.2 — 2023-11-20
 
-### **Added**
+#### **Added**
 
 * It is possible to add files as portals. File will be opened in a default application.
 
-### **Fixed**
+#### **Fixed**
 
 * on Windows relative path didn’t work if portal was on a different drive.
 
@@ -46,7 +65,7 @@
 
 ## 1.0.1 — 2023-09-12
 
-### **Fixed**
+#### **Fixed**
 
 * Folders were not added if project wasn’t saved
 
