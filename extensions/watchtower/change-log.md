@@ -17,22 +17,24 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Change log
 
-## 1.6.1 — 2026-07-29
+### 1.6.1 — 2026-07-29
 
-### Fixed
+#### Fixed
 
 * Some camera folders were not detected
 * Minor fixes
 
 ***
 
-## 1.6.0 — 2026-04-16
+### 1.6.0 — 2026-04-16
 
-### New
+#### New
 
 * Hierarchy in folder manager
 * Add folders button in folder manager
@@ -42,59 +44,59 @@ layout:
 * Junction folders support on Windows
 * Analyze imported media with Jumper
 
-### Fixed
+#### Fixed
 
 * Duplicates were imported if files were relinked or imported manually, before adding/relinking watch-folders
 * Relative path folders didn't work between macOS and Windows
 
 ***
 
-## 1.5.7 — 2025-04-16
+### 1.5.7 — 2025-04-16
 
-### Fixed
+#### Fixed
 
 * Spell Book didn't load or crashed
 
 ***
 
-## 1.5.6 — 2025-03-13
+### 1.5.6 — 2025-03-13
 
-### Fixed
+#### Fixed
 
 * Watchtower couldn't be activated in Premiere 2024 and below
 * Translation typos
 
 ***
 
-## 1.5.5 — 2025-03-12
+### 1.5.5 — 2025-03-12
 
-### New
+#### New
 
 * Spell Book support
 
-### Fixed
+#### Fixed
 
 * On Windows if project and folders/files were on different drives, folders/files were ignored.
 * Another fix for allowed extensions setting
 
 ***
 
-## 1.5.4 — 2025-01-20
+### 1.5.4 — 2025-01-20
 
-### Fixed
+#### Fixed
 
 * Some of file extensions not allowed in settings, were still imported (e.g. ".mts")
 
 ***
 
-## 1.5.3 — 2024-11-18
+### 1.5.3 — 2024-11-18
 
-### New
+#### New
 
 * Support for .wav files in RED camera folder structure
 * White theme added
 
-### Fixed
+#### Fixed
 
 * Premiere Pro team projects were not shown correctly in watch folder manager
 * Sequence auto detection didn't work correctly in some cases
@@ -102,18 +104,18 @@ layout:
 
 ***
 
-## 1.5.2 — 2024-09-30
+### 1.5.2 — 2024-09-30
 
-### Fixed
+#### Fixed
 
 * Auto sync didn't work with ExFAT drives on macOS
 * After Effects: in some cases Watch folders panel couldn't load
 
 ***
 
-## 1.5.1 — 2024-07-30
+### 1.5.1 — 2024-07-30
 
-### Fixed
+#### Fixed
 
 * Watchtower didn’t wait for files to be written on disk
 * Special characters in project name wouldn’t allow Watchtower to work
@@ -123,9 +125,9 @@ layout:
 
 ***
 
-## 1.5.0 — 2024-05-23
+### 1.5.0 — 2024-05-23
 
-### New
+#### New
 
 * Watchtower rewritten from zero
 * Performance improvement
@@ -135,13 +137,13 @@ layout:
 
 ***
 
-## 1.3.2 — 2020-10-31
+### 1.3.2 — 2020-10-31
 
-### General
+#### General
 
 * fixed relative paths bug for Premiere Pro 14.3.1 on Windows
 
-### Settings
+#### Settings
 
 * "Check whole project for duplicates during import" checkbox added
 * folder name regex filter now is case-insensitive
@@ -153,21 +155,21 @@ layout:
 
 ***
 
-## 1.3.1 — 2020-07-28
+### 1.3.1 — 2020-07-28
 
-### Settings
+#### Settings
 
 * folder name regex filter
 
-### Select Folders
+#### Select Folders
 
 * fixed blank menu issue for Premiere Pro 14.3.1 on Windows
 
 ***
 
-## 1.3.0 — 2020-07-03
+### 1.3.0 — 2020-07-03
 
-### General
+#### General
 
 * team projects support
 * possible to sync folder to an existing bin (Premiere supports from 2018)&#x20;
@@ -175,34 +177,34 @@ layout:
 * mapped drives now always use UNC path
 * stability improvements
 
-### Settings
+#### Settings
 
 * folder name filter
 
-### Select Folders
+#### Select Folders
 
 * opening time speed up
 * keyboard interaction
 
 ***
 
-## 1.2.0 — 2020-04-06
+### 1.2.0 — 2020-04-06
 
-### General
+#### General
 
 * watchtower panel could be closed and auto sync will work in background
 * auto sync works with multiple projects open
 * Japanese localisation added, thanks to Jo Bellamy and Masahiro Sagawa
 * fixed issue for After Effects when files in Korean language were imported multiple times
 
-### Settings
+#### Settings
 
 * **auto sync option added**
 * time interval sync is removed
 * customisable filter for file extensions to import
 * possibility to deactivate license on current machine
 
-### Select Folders
+#### Select Folders
 
 * standard and advanced sections added
 * automatic detection of image sequences in folders
@@ -212,18 +214,18 @@ layout:
 
 ***
 
-## 1.1.4 — 2019-12-09
+### 1.1.4 — 2019-12-09
 
-### General
+#### General
 
 * Premiere Pro 14.0.1 support
 * bug fixes
 
 ***
 
-## 1.1.3 — 2019-11-01
+### 1.1.3 — 2019-11-01
 
-### General
+#### General
 
 * license check issue fixed
 * .braw files support added
@@ -231,40 +233,40 @@ layout:
 
 ***
 
-## 1.1.2 — 2019-09-23
+### 1.1.2 — 2019-09-23
 
-### General
+#### General
 
 * .swf files support added
 * stability improvements
 
 ***
 
-## 1.1.1 — 2019-09-15
+### 1.1.1 — 2019-09-15
 
-### General
+#### General
 
 * Premiere Pro & After Effects CC2017 and above support
 
-### Settings
+#### Settings
 
 * "show import options" setting for Premiere Pro, Illustrator & Photoshop files
 
 ***
 
-## 1.0.1 — 2019-07-23
+### 1.0.1 — 2019-07-23
 
-### General
+#### General
 
 * single user can install extension on two machines
 
-### Select Folders
+#### Select Folders
 
 * special characters in folder name are now supported
 
 ***
 
-## 1.0.0 — 2019-07-08
+### 1.0.0 — 2019-07-08
 
 Official release
 

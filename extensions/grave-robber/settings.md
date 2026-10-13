@@ -4,6 +4,14 @@ To access settings, click on click on panel's flyout menu (3 horizontal lines ne
 
 <figure><img src="../../.gitbook/assets/Grave_Robber_Settings.gif" alt=""><figcaption></figcaption></figure>
 
+## Reapply effects
+
+Effects and keyframes from a nest will be applied to un-nested clips.
+
+<figure><img src="../../.gitbook/assets/Grave_Robber_Reapply_Effects (1).gif" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Unmerge clips
 
 Merged clips will be unmerged.
