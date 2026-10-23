@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Videos
@@ -27,3 +29,4 @@ layout:
 | Quiver 1.0.0 | [https://youtu.be/hb4nFjVlAF8](https://youtu.be/hb4nFjVlAF8) |
 | Quiver 1.1.0 | [https://youtu.be/p4RMLEW6MXk](https://youtu.be/p4RMLEW6MXk) |
 | Quiver 1.5.0 | [https://youtu.be/IfCc0o1KvZk](https://youtu.be/IfCc0o1KvZk) |
+| Quiver 1.6.0 | [https://youtu.be/qML14vhyTo4](https://youtu.be/qML14vhyTo4) |

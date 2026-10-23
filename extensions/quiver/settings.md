@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Settings
@@ -32,14 +34,6 @@ Open settings with **Open settings** button in Quiver main panel.
 When adding audio clips to Quiver, Quiver will analyse audio clips and add start markers at the loudest part of the clip.
 
 This is useful for audio clips like whooshes, hits, etc.
-
-### Replace selected clips
-
-If enabled, Quiver will replace selected clips with Quiver item, keeping start points in sync.
-
-If selected items have start markers, new items will be aligned with them.
-
-See Main panel for details and audition workflow.
 
 ### Add metadata to clip name
 

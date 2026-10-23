@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Main panel
@@ -38,7 +40,7 @@ There are multiple ways to add items to Quiver:
 
 * through context menu (right click)
 
-<figure><img src="../../.gitbook/assets/Quiver_add_item_context.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_add_item_context (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,7 +52,7 @@ There are multiple ways to add items to Quiver:
 Depending on the import mode [setting](settings.md), files will be copied to Quiver data folder or will stay at its original path and referenced in Quiver.
 
 {% hint style="info" %}
-To toggel between import mode, hold `opt/alt` key during drag and drop.
+To toggle between import mode, hold `opt/alt` key during drag and drop.
 {% endhint %}
 
 ## Add clips to a timeline
@@ -66,6 +68,49 @@ It is possible to add Quiver item to a timeline with:
 {% hint style="info" %}
 It is possible to add clips to the timeline during live playback.
 {% endhint %}
+
+***
+
+## Selected clip modifiers
+
+By default Quiver adds clips at playhead. However, there are 3 options, which will change how clips are added based on timeline selection.
+
+### Replace selected clips
+
+If Replace selected clips is enabled Quiver will replace all selected clips on a timeline with Quiver item.
+
+If you will click on Quiver folder item, then random items from folder will be used.
+
+<figure><img src="../../.gitbook/assets/Quiver_replace_selected.gif" alt=""><figcaption></figcaption></figure>
+
+Replace uses start of a selected clip as an addition point. If clip on a timeline has a start marker, then the start marker will be used as the addition point.
+
+#### Live audition of clip:
+
+* select clip
+* set in/out points around clip in question
+* enable loop playback
+* replace clip by clicking on folder item until you will find the right one
+
+<figure><img src="../../.gitbook/assets/Quiver_replace_audition_2.gif" alt=""><figcaption></figcaption></figure>
+
+### Add at selected clips
+
+Works the same as **Replace selected clips**, but without removing selected clips.
+
+<figure><img src="../../.gitbook/assets/Quiver_add_at_selected.gif" alt=""><figcaption></figcaption></figure>
+
+### Fit duration
+
+This setting acts differently if **Replace/Add at selected clips** enabled or not.
+
+If Replace/Add is **disabled**, added item will fit duration of all selected clips:
+
+<figure><img src="../../.gitbook/assets/Quiver_fit_duration_all.gif" alt=""><figcaption></figcaption></figure>
+
+If Replace/Add is **enabled**, added item will fit duration of each selected clips:
+
+<figure><img src="../../.gitbook/assets/Quiver_fit_duration.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -113,6 +158,12 @@ Change label of an item added to a timeline.
 
 <figure><img src="../../.gitbook/assets/Quiver_label.png" alt=""><figcaption></figcaption></figure>
 
+### Scale
+
+For video items select scale when it is added to a timeline: original, fit or fill frame.
+
+<figure><img src="../../.gitbook/assets/Quiver_scale.png" alt=""><figcaption></figcaption></figure>
+
 ### Blend mode
 
 For video items you can customise blend mode. It is useful for overlays.
@@ -146,3 +197,9 @@ If [Auto-mark audio clips](settings.md#auto-mark-audio-clips) is enabled, start 
 You can set in/out point to a clip, so only part of it will be added to a timeline.
 
 <figure><img src="../../.gitbook/assets/Quiver_in_out.gif" alt=""><figcaption></figcaption></figure>
+
+### Set Icon
+
+Set custom icon for Quiver item.
+
+<figure><img src="../../.gitbook/assets/Quiver_set_icon.png" alt=""><figcaption></figcaption></figure>

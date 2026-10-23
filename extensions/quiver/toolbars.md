@@ -54,7 +54,7 @@ Layouts available: **Grid**, **List**, **Horizontal**, **Vertical**.
 
 Tile size can be **Small**, **Medium**, or **Large**.
 
-<figure><img src="../../.gitbook/assets/Quiver_toolbar_context.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_toolbar_context (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Toolbar style
 

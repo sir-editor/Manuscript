@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Excalibur user command
@@ -27,21 +29,26 @@ Search for **Quiver** and select command name.
 
 ## List of commands
 
-| Command name                  |
-| ----------------------------- |
-| Show Quiver                   |
-| Show Toolbar 1                |
-| Show Toolbar 2                |
-| Show Toolbar 3                |
-| Toggle replace selected clips |
-| Add start marker              |
-| **ACTIVATE QUIVER FOLDER:**   |
-| Current project quiver        |
-| Quiver 1 — Name 1             |
-| Quiver 2 — Name 2             |
-| ...                           |
-| **ADD QUIVER ITEM:**          |
-| Item 1                        |
-| Item 2                        |
-| ...                           |
+| Command name                    |
+| ------------------------------- |
+| Show Quiver                     |
+| Show Toolbar 1                  |
+| Show Toolbar 2                  |
+| Show Toolbar 3                  |
+| Add start marker                |
+| Add protected region marker     |
+| **SELECTED CLIP MODIFIERS:**    |
+| Toggle replace selected clips   |
+| Toggle add at selected clips    |
+| Toggle fit duration to selected |
+| Disable all modifiers           |
+| **ACTIVATE QUIVER FOLDER:**     |
+| Current project quiver          |
+| Quiver 1 — Name 1               |
+| Quiver 2 — Name 2               |
+| ...                             |
+| **ADD QUIVER ITEM:**            |
+| Item 1                          |
+| Item 2                          |
+| ...                             |
 
