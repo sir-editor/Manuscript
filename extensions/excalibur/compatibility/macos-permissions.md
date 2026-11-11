@@ -1,6 +1,6 @@
 # macOS Permissions
 
-To allow Excalibur work properly, you will need to give Accessibility permissions for Premiere Pro.
+To allow Excalibur work properly, you will need to give "Device Control and Data Access" (or Accessibility) permissions for Premiere Pro.
 
 Normaly, after Excalibur installation, when opening Premiere Pro, it should prompt you with dialogs:
 
@@ -12,11 +12,11 @@ Go to each section, hit “+", find your Premiere Pro version, add it, make sure
 
 <figure><img src="../../../.gitbook/assets/excalibur_accessibility.png" alt=""><figcaption></figcaption></figure>
 
-## Accessibility (Mojave and above)
+## "Device Control and Data Access" or "Accessibility"
 
 <figure><img src="../../../.gitbook/assets/accessibility.png" alt=""><figcaption></figcaption></figure>
 
-## Input monitoring (Catalina and above)
+## Input monitoring (macOS 10.15+)
 
 <figure><img src="../../../.gitbook/assets/input_monitoring.png" alt=""><figcaption></figcaption></figure>
 
