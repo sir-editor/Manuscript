@@ -151,6 +151,10 @@
   * [How it works](<extensions/spell-book/how-it-works (1).md>)
   * [Uninstall](<extensions/spell-book/uninstall (1).md>)
 
+## Effects
+
+* [Transmute](effects/transmute.md)
+
 ## SUPPORT TOOLS
 
 * [Merlin](support-tools/merlin.md)
