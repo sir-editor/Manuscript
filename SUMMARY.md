@@ -153,7 +153,10 @@
 
 ## Effects
 
-* [Transmute](effects/transmute.md)
+* [Transmute](effects/transmute/README.md)
+  * [How it works](effects/transmute/how-it-works.md)
+  * [Change log](effects/transmute/change-log.md)
+  * [Uninstall](effects/transmute/uninstall.md)
 
 ## SUPPORT TOOLS
 

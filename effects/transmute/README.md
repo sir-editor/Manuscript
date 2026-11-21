@@ -1,6 +1,8 @@
 ---
-description: Page is not ready yet, please come back later.
-cover: ../.gitbook/assets/Transmute_logo_SQ.jpg
+description: >-
+  Transmute is a free effect that works like the native Transform effect, but
+  with Anchor Mode, which makes it easy to move the anchor point.
+cover: ../../.gitbook/assets/Transmute_logo_SQ.jpg
 coverY: 0
 layout:
   width: default
@@ -30,3 +32,4 @@ layout:
 
 # Transmute
 
+{% embed url="https://youtu.be/HjOO9-b2hUg" %}
