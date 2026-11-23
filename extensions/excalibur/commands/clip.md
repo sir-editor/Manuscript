@@ -2,7 +2,7 @@
 
 ## Position, Scale, Rotation, Anchor Point, Anti-flicker Filter, Opacity, Volume
 
-![](../../../.gitbook/assets/clip\_01\_psr.png)
+![](../../../.gitbook/assets/clip_01_psr.png)
 
 ### Set value
 
@@ -42,7 +42,7 @@ If no keyframes left, a stopwatch will be deactivated.
 
 Changes blend mode of selected clips.
 
-![](../../../.gitbook/assets/clip\_02\_blend\_mode.jpg)
+![](../../../.gitbook/assets/clip_02_blend_mode.jpg)
 
 ## Speed
 
@@ -50,7 +50,7 @@ Changes blend mode of selected clips.
 * **Change Speed and Duration** — duration is linked to speed change
 * **Change Speed and Duration**, **Ripple Edit** — trailing clips will shift, left or right depending on duration change
 
-![](<../../../.gitbook/assets/clip\_03\_speed (1).gif>)
+![](<../../../.gitbook/assets/clip_03_speed (1).gif>)
 
 ## Duration
 
@@ -58,57 +58,83 @@ Changes duration of selected clip, without affecting its speed.
 
 ### Ripple Edit OFF
 
-![](../../../.gitbook/assets/clip\_04\_duration\_off.gif)
+![](../../../.gitbook/assets/clip_04_duration_off.gif)
 
 ### Ripple Edit ON
 
 To keep the clips following the changing clips next to them.
 
-![](../../../.gitbook/assets/clip\_05\_duration\_on.gif)
+![](../../../.gitbook/assets/clip_05_duration_on.gif)
 
 ## Reverse
 
 Reverses clip
 
-![](../../../.gitbook/assets/clip\_06\_reverse.gif)
+![](../../../.gitbook/assets/clip_06_reverse.gif)
 
 ## Rename
 
 Renames clip.\
 If multiple clips are selected, all clips will get same name.
 
-![](../../../.gitbook/assets/clip\_07\_rename.gif)
+![](../../../.gitbook/assets/clip_07_rename.gif)
 
 ## Fill Frame
 
 Scales clip, so it fills frame.
 
-![](../../../.gitbook/assets/clip\_08\_fill\_frame.gif)
+![](../../../.gitbook/assets/clip_08_fill_frame.gif)
 
 ## Label
 
 Change label of selected clips. List shows label colors and names, that were set in Premiere Pro preferences.
 
-![](../../../.gitbook/assets/clip\_20\_label.gif)
+![](../../../.gitbook/assets/clip_20_label.gif)
+
+## Move to Track
+
+Move selected clips to a track.\
+You can specify track by its name, index or calculate index (e.g. `+3` or `-2` ).
+
+If destination track is occupied, clip will be moved to the next free track.
+
+<figure><img src="../../../.gitbook/assets/Excalibur_move_to_track.gif" alt=""><figcaption></figcaption></figure>
+
+## Copy to Track
+
+Copy selected clips to a track.\
+You can specify track by its name, index or calculate index (e.g. `+3` or `-2` ).
+
+If destination track is occupied, clip will be copied to the next free track.
+
+<figure><img src="../../../.gitbook/assets/Excalibur_copy_to_track.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Paste Clip
 
-Pastes clips from clipboard to specified track.
+Pastes clips from clipboard to specified track:
 
-### On the same track
+* overlay (paste on the next free track)
+* on the same track
+* on the highest enabled track
+* on the lowest enabled track
 
-![](../../../.gitbook/assets/clip\_09\_paste\_clip\_same.gif)
+<figure><img src="../../../.gitbook/assets/Excalibur_paste_clip.gif" alt=""><figcaption></figcaption></figure>
 
-### On the highest enabled track
+## Remember/Restore selection
 
-![](../../../.gitbook/assets/clip\_10\_paste\_clip\_high.gif)
+Remember selection of clips and restore it afterwards. Selection is saved per sequence.
 
-### On the lowest enabled track
+<figure><img src="../../../.gitbook/assets/Excalibur_remember_restore_selection.gif" alt=""><figcaption></figcaption></figure>
 
-![](../../../.gitbook/assets/clip\_11\_paste\_clip\_low.gif)
-
-{% hint style="warning" %}
-In Premiere Pro CC 2019, "Paste Clip" command works only with clips that were copied in clipboard. Cut clips will be ignored.
+{% hint style="info" %}
+Remember selection is useful for user commands, where you need to get back to original selection, e.g.:\
+\- remember selection\
+\- copy clips to another track\
+\- modify copied clips (effects, labels, etc)\
+\- restore selection\
+\- modifiy original clips
 {% endhint %}
 
 ## Nest Clips
@@ -122,13 +148,13 @@ By default nested sequence named:\
 
 Uses native nest command.
 
-![](../../../.gitbook/assets/clip\_21\_nest\_clips\_native.gif)
+![](../../../.gitbook/assets/clip_21_nest_clips_native.gif)
 
 ### Excalibur nest
 
 API method to nest clips. Allows to nest audio clips.
 
-![](../../../.gitbook/assets/clip\_12\_nest\_clips.gif)
+![](../../../.gitbook/assets/clip_12_nest_clips.gif)
 
 ## Nest Individual Clips
 
@@ -141,23 +167,23 @@ By default nested sequences named:\
 
 Uses native nest command.
 
-![](../../../.gitbook/assets/clip\_22\_nest\_ind\_clips\_native.gif)
+![](../../../.gitbook/assets/clip_22_nest_ind_clips_native.gif)
 
 ### Excalibur nest
 
 API method to nest clips. Allows to nest audio clips.
 
-![](../../../.gitbook/assets/clip\_13\_nest\_individual\_clips.gif)
+![](../../../.gitbook/assets/clip_13_nest_individual_clips.gif)
 
 ## Trim In/Out Point to Playhead
 
 Trims In/Out Point of selected clips to Playhead.
 
-![](../../../.gitbook/assets/clip\_14\_trim\_in.gif)
+![](../../../.gitbook/assets/clip_14_trim_in.gif)
 
 If there is already another clip at playhead position, trim will be performed to End/Start of this clip.
 
-![](../../../.gitbook/assets/clip\_15\_trim\_out\_fill.gif)
+![](../../../.gitbook/assets/clip_15_trim_out_fill.gif)
 
 {% hint style="warning" %}
 **UI bug**: after performing command some selected clips might look like they are not selected.
@@ -167,11 +193,11 @@ If there is already another clip at playhead position, trim will be performed to
 
 Moves clips Start/End to Playhead.
 
-![](../../../.gitbook/assets/clip\_16\_move\_end.gif)
+![](../../../.gitbook/assets/clip_16_move_end.gif)
 
 If there is already another clip at playhead position, move will be performed to End/Start of this clip.
 
-![](../../../.gitbook/assets/clip\_17\_move\_start\_fill.gif)
+![](../../../.gitbook/assets/clip_17_move_start_fill.gif)
 
 ## Remove Transitions
 
@@ -179,11 +205,11 @@ Removes transitions from selected clips or whole sequence
 
 ### From Selected Clips
 
-![](../../../.gitbook/assets/clip\_18\_remove\_trans.gif)
+![](../../../.gitbook/assets/clip_18_remove_trans.gif)
 
 ### From Sequence (all transitions)
 
-![](../../../.gitbook/assets/clip\_19\_remove\_trans\_seq.gif)
+![](../../../.gitbook/assets/clip_19_remove_trans_seq.gif)
 
 ## **Show Clip Keyframes**
 
@@ -193,4 +219,4 @@ How to use:\
 Place coursor on top of a video clip (**don’t move it after that**), call up Excalibur search bar and select menu item needed.\
 It is advised to create User command and assign shortcut to it.
 
-![](../../../.gitbook/assets/clip\_23\_show\_clip\_keyframes.gif)
+![](../../../.gitbook/assets/clip_23_show_clip_keyframes.gif)

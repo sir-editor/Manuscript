@@ -26,4 +26,8 @@ Transition presets can't be applied
 
 ## Bezier keyframes
 
-When applying effect preset, influence (length of keyframe handle) for all bezier keyframes will be set to `16.6%`
+When applying effect preset, all bezier keyframes will be set to linear.
+
+To avoid this, enable "Generate keyframes for bezier keys" in [Excalibur Settings](settings/general.md#bezier-keyframes).
+
+<figure><img src="../../.gitbook/assets/Excalibur_bezier.gif" alt=""><figcaption></figcaption></figure>

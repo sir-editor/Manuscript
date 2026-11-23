@@ -29,6 +29,7 @@
     * [Wait](extensions/excalibur/user-commands/wait.md)
     * [Wildcards](extensions/excalibur/user-commands/wildcards.md)
     * [Extensions](extensions/excalibur/user-commands/extensions.md)
+    * [Export/Import](extensions/excalibur/user-commands/export-import.md)
   * [Special Bins](extensions/excalibur/special-bins.md)
   * [Limitations](extensions/excalibur/limitations.md)
   * [Compatibility](extensions/excalibur/compatibility/README.md)

@@ -17,38 +17,53 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Change Log
 
-## 1.3.5 — 2026-07-27
+### 1.4.0 — 2026-10-27
 
-### New
+#### New
+
+* “Move to track”, “Copy to track” commands
+* “Remember selection”, “Restore Selection” commands
+* Overlay option for “Paste clip” command
+* “New Item” command update: overlay is default behaviour, fit duration to selected option in user command constructor
+* “Generate keyframes for bezier keys” option
+* Export/Import/Duplicate/Delete user commands in Settings
+
+***
+
+### 1.3.5 — 2026-07-27
+
+#### New
 
 * “Start render immediately” setting added to Export commands
 
-### Fixed
+#### Fixed
 
 * File extension was added in #CLIP wildcard
 
 ***
 
-## 1.3.4 — 2026-04-30
+### 1.3.4 — 2026-04-30
 
-### Fixed
+#### Fixed
 
 * License needed to be entered every time Premiere is opened (“Internet connection required” message)
 
 ***
 
-## 1.3.3 — 2026-04-27
+### 1.3.3 — 2026-04-27
 
-### New
+#### New
 
 * Export selected clips: “Keep tracks enabled” option added to user command (e.g. use clips as regions for multi-export)
 * Select clips after/before playhead now uses native Premiere command
 
-### Fixed
+#### Fixed
 
 * Match frame to source sequence would close opened source sequences
 * Match frame to source sequence didn’t account for speed change in clips
@@ -60,33 +75,33 @@ layout:
 
 ***
 
-## 1.3.2 — 2026-01-22
+### 1.3.2 — 2026-01-22
 
-### Fixed
+#### Fixed
 
 * Excalibur didn’t work in Premiere 26
 
 ***
 
-## 1.3.1 — 2025-12-15
+### 1.3.1 — 2025-12-15
 
-### Fixed
+#### Fixed
 
 * Excalibur didn’t work in Premiere Beta 26.1+
 
 ***
 
-## 1.3.0 — 2025-09-25
+### 1.3.0 — 2025-09-25
 
-### New
+#### New
 
 * **Merlin** control surface now handles Add Transition, Nest clips, Label, and other commands that were previously triggered by mouse click simulation, resulting in improved performance for these operations
 
 ***
 
-## 1.2.10 — 2025-07-23
+### 1.2.10 — 2025-07-23
 
-### Fixed
+#### Fixed
 
 * Timecode command didn’t work correctly with drop frame sequences
 * Timecode move selected clips didn’t work on Windows
@@ -94,59 +109,59 @@ layout:
 
 ***
 
-## 1.2.9 — 2025-03-03
+### 1.2.9 — 2025-03-03
 
-### **Fixed**
+#### **Fixed**
 
 * Excalibur shortcuts didn’t work on M4 Apple computers
 
 ***
 
-## 1.2.8 — 2025-02-01
+### 1.2.8 — 2025-02-01
 
-### **Fixed**
+#### **Fixed**
 
 * Excalibur didn’t apply LUTs in Lumetri presets in Premiere 23.4+
 
 ***
 
-## 1.2.7 — 2025-01-20
+### 1.2.7 — 2025-01-20
 
-### **Fixed**
+#### **Fixed**
 
 * Excalibur used obsolete version of Transform effect
 
 ***
 
-## 1.2.6 — 2024-11-29
+### 1.2.6 — 2024-11-29
 
-### **Fixed**
+#### **Fixed**
 
 * Shortcuts didn't register on macOS 15+ (Sequoia)
 * on Windows, when executing user commands timeline got focus after each step, thus not allowing to use "Keyboard Shortcut" command outside timeline panel (e.g. Project panel)
 
 ***
 
-## 1.2.5 — 2024-11-06
+### 1.2.5 — 2024-11-06
 
-### **Fixed**
+#### **Fixed**
 
 * Missing audio effects added (Fill Left with Right, Fill Right with Left, etc.)
 
 ***
 
-## 1.2.4 — 2024-10-20
+### 1.2.4 — 2024-10-20
 
-### **New**
+#### **New**
 
 * Support for all 3rd party effects and transitions
 * UI support for Premiere Pro light theme
 
 ***
 
-## 1.2.3 — 2024-04-18
+### 1.2.3 — 2024-04-18
 
-### **Fixed**
+#### **Fixed**
 
 * **Anchor Point** command didn't work if only one value (x or y) was set
 * Windows: Excalibur didn't register `Delete` key
@@ -155,27 +170,27 @@ layout:
 
 ***
 
-## 1.2.2 — 2024-01-29
+### 1.2.2 — 2024-01-29
 
-### **Fixed**
+#### **Fixed**
 
 * **Speed** command improvements
 * Fill frame didn't work on images and some video clips
 
 ***
 
-## 1.2.1 — 2024-01-21
+### 1.2.1 — 2024-01-21
 
-### **Fixed**
+#### **Fixed**
 
 * Excalibur respond speed was slow
 * Fill frame didn't work on multiple selected clips
 
 ***
 
-## 1.2.0 — 2024-01-19
+### 1.2.0 — 2024-01-19
 
-### **New**
+#### **New**
 
 * **Match Frame to Source Sequence** command
 * **Reverse Match Frame** command
@@ -184,7 +199,7 @@ layout:
 * **Speed** command has `Change Duration`, `Ripple Edit` options
 * Support for new Film Impact transitions
 
-### **Fixed**
+#### **Fixed**
 
 * Export Selected Clips: export will start after all items are added to render queue
 * Copy frame to clipboard didn't work on Windows
@@ -203,13 +218,13 @@ layout:
 
 ***
 
-## 1.1.4 — 2021-10-31
+### 1.1.4 — 2021-10-31
 
-### **New**
+#### **New**
 
 * Excalibur can control Grave Robber extension
 
-### **Fixed**
+#### **Fixed**
 
 * Optimized "Keypress Shortcut" both for macOS and Windows
 * Optimized IME both for macOS and Windows
@@ -227,9 +242,9 @@ layout:
 
 ***
 
-## 1.1.3 — 2021-07-14
+### 1.1.3 — 2021-07-14
 
-### **New**
+#### **New**
 
 * **Sequence module:**
   * Add Marker to Clip
@@ -255,7 +270,7 @@ layout:
 * Multiply, divide, percent operations are added for Position/Scale/Rotation and etc
 * Excalibur Settings could be open from a search bar
 
-### **Fixed**
+#### **Fixed**
 
 * "Copy Frame to Clipboard" didn't work on some macOS machines
 * "Export Media/Selected Clips" in a search bar used project location as an export path. Now it defaults to Premeire Pro last used export path (which could be controlled with [Compass](../compass/))
@@ -266,16 +281,16 @@ layout:
 * Optimized preloading of a search bar
 * Enter pressed multiple times in a search bar caused Excalibur to execute command multiple times
 
-### Renamed
+#### Renamed
 
 * "Add Marker" renamed to "Add Marker to Sequence"
 * "Solo Tracks" renamed to "Solo Mute Tracks"
 
 ***
 
-## 1.1.2 — 2021-05-13
+### 1.1.2 — 2021-05-13
 
-### **New**
+#### **New**
 
 * **Copy Frame to Clipboard**
 * **Wait** command (for User Commands)
@@ -283,7 +298,7 @@ layout:
 * Date wildcards for **Nest Clips**
 * **Apply Transition** doesn't need shortcut to be set in "Premiere Pro -> Keyboard shortcuts"
 
-### **Fixed**
+#### **Fixed**
 
 * If audio preset included change of volume, it won't be applied
 * Timecode command didn't work with selected clips on Windows
@@ -293,13 +308,13 @@ layout:
 
 ***
 
-## 1.1.1 — 2021-04-09
+### 1.1.1 — 2021-04-09
 
-### **New**
+#### **New**
 
 * Export Selected Clips: audio is included
 
-### **Fixed**
+#### **Fixed**
 
 * Undo command didn't work for some of actions
 * Adjustment layer, Nest clips command didn't work on Windows
@@ -312,9 +327,9 @@ layout:
 
 ***
 
-## 1.1.0 — 2021-03-19
+### 1.1.0 — 2021-03-19
 
-### **New**
+#### **New**
 
 * **Undo** command for Excalibur commands
 * **Label** command (change label of clips)
@@ -332,7 +347,7 @@ layout:
 * User can set height of Excalibur search bar
 * Transitions now support all languages
 
-### **Fixed**
+#### **Fixed**
 
 * Nest Individual Clips didn’t respect linked clips.
 * Speed command when applied would set lower speed (target: 400%, result: 238%). Now speed command will be applied multiple times, until it will set proper speed value.
@@ -343,14 +358,14 @@ layout:
 
 ***
 
-## 1.0.1 — 2021-01-05
+### 1.0.1 — 2021-01-05
 
-### Transitions
+#### Transitions
 
 * Added support for Boris FX Continuum, Sapphire, Red Giant Universe and Film Impact v3 transitions
 * Added support for Japanese and Italian transition names
 
-### Fixed
+#### Fixed
 
 * Excalibur could take several minutes to launch after "Unsheathe Excalibur" shortcut was pressed (related to _Effect Presets and Custom Items.prfpset_ big file size)
 * Effect presets wouldn't show up in Excalibur
@@ -365,6 +380,6 @@ layout:
 
 ***
 
-## 1.0.0 — 2020-12-01
+### 1.0.0 — 2020-12-01
 
 Official release

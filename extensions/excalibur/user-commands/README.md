@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # User Commands
@@ -33,16 +35,22 @@ When used it will press defined shortcut.
 * You can customise some of the commands.
 * If you need another command to add, click on "add command" button again.
 
-![](../../../.gitbook/assets/ucom_01_create.gif)
+<figure><img src="../../../.gitbook/assets/Excalibur_add_user_command.gif" alt=""><figcaption></figcaption></figure>
 
 ## Edit User Command
 
 * Select User Command and click on "Edit Command" button.
 * To reorder commands, click on "**≡**" symbol. Commands will fold, now click and drag "**≡**" symbol. After release, commands will unfold again.
 
-![](../../../.gitbook/assets/ucom_02_reorder.gif)
+<figure><img src="../../../.gitbook/assets/Excalibur_user_cmd_edit (1).gif" alt=""><figcaption></figcaption></figure>
 
 * To delete one of commands, press red button with cross to the left of command name.
 * To delete User Command, press red button with cross to the left of User Command name.
 
-![](../../../.gitbook/assets/ucom_03_remove.gif)
+<figure><img src="../../../.gitbook/assets/Excalibur_user_cmd_delete.gif" alt=""><figcaption></figcaption></figure>
+
+## Duplicate command
+
+To quickly create a copy of a command, click on "Duplicate" icon.
+
+<figure><img src="../../../.gitbook/assets/Excalibur_user_cmd_duplicate.gif" alt=""><figcaption></figcaption></figure>

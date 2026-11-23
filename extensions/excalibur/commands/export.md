@@ -18,6 +18,18 @@ it will do nothing visually, but will force export presets to be updated in the 
 When using Export Media/Selected Clips in a search bar, it will default to Premiere Pro last used export path. Get [Compass](../../compass/) to take control of it.
 {% endhint %}
 
+### User Command
+
+In user command you can customise:
+
+* name of exported file (with [wildcards](../user-commands/wildcards.md))
+* export preset
+* "Start render immediately" option
+* output folder
+* "Relative path" option
+
+<figure><img src="../../../.gitbook/assets/Excalibur_export_user_cmd.gif" alt=""><figcaption></figcaption></figure>
+
 ## Export Selected Clips
 
 Shows export dialog and launches Media Encoder render job for each selected clip with specified settings.
