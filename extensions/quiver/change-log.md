@@ -23,6 +23,25 @@ layout:
 
 # Change log
 
+### 1.7.0 — 2026-11-20
+
+#### New
+
+* "New sequence from selection" - select clips on a timeline and create a sequence from them. (Also Spell Book shortcut)
+* Drag and drop items from the Quiver manager onto a timeline
+* Generate previews for MOGRT items that don't have them
+* "Fit custom icons to preview tile" option in Settings
+* AIFF file support
+* Improved speed of preview generation
+
+#### Fixed
+
+* Quiver didn't use Premiere still duration for stills
+* Audio preview didn't account for Volume setting
+* When items were dragged outside of the main panel, a preview got stuck in autoplay
+
+***
+
 ### 1.6.0 — 2026-10-23
 
 #### New

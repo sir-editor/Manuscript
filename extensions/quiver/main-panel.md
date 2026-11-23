@@ -40,9 +40,7 @@ There are multiple ways to add items to Quiver:
 
 * through context menu (right click)
 
-<figure><img src="../../.gitbook/assets/Quiver_add_item_context (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Quiver_add_item_context (2).png" alt=""><figcaption></figcaption></figure>
 
 * with **plus button** at the bottom of the panel
 * drag and drop from a file manager or from Project panel
@@ -55,6 +53,8 @@ Depending on the import mode [setting](settings.md), files will be copied to Qui
 To toggle between import mode, hold `opt/alt` key during drag and drop.
 {% endhint %}
 
+
+
 ## Add clips to a timeline
 
 It is possible to add Quiver item to a timeline with:
@@ -62,12 +62,21 @@ It is possible to add Quiver item to a timeline with:
 * double click on Quiver item in main panel
 * single click on Quiver button in a [toolbar](toolbars.md)
 * a shortcut or control surface button assigned to Quiver item in [Spell Book](<../spell-book/README (1).md>)
+* drag and drop item to a timeline
 
-<figure><img src="../../.gitbook/assets/Quiver_add_clips (3).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Quiver_drag_n_drop (1).gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 It is possible to add clips to the timeline during live playback.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/Quiver_add_clips (3).gif" alt=""><figcaption></figcaption></figure>
+
+### Special item
+
+When special item is added to a timeline, it will use sequences settings (dimensions, frame rate, pixel aspect ratio).
+
+If special item with current sequence settings exists it will be used again, if it doesn't it will be created in project panel and added to a timeline.
 
 ***
 

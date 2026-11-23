@@ -17,11 +17,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Sequence item (group of clips)
 
-### Create sequence item
+## Create sequence item
 
 Create a sequence with the context menu (**New sequence**, Shift+S) inside a quiver folder.
 
@@ -29,7 +31,17 @@ Create a sequence with the context menu (**New sequence**, Shift+S) inside a qui
 
 You can also import an existing sequence by dragging it from the Project panel onto the Quiver panel.
 
-### Edit a sequence
+### New sequence from selection
+
+Select clips on a timeline, move playhead to the place where start marker for sequence should be created and choose "New sequence from selection" or use [Spell Book shortcut](spell-book-shortcuts.md).
+
+<div><figure><img src="../../.gitbook/assets/Quiver_new_seq_from_selection.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Quiver_new_seq_from_selection.gif" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+If playhead is beyond start/end of selection, start marker won't be created.
+{% endhint %}
+
+## Edit a sequence
 
 Each sequence item is a Premiere project. To edit it, right-click and choose **Edit…** or press **Shift+E**.
 
@@ -44,25 +56,25 @@ To quickly open and close sequence projects, add a Premiere shortcut to close th
 
 There is no need to align your clips with the start or end of the placeholder clips — their start point is ignored because the track is locked. Leave a bit of padding at the start and end of placeholders for nicer sequence previews.
 
-### Add to timeline
+## Add to timeline
 
 Clips in a sequence are added via copy-paste. If you want clips grouped on the timeline, group them inside the sequence project itself.
 
 <figure><img src="../../.gitbook/assets/Quiver_add_sequence.gif" alt=""><figcaption></figcaption></figure>
 
-### Sequence defaults
+## Sequence defaults
 
 New sequences use **Full HD (1920×1080)** and **25 fps** by default. Change these in [Settings](settings.md).
 
-### Preview placeholders
+## Preview placeholders
 
 Placeholder images for sequence previews can be customized in Settings. After changing placeholders, right-click a sequence and choose **Generate preview** or **Refresh preview**.
 
-### Copy media to Quiver folder
+## Copy media to Quiver folder
 
 For portable sequence items, right-click a sequence and choose **Copy media to Quiver folder**. This copies sequence media into the Quiver data folder so the item works when exported or moved.
 
-### Addition options
+## Additional options
 
 Right-click a sequence item to adjust addition settings such as method, target track, and label.\
 See [Quiver items](main-panel.md#quiver-items).

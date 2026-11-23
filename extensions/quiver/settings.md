@@ -74,8 +74,9 @@ Default settings for newly created sequence items.
 
 ## Preview
 
-Images used for sequence item preview generation.
+Images used for sequence item preview generation and preview settings for main panel
 
+* **Fit custom icons to preview tile** — custom icons will fit preview tile if enabled
 * **Placeholder A** and **Placeholder B** — custom images for preview placeholders
 * **Disable placeholder images** — use solid placeholders instead
 * **Restore defaults** — reset placeholder images to defaults
